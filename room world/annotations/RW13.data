@@ -1,0 +1,97 @@
+deep plate:touching:floor
+red book 1:next to:Rocking Chair
+brown chair:next to:Sofa
+cardbox 1:under:red book 1
+TV:on:Long Table
+blue chair 2:in between:blue chair 1:brown chair
+cardbox 2:to the right of:Long Table
+Long Table:in between:red chair 2:cardbox 2
+picture:above:desk
+apple:next to:cardbox 2
+cardbox 1:next to:east wall
+Coffee Table: in between:bookshelf:Rocking Chair
+purple book 2:near:cardbox 2
+TV:near:Sofa
+yellow book 2:in between:red book 2:lamp
+red chair 1:next to:west wall
+blue chair 1:near:Sofa
+apple:near:Sofa
+trash can:next to:red chair 1
+brown chair:next to:deep plate
+yellow book 1:on:bookshelf
+purple book 2:next to:yellow book 1
+Long Table:near:picture
+red book 2:next to:red chair 2
+trash can:in between:red chair 1:desk
+Sofa:in between:red chair 1:Coffee Table
+purple book 2:to the right of:TV
+TV: in between:desk:bookshelf
+Coffee Table:to the right of:Sofa
+Rocking Chair:touching:floor
+blue chair 2:next to:blue chair 1
+blue book:on:blue chair 2
+bookshelf:next to:east wall
+bookshelf:near:north wall
+cardbox 2:in between:Long Table:bookshelf
+red book 2:near:picture
+lamp:near:trash can
+apple:touching:floor
+picture:touching:north wall
+TV:near:picture
+blue book:near:west wall
+apple:next to:east wall
+trash can:next to:Sofa
+Sofa:near:west wall
+cardbox 1:touching:floor
+apple:in between:Coffee Table:Long Table
+yellow book 2:next to:lamp
+cardbox 2:next to:north wall
+picture:next to:west wall
+desk:near:red chair 1
+
+purple book 2:not near:blue chair 1
+Rocking Chair:not near:picture
+Sofa:not touching:west wall
+Coffee Table:not touching:east wall
+desk:not next to:blue chair 1
+brown chair:not next to:Coffee Table
+cardbox 2:not next to:blue book
+TV:not touching:north wall
+brown chair:not under:desk
+deep plate:not on:Sofa
+blue chair 1:not touching:blue chair 2
+lamp:not in between:TV:cardbox 2
+desk:not over:picture
+Sofa:not in between:red book 1:Rocking Chair
+lamp:not touching:picture
+blue book:not in between:Sofa:Coffee Table
+blue book:not near:purple book 2
+bookshelf:not touching:ceiling
+cardbox 2:not on:bookshelf
+red chair 1:not next to:Rocking Chair
+desk:not to the right of:apple
+Coffee Table:not next to:picture
+TV:not on:cardbox 2
+trash can:not touching:brown chair
+Coffee Table:not over:red book 1
+TV:not in:bookshelf
+blue book:not in:desk
+yellow book 2:not in between:red chair 1:blue chair 1
+picture:not on:ceiling
+deep plate:not next to:bookshelf
+purple book 2:not in between:Coffee Table:red book 1
+yellow book 1:not on:floor
+Rocking Chair:not next to:north wall
+trash can:not touching:TV
+blue book:not next to:TV
+red book 1:not under:TV
+desk:not touching:picture
+TV:not on:picture
+apple:not touching:Sofa
+Long Table:not over:bookshelf
+red book 1:not touching:floor
+purple book 2:not next to:purple book 1
+lamp:not in between:Sofa:Coffee Table
+TV:not on:ceiling
+bookshelf:not next to:deep plate
+Coffee Table:not in between:blue chair 1:trash can
