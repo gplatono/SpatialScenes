@@ -1,0 +1,41 @@
+Ceiling Light 1.001:to the left of:Ceiling Light 1.002
+Ceiling Light 1.002:to the right of:Ceiling Light 1.001
+Banana:on:blue_book.001
+Banana.001:in:Bookshelf
+bed1:below:Ceiling Light 1.001
+blue_book:between:Banana.001:blue_book.003
+blue_book.002:in:Bookshelf
+blue_book.003:in:Bookshelf
+blue_book.004:in:Bookshelf
+blue_book.005:in:Bookshelf
+blue_book.006:in:Bookshelf
+blue_book.007:in:Bookshelf
+blue_book.008:in:Bookshelf
+blue_book.009:in:Bookshelf
+blue_book.010:in:Bookshelf
+blue_book.011:in:Bookshelf
+blue_book.012:in:Bookshelf
+blue_book.013:in:Bookshelf
+blue_book.014:in:Bookshelf
+blue_book.015:in:Bookshelf
+blue_book.016:in:Bookshelf
+blue_book.017:in:Bookshelf
+blue_book.018:in:Bookshelf
+blue_book.019:in:Bookshelf
+blue_book.020:in:Bookshelf
+blue_book.021:in:Bookshelf
+blue_book.022:in:Bookshelf
+blue_book.023:in:Bookshelf
+blue_book.024:in:Bookshelf
+blue_book.026:in:Bookshelf
+blue_book.027:in:Bookshelf
+Bookshelf:next to:North Wall
+Ceiling Light.001:above:Human
+Ceiling Light.001:above:bed1
+Human:in:bed1
+Sofa:next to:East Wall
+Sofa.001:next to:West Wall
+Table:next to:Human
+Table:next to:bed1
+Human:next to:Table
+bed1:next to:Table

@@ -1,0 +1,17 @@
+Ceiling Light 1.001:to the left of:Ceiling Light 1.002
+Ceiling Light 1.002:to the right of:Ceiling Light 1.001
+Banana:under:BigTree.001
+Banana.001:between:BigTree:BigTree.001
+Banana.002:under:Table
+Banana.003:on:LongTable
+BigTree:to the left of:Poster
+BigTree.001:next to:East Wall
+Chair:between:LongTable:BigTree
+chair 1:behind:Table
+Human.001:in:chair 1
+Human.002:in:Chair
+Laptop:on:Table
+LongTable:next to:Table
+picture1:on:North Wall
+Poster:on:East Wall
+Table:next to:LongTable

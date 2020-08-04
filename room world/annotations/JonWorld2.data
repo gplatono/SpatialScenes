@@ -1,0 +1,14 @@
+Banana:under:SmallTree
+Banana.001:under:Sofa
+Banana.002:under:Table
+Ceiling Light 1.001:to the left of:Ceiling Light 1.002
+Ceiling Light 1.002:to the right of:Ceiling Light 1.001
+Human:on:Sofa
+Laptop:on:Table
+picture1:on:North Wall
+Poster:on:East Wall
+SmallTree:to the right of:Sofa
+SmallTree.001:to the left of:Sofa
+Sofa:between:SmallTree:SmallTree.001
+Table:in front of:Human
+TV 1:on:West Wall

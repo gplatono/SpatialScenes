@@ -1,0 +1,19 @@
+Banana:on:Table
+Banana.001:touching:Human
+Banana.001:above:Table
+Ceiling Light 1:between:Ceiling Light 1.001:Ceiling Light 1.002
+Ceiling Light 1.001:to the left of:Ceiling Light 1
+Ceiling Light 1.001:to the left of:Ceiling Light 1.002
+Ceiling Light 1.002:to the right of:Ceiling Light 1
+Ceiling Light 1.002:to the right of:Ceiling Light 1.001
+Chair:next to:Table
+Chair.001:next to:Table
+Chair.004:next to:Table
+Human:in:Chair
+Human:at:Table
+RockingChair:next to:North Wall
+RockingChair:next to:East Wall
+Rose_flower:in:Vase
+Vase:on:Table
+Rose_flower:under:Ceiling Light 1
+Vase:under:Ceiling Light 1
