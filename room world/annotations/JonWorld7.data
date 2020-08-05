@@ -1,0 +1,38 @@
+Ceiling Light 1:between:Ceiling Light 1.001:Ceiling Light 1.002
+Ceiling Light 1.001:to the left of:Ceiling Light 1.002
+Ceiling Light 1.002:to the right of:Ceiling Light 1.001
+Ceiling Light 1.001:to the left of:Ceiling Light 1
+Ceiling Light 1.002:to the right of:Ceiling Light 1
+Apple:on:deep_plate1
+Apple:under:Umbrella
+Aquarium:on:Table
+Black Pencil:on:cardbox
+Black Pencil:under:Umbrella
+Block 2:between:Cat:Block 4
+Block 4:between:Block 2:Block 6
+Block 6:between:Block 4:Block 10
+Block 10:to the right of:Block 6
+Cat:under:Table
+Block 2:under:Table
+Block 4:under:Table
+Block 6:under:Table
+Block 10:under:Table
+deep_plate1:under:Umbrella
+deep_plate1:on:cardbox
+purple_book:on:cardbox
+red_book:on:yellow_book
+yellow_book:on:purple_book
+small_plate1:on:red_book
+SmallTree:on:Table
+SmallTree:next to:Aquarium
+Aquarium:next to:SmallTree
+TV 1:touching:cardbox
+Umbrella:on:cardbox
+Umbrella:over:Tv 1
+Umbrella:over:red_book
+Umbrella:over:yellow_book
+Umbrella:over:purple_book
+Umbrella:over:deep_plate1
+Umbrella:over:small_plate1
+Umbrella:over:Apple
+Umbrella:over:Black Pencil
