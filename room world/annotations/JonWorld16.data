@@ -1,0 +1,39 @@
+Ceiling Light 1:between:Ceiling Light 1.001:Ceiling Light 1.002
+Ceiling Light 1.001:to the left of:Ceiling Light 1.002
+Ceiling Light 1.002:to the right of:Ceiling Light 1.001
+Ceiling Light 1.001:to the left of:Ceiling Light 1
+Ceiling Light 1.002:to the right of:Ceiling Light 1
+Apple:on:deep_plate1
+deep_plate1:next to:cardbox
+Aquarium:on:Floor
+Aquarium:under:Desk
+Black Pencil:on:Table
+Block 2:to the left of:Block 4
+Block 4:between:Block 2:Block 6
+Block 6:between:Block 4:Block 10
+Block 10:to the right of:Block 6
+Cat:on:Desk
+bowl1:on:Recycle_Bin
+Block 2:under:Desk
+Block 2:behind:Aquarium
+Block 4:under:Desk
+Block 6:under:Desk
+Block 10:under:Desk
+Block 4:behind:Aquarium
+Block 6:behind:Aquarium
+Block 10:behind:Aquarium
+deep_plate1:on:Desk
+purple_book:on:cardbox
+red_book:on:purple_book
+yellow_book:on:cardbox
+small_plate1:on:BigTree
+BigTree:on:Laptop
+TV 1:touching:Human
+TV 1:on:Sofa
+Note:on:Table
+Human:in front of:Sofa
+cardbox:on:Desk
+Recycle_Bin:under:bowl1
+Umbrella:on:Desk
+Laptop:on:Table
+Sofa:next to:East Wall
