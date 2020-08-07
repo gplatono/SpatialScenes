@@ -1,0 +1,36 @@
+Ceiling Light 1:between:Ceiling Light 1.001:Ceiling Light 1.002
+Ceiling Light 1.001:in front of:Ceiling Light 1.002
+Ceiling Light 1.002:behind:Ceiling Light 1.001
+Ceiling Light 1.001:in front of:Ceiling Light 1
+Ceiling Light 1.002:behind:Ceiling Light 1
+Cat:under:LongTable
+Counter:to the right of:LongTable
+Fridge:next to:Counter
+Fridge:to the right of:KnifeBlock
+Human:at:Counter
+KnifeBlock:on:Counter
+KnifeBlock:between:Microwave:Fridge
+LongTable:to the left of:Counter
+Microwave:on:Counter
+Microwave:to the left of:KnifeBlock
+Mixer:on:Counter
+Mixer:to the right of:Human
+PlainChair:at:LongTable
+PlainChair.001:at:LongTable
+PlainChair.002:at:LongTable
+PlainChair.003:at:LongTable
+Rose_flower:in:Vase
+Vase:on:LongTable
+Apple:to the left of:Apple.001
+Apple.001:to the right of:Apple
+Apple:on:Counter
+Apple.001:on:Counter
+Aquarium:on:Table
+Banana:on:PlainChair.001
+BigTree:to the right of:Table
+Human.001:in:Seat.001
+Human.002:in:Seat
+Human.003:in:Seat.003
+Human.004:in:Seat.002
+Lamp:next to:East Wall
+Table:next to:North Wall
