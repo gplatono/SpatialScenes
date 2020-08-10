@@ -4,6 +4,7 @@ Ceiling Light 1.002:behind:Ceiling Light 1.001
 Ceiling Light 1.001:in front of:Ceiling Light 1
 Ceiling Light 1.002:behind:Ceiling Light 1
 Cat:under:LongTable
+Cat:between:Human.004:Human.001
 Counter:to the right of:LongTable
 Fridge:next to:Counter
 Fridge:to the right of:KnifeBlock
@@ -17,10 +18,12 @@ Mixer:on:Counter
 Mixer:to the right of:Human
 PlainChair:at:LongTable
 PlainChair.001:at:LongTable
+PlainChair.001:between:Counter:LongTable
 PlainChair.002:at:LongTable
 PlainChair.003:at:LongTable
 Rose_flower:in:Vase
 Vase:on:LongTable
+Vase:between:Human.002:Human.001
 Apple:to the left of:Apple.001
 Apple.001:to the right of:Apple
 Apple:on:Counter
@@ -37,3 +40,52 @@ Bird:on:Human.004
 Birdcage:under:Table
 Human.005:at:Counter
 Human.005:touching:Microwave
+Microwave:between:Human.005:Lamp
+Bird:above:PlainChair.002
+Human:next to:Human.005
+Human:near:Fridge
+Human.005:near:Fridge
+Human:near:Human.001
+Human.001:near:Human
+Human.001:near:Human.004
+
+Human.004:not near:BigTree
+Human.002:not near:Human.005
+Human.004:not near:Lamp
+Birdcage:not below:Table
+Bird:not above:Human.004
+Lamp:not next to:Counter
+West Wall:not near:East Wall
+Floor: not near:Ceiling
+Human:not below:Ceiling Light 1
+Human:not under:Ceiling Light 1
+Vase:not to the left of:Human.001
+Vase:not to the right of:Human.002
+Banana:not over:PlainChair.001
+Human.004:not in front of:Vase
+Human.005:not to the right of:Human
+Human:not to the left of:Human.005
+Human.005:not to the left of:Human
+Human:not to the right of:Human.005
+Counter:not below:Human
+Counter:not below:Human.005
+Counter:not below:Human.001
+Counter:not below:Human.004
+Counter:not below:Human.002
+Counter:not above:Human.005
+Counter:not above:Human.001
+Counter:not above:Human.004
+Counter:not above:Human.002
+Counter:not under:Human
+Counter:not under:Human.005
+Counter:not under:Human.001
+Counter:not under:Human.004
+Counter:not under:Human.002
+Counter:not at:Human.005
+Counter:not at:Human.001
+Counter:not at:Human.004
+Counter:not at:Human.002
+BigTree:not at:Table
+Vase:not at:LongTable
+Banana:not at:Table
+Banana:not at:PlainChair.001
