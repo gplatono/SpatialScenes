@@ -30,6 +30,7 @@ small_plate1:on:Human
 SmallTree:on:Desk
 SmallTree:to the left of:Human
 TV 1:touching:Human
+TV 1:above:Desk
 Note:on:Desk
 Note:under:Umbrella
 Note:next to:Apple
@@ -42,3 +43,49 @@ Umbrella:over:Apple
 Umbrella:over:deep_plate1
 Umbrella:over:Note
 Laptop:on:Table
+
+Human:not at:Desk
+Laptop:not at:Table
+Cat:not on:Desk
+Cat:not above:Desk
+TV 1:not in:Human
+Apple:not in:Umbrella
+deep_plate1:not in:Umbrella
+Apple:not below:Umbrella
+deep_plate1:not below:Umbrella
+Desk:not near:East Wall
+Aquarium:not below:Desk
+Block 2:not below:Umbrella
+Block 4:not below:Umbrella
+Block 6:not below:Umbrella
+Block 10:not below:Umbrella
+Laptop:not below:red_book
+Laptop:not below:yellow_book
+Laptop:not below:purple_book
+small_plate1:not above:Ceiling Light 1
+small_plate1:not above:Ceiling Light 1.001
+small_plate1:not above:Ceiling Light 1.002
+TV 1:not above:Umbrella
+cardbox:not below:Umbrella
+Desk:not below:Table
+Desk:not above:Table
+Table:not below:Desk
+Table:not above:Desk
+Cat:not at:Desk
+SmallTree:not at:Desk
+Note:not in:Desk
+Apple:not on:Desk
+TV 1:not behind:Human
+Umbrella:not behind:Human
+Note:not behind:Human
+cardbox:not near:Apple
+Human:not behind:Cat
+Cat:not beside:Human
+bowl1:not beside:Human
+bowl1:not beside:Cat
+Block 2:not beside:Block 6
+Block 6:not beside:Block 2
+Block 4:not beside:Block 10
+Block 10:not beside:Block 4
+TV 1:not beside:Umbrella
+Umbrella:not beside:TV 1
