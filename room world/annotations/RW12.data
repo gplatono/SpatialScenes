@@ -51,7 +51,7 @@ picture:on:north wall
 
 trash can:not over:purple book 1
 red book 1:not near:red book 2
-blue book 1:not near:bookshelf
+blue book:not near:bookshelf
 red chair 2:not in between:red chair 1:Coffee Table
 brown chair:not over:apple
 green book:not touching:north wall
@@ -84,7 +84,7 @@ blue book:not on:floor
 purple book 2:not touching:floor
 blue chair 1:not over:desk
 cardbox 1:not next to:laptop
-ceiling:not under:bookshlelf
+ceiling:not under:bookshelf
 apple:not touching:north wall
 yellow book 2:not in:trash can
 lamp:not touching:picture

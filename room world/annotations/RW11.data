@@ -1,5 +1,5 @@
 bowl:in between:yellow book 2:note
-blue book:next to:blue chair
+blue book:next to:blue chair 2
 trash can:next to:desk 1
 laptop:next to:red book 1
 desk 1:in between:red chair 2:brown chair
@@ -93,7 +93,7 @@ red chair 1:not on:apple
 table 2:not next to:east wall
 trash can:not on:deep plate
 floor:not on:ceiling
-picture:not in between:yellow book:red book 2
+picture:not in between:yellow book 2:red book 2
 red chair 1:not next to:deep plate
 blue chair 2:not in between:apple:west wall
 cardbox 2:not on:table 2
