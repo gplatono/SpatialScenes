@@ -6,7 +6,7 @@ Ceiling Fan:to the right of:Ceiling Light 1
 Blue Chair 2:to the right of:Cardbox 2
 Blue Chair 2:to the right of:Table
 Yellow Book 2:to the right of:Laptop
-BookShelf 2:to the right of:Picture 1y
+BookShelf 2:to the right of:Picture 1
 Picture 1:to the right of:Bookshelf 1
 Picture 1:to the left of:Bookshelf 2
 Yellow Book 2:to the left of:Blue Chair 2
@@ -16,5 +16,32 @@ Ceiling Fan:to the left of:Ceiling Light 2
 Ceiling Light 1:to the left of:Ceiling Light 2
 Laptop:to the left of:Yellow Book 2
 Table:to the left of:Blue Chair 2
-Bookshelf 1:to the left of:Pciture 1
-Carbox 2:to the left of:Blue Chair 2
+Bookshelf 1:to the left of:Picture 1
+Cardbox 2:to the left of:Blue Chair 2
+Table:to the left of:East Wall
+Table:to the right of:West Wall
+
+Cardbox 2:not to the left of:Blue Chair 1
+Cardbox 2:not to the right of:Blue Chair 2
+Cardbox 2:not to the right of:Table
+Cardbox 2:not to the left of:Picture 1
+Cardbox 2:not to the right of:Picture 2
+Cardbox 1:not to the right of:Blue Chair 1
+Cardbox 1:not to the left of:Blue Chair 1
+Cardbox 1:not to the right of:Blue Chair 2
+Cardbox 1:not to the right of:Picture 1
+Cardbox 1:not to the right of:Picture 2
+Table:not to the right of:Floor
+Table:not to the left of:Floor
+Table:not to the right of:North Wall
+Laptop:not to the left of:Picture 1
+Laptop:not to the right of:East Wall
+Laptop:not to the right of:Table
+Laptop:not to the right of:Cardbox 1
+Laptop:not to the right of:Cardbox 2
+Green Book 1:not to the right of:Laptop
+Green Book 1:not to the left of:West Wall
+Green Book 1:not to the right of:East Wall
+Green Book 1:not to the right of:Floor
+Green Book 1:not to the right of:Bookshelf 2
+Bookshelf 2:not to the left of:Green Book 1
