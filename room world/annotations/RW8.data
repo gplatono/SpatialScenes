@@ -42,7 +42,7 @@ bookshelf 1:next to:bed 1
 picture:next to:bookshelf 1
 brown chair:on:floor
 Desk 2:in between:Trash Can:bed 2
-bow:near:picture
+bowl:near:picture
 blue chair:near:red chair
 Ceiling Light 1:next to:east wall
 Laptop:next to:east wall
@@ -73,11 +73,11 @@ purple book:not in between:Cardbox 1:bookshelf 2
 east wall:not near:blue book
 picture:not on:ceiling
 Ceiling Light 1:not on:ceiling
-apple:not in between:red chair:yellow book
+apple1:not in between:red chair:yellow book
 bowl:not next to:note
-brown chair:not next to:apple
+brown chair:not next to:apple1
 Trash Can:not on:blue chair
-apple:not on:west wall
+apple1:not on:west wall
 bowl:not on:red chair
 banana:not in between:green book:purple book
 note:not in between:Cardbox 1:bookshelf 2
