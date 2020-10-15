@@ -1,5 +1,7 @@
-bed1:near:West Wall:North Wall
-bed2:near:East Wall:North Wall
+bed1:near:West Wall
+bed1:near:North Wall
+bed2:near:East Wall
+bed2:near:North Wall
 Sofa:near:North Wall
 Sofa:between:bed1:bed2
 TV:near:East Wall
@@ -11,7 +13,7 @@ Laptop 2:on:Desk 2
 Banana 2:on:Desk 2
 Banana 1:in:Bowl
 Bowl:on:Desk 1
-table:between:brown chair1: brown chair2
+table:between:brown chair1:brown chair2
 Trash Can:between:Desk 2:Bookshelf 1
 Note 1:in front of:Laptop 1
 Note 2:in front of:Blue Chair 2

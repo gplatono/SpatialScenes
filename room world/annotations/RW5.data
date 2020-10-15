@@ -33,7 +33,7 @@ picture:near:ceiling
 lamp1:near:north_wall
 red_chair:between:blue_chair:brown chair
 table2:next to:table
-blue chair:to the left of:tv_table
+blue_chair:to the left of:tv_table
 bed 1:next to:red_book
 bed 1:to the right of:apple
 apple:near:gray book
@@ -67,13 +67,13 @@ red_chair:not in between:deep_plate:gray book
 deep_plate:not in between:red_chair:tv_table
 yellow_book:not on:west_wall
 red_book:not near:tv_table
-purple_book:not near:red_book
+purple book:not near:red_book
 picture:not below:deep_plate
 table:not on:red_chair
-lamp1:not in between:green_book:purple_book
+lamp1:not in between:green_book:purple book
 bed 1:not on:red_book
 gray book:not on:table
-blue_book:not in between:red_chair:blue:chair
+blue_book:not in between:red_chair:blue_chair
 yellow_book:not on:table2
 table2:not in between:bed 2:tv_table
 picture:not on:ceiling
@@ -81,5 +81,5 @@ apple:not in between:yellow_book:tv_table
 deep_plate:not in between:table2:lamp1
 brown chair:not in between:bed 1:bed 2
 table:not on:picture
-yellow_book:not on:purple_book
+yellow_book:not on:purple book
 picture:not below:red_book

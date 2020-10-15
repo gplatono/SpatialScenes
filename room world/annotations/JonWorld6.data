@@ -31,8 +31,8 @@ blue_book.024:in:Bookshelf
 blue_book.026:in:Bookshelf
 blue_book.027:in:Bookshelf
 Bookshelf:next to:North Wall
-Ceiling Light.001:above:Human
-Ceiling Light.001:above:bed1
+Ceiling Light 1.001:above:Human
+Ceiling Light 1.001:above:bed1
 Human:on:bed1
 Human.001:on:Sofa.001
 Sofa:next to:East Wall
