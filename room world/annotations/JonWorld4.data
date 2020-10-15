@@ -21,7 +21,7 @@ Human.002:next to:Banana.003
 BigTree:next to:Banana.003
 Human.002:above:Floor
 chair 1:behind:Table
-Human.001:in:chair 1
+Human.003:in:chair 1
 Human.002:on:LongTable
 Laptop:on:LongTable
 LongTable:next to:Table
