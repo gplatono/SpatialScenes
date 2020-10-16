@@ -21,16 +21,14 @@ PlainChair.002:at:LongTable
 PlainChair.003:at:LongTable
 Rose_flower:in:Vase
 Vase:on:LongTable
-Apple:to the left of:Apple.001
-Apple.001:to the right of:Apple
+Apple:to the left of:Fridge
+Apple:to the right of:Human.001
 Apple:on:Counter
-Apple.001:on:Counter
 Aquarium:on:Table
 Banana:on:PlainChair.001
-BigTree:to the right of:Table
-Human.001:in:Seat.001
-Human.002:in:Seat
-Human.003:in:Seat.003
-Human.004:in:Seat.002
+Human.001:in:PlainChair.001
+Human.002:in:PlainChair
+Human.003:in:PlainChair.003
+Human.004:in:PlainChair.002
 Lamp:next to:East Wall
 Table:next to:North Wall

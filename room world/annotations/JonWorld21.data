@@ -31,9 +31,9 @@ Apple.001:on:Counter
 Aquarium:on:Table
 Banana:on:PlainChair.001
 BigTree:to the right of:Table
-Human.001:in:Seat.001
-Human.002:in:Seat
-Human.004:in:Seat.002
+Human.001:in:PlainChair.001
+Human.002:in:PlainChair
+Human.004:in:PlainChair.002
 Lamp:next to:East Wall
 Table:next to:North Wall
 Bird:on:Human.004
