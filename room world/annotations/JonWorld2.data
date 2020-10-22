@@ -1,14 +1,101 @@
 Banana:under:SmallTree
+Banana:to the left of:Sofa
 Banana.001:under:Sofa
+Banana.001:behind:Banana.002
 Banana.002:under:Table
 Ceiling Light 1.001:to the left of:Ceiling Light 1.002
 Ceiling Light 1.002:to the right of:Ceiling Light 1.001
 Human:on:Sofa
+Human:behind:Table
+Human:under:Ceiling Light 1.002
 Laptop:on:Table
 picture1:on:North Wall
+North Wall:behind:picture1
 Poster:on:East Wall
+Poster:behind:SmallTree.001
+Poster:behind:Sofa
 SmallTree:to the right of:Sofa
+SmallTree:to the right of:Human
+SmallTree:in front of:East Wall
 SmallTree.001:to the left of:Sofa
+SmallTree.001:to the left of:Human
+SmallTree.001:in front of:East Wall
 Sofa:between:SmallTree:SmallTree.001
+Sofa:to the left of:SmallTree
+Sofa:to the right of:SmallTree.001
+Sofa:touching:East Wall
 Table:in front of:Human
 TV 1:on:West Wall
+East Wall:touching:North Wall
+West Wall:touching:North Wall
+North Wall:touching:East Wall
+North Wall:touching:West Wall
+East Wall:to the right of:West Wall
+West Wall:to the left of:East Wall
+East Wall:touching:Floor
+West Wall:touching:Floor
+North Wall:touching:Floor
+East Wall:touching:Ceiling
+West Wall:touching:Ceiling
+North Wall:touching:Ceiling
+Ceiling:above:Floor
+picture1:to the left of:SmallTree.001
+SmallTree.001:to the right of:picture1
+Banana.001:to the left of:SmallTree
+Banana.001:to the right of:SmallTree.001
+Sofa:behind:Table
+Table:in front of:Sofa
+Banana:not to the right of:Sofa
+Banana.001:not behind:Human
+Banana.001:not to the right of:Sofa
+Banana.002:not behind:Human
+Banana:not behind:Table
+Human:not touching:SmallTree
+Human:not touching:SmallTree.001
+TV 1:not near:SmallTree
+East Wall:not touching:West Wall
+West Wall:not touching:East Wall
+TV 1:not to the left of:SmallTree
+TV 1:not to the left of:SmallTree.001
+TV 1:not to the right of:SmallTree
+TV 1:not to the right of:SmallTree.001
+TV 1:not in front of:Table
+Table:not behind:TV 1
+Poster:not to the right of:picture1
+picture1:not to the left of:Poster
+Banana.001:not behind:Table
+Banana.001:not behind:TV 1
+Banana.001:not to the left of:SmallTree.001
+Banana.001:not to the right of:SmallTree
+Sofa:not in front of:Table
+Table:not behind:Sofa
+Human:not above:Floor
+Table:not above:Floor
+Banana:not above:Floor
+Banana.001:not above:Floor
+Banana.002:not above:Floor
+East Wall:not above:Floor
+North Wall:not above:Floor
+West Wall:not above:Floor
+SmallTree:not above:Floor
+SmallTree.001:not above:Floor
+Sofa:not above:Floor
+Laptop:not above:Floor
+picture1:not above:Floor
+Poster:not above:Floor
+TV 1:not above:Floor
+Human:not below:Ceiling
+Table:not below:Ceiling
+Banana:not below:Ceiling
+Banana.001:not below:Ceiling
+Banana.002:not below:Ceiling
+East Wall:not below:Ceiling
+North Wall:not below:Ceiling
+West Wall:not below:Ceiling
+SmallTree:not below:Ceiling
+SmallTree.001:not below:Ceiling
+Sofa:not below:Ceiling
+Laptop:not below:Ceiling
+picture1:not below:Ceiling
+Poster:not below:Ceiling
+TV 1:not below:Ceiling
