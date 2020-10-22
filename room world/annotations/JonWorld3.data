@@ -1,17 +1,98 @@
 Ceiling Light 1.001:to the left of:Ceiling Light 1.002
+Ceiling Light 1.001:over:Laptop
+Ceiling Light 1.001:touching:Ceiling
+Ceiling Light 1.002:touching:Ceiling
 Ceiling Light 1.002:to the right of:Ceiling Light 1.001
 Banana:under:BigTree.001
+Banana:to the right of:Banana.001
+Banana:to the left of:East Wall
+Banana.001:to the left of:Banana
 Banana.001:between:BigTree:BigTree.001
+Banana.001:to the left of:East Wall
 Banana.002:under:Table
+Banana.002:to the right of:West Wall
 Banana.003:on:LongTable
 BigTree:to the left of:Poster
-BigTree.001:next to:East Wall
+BigTree:to the left of:BigTree.001
+BigTree:in front of:North Wall
+BigTree:to the left of:East Wall
+BigTree.001:to the left of:East Wall
+BigTree.001:to the right of:BigTree
+BigTree.001:to the right of:Poster
+BigTree.001:in front of:Banana
 Chair:between:LongTable:BigTree
+Chair:touching:Human.002
+Chair:in front of:North Wall
+Chair:to the right of:chair 1
 chair 1:behind:Table
+chair 1:to the right of:West Wall
+chair 1:in front of:North Wall
+chair 1:to the left of:Chair
 Human.001:in:chair 1
+Human.001:next to:West Wall
+Human.001:to the left of:Human.002
+Human.002:to the right of:Human.001
 Human.002:in:Chair
+Human.002:at:LongTable
 Laptop:on:Table
-LongTable:next to:Table
+LongTable:to the right of:Table
+LongTable:between:West Wall:East Wall
+LongTable:near:Human.001
+LongTable:near:Human.002
 picture1:on:North Wall
 Poster:on:East Wall
-Table:next to:LongTable
+Table:to the left of:LongTable
+Table:in front of:chair 1
+Ceiling:above:Floor
+Ceiling Light 1.001:over:Floor
+Ceiling Light 1.002:over:Floor
+LongTable:to the left of:East Wall
+LongTable:to the right of:West Wall
+LongTable:between:Human.001:BigTree.001
+LongTable:not under:Banana
+LongTable:not under:Banana.001
+LongTable:not under:Banana.002
+LongTable:not under:Banana.003
+Banana:not in front of:Banana.001
+Banana.002:not supported by:Table
+Banana.002:not under:Laptop
+Banana.003:not in front of:Human.001
+Banana.003:not in front of:Human.002
+Laptop:not to the left of:LongTable
+Banana:not above:Floor
+Banana.001:not above:Floor
+Banana.002:not above:Floor
+Banana.003:not above:Floor
+BigTree:not above:Floor
+BigTree.001:not above:Floor
+Chair:not above:Floor
+chair 1:not above:Floor
+East Wall:not above:Floor
+Human.001:not above:Floor
+Human.002:not above:Floor
+Laptop:not above:Floor
+LongTable:not above:Floor
+North Wall:not above:Floor
+picture1:not above:Floor
+Poster:not above:Floor
+West Wall:not above:Floor
+Banana:not below:Ceiling
+Banana.001:not below:Ceiling
+Banana.002:not below:Ceiling
+Banana.003:not below:Ceiling
+BigTree:not below:Ceiling
+BigTree.001:not below:Ceiling
+Chair:not below:Ceiling
+chair 1:not below:Ceiling
+East Wall:not below:Ceiling
+Human.001:not below:Ceiling
+Human.002:not below:Ceiling
+Laptop:not below:Ceiling
+LongTable:not below:Ceiling
+North Wall:not below:Ceiling
+picture1:not below:Ceiling
+Poster:not below:Ceiling
+West Wall:not below:Ceiling
+Banana.001:not between:Banana:Banana.003
+Banana.003:not between:Banana:Banana.001
+Banana:not between:Banana.001:Banana.003
