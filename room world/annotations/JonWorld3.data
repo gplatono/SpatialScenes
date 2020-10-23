@@ -59,3 +59,23 @@ Banana.002:not under:Laptop
 Banana.003:not in front of:Human.001
 Banana.003:not in front of:Human.002
 Laptop:not to the left of:LongTable
+Banana:not below:Ceiling
+Banana.001:not below:Ceiling
+Banana.002:not below:Ceiling
+Banana.003:not below:Ceiling
+BigTree:not below:Ceiling
+BigTree.001:not below:Ceiling
+Chair:not below:Ceiling
+chair 1:not below:Ceiling
+East Wall:not below:Ceiling
+Human.001:not below:Ceiling
+Human.002:not below:Ceiling
+Laptop:not below:Ceiling
+LongTable:not below:Ceiling
+North Wall:not below:Ceiling
+picture1:not below:Ceiling
+Poster:not below:Ceiling
+West Wall:not below:Ceiling
+Banana.001:not between:Banana:Banana.003
+Banana.003:not between:Banana:Banana.001
+Banana:not between:Banana.001:Banana.003

@@ -20,7 +20,58 @@ Bookshelf 1:to the left of:Picture 1
 Cardbox 2:to the left of:Blue Chair 2
 Table:to the left of:East Wall
 Table:to the right of:West Wall
+Cardbox 2:touching:Table
+Laptop:touching:Table
+Yellow Book 2:touching:Table
+Table:touching:Cardbox 2
+Table:touching:Laptop
+Table:touching:Yellow Book 2
+Cardbox 1:touching:Blue Chair 1
+Blue Chair 1:touching:Cardbox 1
+Picture 1:touching:North Wall
+Picture 2:touching:East Wall
+Red Book 2:touching:Bookshelf 2
+Red Book 2:touching:Green Book 2
+Green Book 2:touching:Red Book 2
+Red Book 1:touching:Yellow Book 1
+Yellow Book 1:touching:Red Book 1
+Red Book 1:touching:Bookshelf 1
+Yellow Book 1:touching:Bookshelf 1
+Bookshelf 1:touching:Red Book 1
+Bookshelf 1:touching:Yellow Book 1
+Bookshelf 1:touching:Floor
+Bookshelf 1:touching:West Wall
+Ceiling Light 1:touching:Ceiling
+Ceiling Light 2:touching:Ceiling
+Bookshelf 1:touching:Green Book 1
+Green Book 1:touching:Bookshelf 1
 
+Cardbox 1:not touching:Cardbox 2
+Cardbox 1:not touching:Table
+Cardbox 1:not touching:Laptop
+Cardbox 1:not touching:Yellow Book 2
+Picture 1:not touching:East Wall
+Picture 1:not touching:West Wall
+Picture 2:not touching:North Wall
+Picture 2:not touching:West Wall
+Red Book 1:not touching:Bookshelf 2
+Yellow Book 1:not touching:Bookshelf 2
+Bookshelf 2:not touching:Red Book 1
+Bookshelf 2:not touching:Yellow Book 1
+Red Book 2:not touching:Bookshelf 1
+Yellow Book 2:not touching:Bookshelf 1
+Bookshelf 1:not touching:Red Book 2
+Bookshelf 1:not touching:Yellow Book 2
+Blue Chair 1:not touching:Table
+Blue Chair 2:not touching:Table
+Blue Chair 1:not touching:Bookshelf 1
+Blue Chair 2:not touching:Bookshelf 1
+Blue Chair 1:not touching:Bookshelf 2
+Blue Chair 2:not touching:Bookshelf 2
+Ceiling Light 1:not touching:Floor
+Ceiling Light 2:not touching:Floor
+Green Book 1:not touching:Bookshelf 2
+Green Book 1:not touching:Table
 Cardbox 2:not to the left of:Blue Chair 1
 Cardbox 2:not to the right of:Blue Chair 2
 Cardbox 2:not to the right of:Table
@@ -45,3 +96,77 @@ Green Book 1:not to the right of:East Wall
 Green Book 1:not to the right of:Floor
 Green Book 1:not to the right of:Bookshelf 2
 Bookshelf 2:not to the left of:Green Book 1
+Red Book 1:above:Green Book 1
+Red Book 1:not below:Green Book 1
+Green Book 1:not above:Red Book 1
+Green Book 1:below:Red Book 1
+Red Book 1:not above:Yellow Book 1
+Red Book 1:not below:Yellow Book 1
+Yellow Book 1:not above:Red Book 1
+Yellow Book 1:not below:Red Book 1
+Green Book 2:above:Red Book 2
+Red Book 2:below:Green Book 2
+Yellow Book 2:above:Cardbox 2
+Laptop:above:Cardbox 2
+Yellow Book 2:above:Floor
+Laptop:above:Floor
+Picture 1:above:Floor
+Picture 2:above:Floor
+Floor:below:Picture 1
+Floor:below:Picture 2
+Ceiling Light 1:below:Ceiling
+Ceiling Light 2:below:Ceiling
+Ceiling Light 1:not above:Ceiling
+Ceiling Light 2:not above:Ceiling
+Bookshelf 1:below:Ceiling
+Bookshelf 2:below:Ceiling
+Bookshelf 1:not above:Ceiling
+Bookshelf 2:not above:Ceiling
+Bookshelf 1:above:Floor
+Bookshelf 2:above:Floor
+Bookshelf 1:not below:Floor
+Bookshelf 2:not below:Floor
+Laptop:below:Ceiling Light 2
+Laptop:not above:Ceiling Light 2
+Ceiling Light 2:above:Laptop
+Ceiling Light 2:not below:Laptop
+Yellow Book 2:below:Ceiling Light 2
+Yellow Book 2:not above:Ceiling Light 2
+Ceiling Light 2:above:Yellow Book 2
+Ceiling Light 2:not below:Yellow Book 2
+Blue Chair 2:below:Ceiling Light 2
+Blue Chair 2:not above:Ceiling Light 2
+Ceiling Light 2:above:Blue Chair 2
+Ceiling Light 2:not below:Blue Chair 2
+Blue Chair 1:below:Ceiling Light 1
+Blue Chair 1:not above:Ceiling Light 1
+Ceiling Light 1:above:Blue Chair 1
+Ceiling Light 1:not below:Blue Chair 1
+Cardbox 1:below:Ceiling Light 1
+Cardbox 1:not above:Ceiling Light 1
+Ceiling Light 1:above:Cardbox 1
+Ceiling Light 1:not below:Cardbox 1
+Cardbox 2:below:Ceiling Fan
+Cardbox 2:not above:Ceiling Fan
+Ceiling Fan:above:Cardbox 2
+Ceiling Fan:not below:Cardbox 2
+Blue Chair 2:below:Picture 2
+Blue Chair 2:not above:Picture 2
+Picture 2:above:Blue Chair 2
+Picture 2:not below:Blue Chair 2
+Cardbox 1:not below:Floor
+Cardbox 1:above:Floor
+Floor:below:Cardbox 1
+Floor:not above:Cardbox 1
+Floor:below:Ceiling
+Floor:not above:Ceiling
+Ceiling:above:Floor
+Ceiling:not below:Floor
+Cardbox 2:below:Laptop
+Cardbox 2:not above:Laptop
+Laptop:above:Cardbox 2
+Laptop:not below:Cardbox 2
+Cardbox 2:below:Yellow Book 2
+Cardbox 2:not above:Yellow Book 2
+Yellow Book 2:above:Cardbox 2
+Yellow Book 2:not below:Cardbox 2
