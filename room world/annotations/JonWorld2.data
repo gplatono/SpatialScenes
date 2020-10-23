@@ -69,33 +69,3 @@ Banana.001:not to the left of:SmallTree.001
 Banana.001:not to the right of:SmallTree
 Sofa:not in front of:Table
 Table:not behind:Sofa
-Human:not above:Floor
-Table:not above:Floor
-Banana:not above:Floor
-Banana.001:not above:Floor
-Banana.002:not above:Floor
-East Wall:not above:Floor
-North Wall:not above:Floor
-West Wall:not above:Floor
-SmallTree:not above:Floor
-SmallTree.001:not above:Floor
-Sofa:not above:Floor
-Laptop:not above:Floor
-picture1:not above:Floor
-Poster:not above:Floor
-TV 1:not above:Floor
-Human:not below:Ceiling
-Table:not below:Ceiling
-Banana:not below:Ceiling
-Banana.001:not below:Ceiling
-Banana.002:not below:Ceiling
-East Wall:not below:Ceiling
-North Wall:not below:Ceiling
-West Wall:not below:Ceiling
-SmallTree:not below:Ceiling
-SmallTree.001:not below:Ceiling
-Sofa:not below:Ceiling
-Laptop:not below:Ceiling
-picture1:not below:Ceiling
-Poster:not below:Ceiling
-TV 1:not below:Ceiling
