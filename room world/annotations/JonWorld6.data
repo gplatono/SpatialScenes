@@ -44,3 +44,995 @@ bed1:next to:Table
 Fridge:next to:Sofa.001
 Aquarium:on:Fridge
 BigTree:between:bed1:Sofa
+blue_book:to the left of:blue_book.003
+blue_book:to the left of:blue_book.002
+blue_book.003:to the left of:blue_book.002
+blue_book.002:to the right of:blue_book.003
+blue_book.002:to the right of:blue_book
+blue_book.003:to the right of:blue_book
+blue_book.007:to the left of:blue_book.009
+blue_book.007:to the left of:blue_book.008
+blue_book.007:to the left of:blue_book.004
+blue_book.007:to the left of:blue_book.006
+blue_book.007:to the left of:blue_book.005
+blue_book.009:to the left of:blue_book.008
+blue_book.009:to the left of:blue_book.004
+blue_book.009:to the left of:blue_book.006
+blue_book.009:to the left of:blue_book.005
+blue_book.008:to the left of:blue_book.004
+blue_book.008:to the left of:blue_book.006
+blue_book.008:to the left of:blue_book.005
+blue_book.004:to the left of:blue_book.006
+blue_book.004:to the left of:blue_book.005
+blue_book.006:to the left of:blue_book.005
+blue_book.009:to the right of:blue_book.007
+blue_book.008:to the right of:blue_book.007
+blue_book.004:to the right of:blue_book.007
+blue_book.006:to the right of:blue_book.007
+blue_book.005:to the right of:blue_book.007
+blue_book.008:to the right of:blue_book.009
+blue_book.004:to the right of:blue_book.009
+blue_book.006:to the right of:blue_book.009
+blue_book.005:to the right of:blue_book.009
+blue_book.004:to the right of:blue_book.008
+blue_book.006:to the right of:blue_book.008
+blue_book.005:to the right of:blue_book.008
+blue_book.006:to the right of:blue_book.004
+blue_book.005:to the right of:blue_book.004
+blue_book.005:to the right of:blue_book.006
+blue_book.027:to the left of:blue_book.026
+blue_book.027:to the left of:blue_book.022
+blue_book.027:to the left of:blue_book.024
+blue_book.027:to the left of:blue_book.023
+blue_book.027:to the left of:blue_book.013
+blue_book.027:to the left of:blue_book.015
+blue_book.027:to the left of:blue_book.014
+blue_book.027:to the left of:blue_book.010
+blue_book.027:to the left of:blue_book.012
+blue_book.027:to the left of:blue_book.011
+blue_book.027:to the left of:blue_book.019
+blue_book.027:to the left of:blue_book.021
+blue_book.027:to the left of:blue_book.020
+blue_book.027:to the left of:blue_book.016
+blue_book.027:to the left of:blue_book.018
+blue_book.027:to the left of:blue_book.017
+blue_book.026:to the left of:blue_book.022
+blue_book.026:to the left of:blue_book.024
+blue_book.026:to the left of:blue_book.023
+blue_book.026:to the left of:blue_book.013
+blue_book.026:to the left of:blue_book.015
+blue_book.026:to the left of:blue_book.014
+blue_book.026:to the left of:blue_book.010
+blue_book.026:to the left of:blue_book.012
+blue_book.026:to the left of:blue_book.011
+blue_book.026:to the left of:blue_book.019
+blue_book.026:to the left of:blue_book.021
+blue_book.026:to the left of:blue_book.020
+blue_book.026:to the left of:blue_book.016
+blue_book.026:to the left of:blue_book.018
+blue_book.026:to the left of:blue_book.017
+blue_book.022:to the left of:blue_book.024
+blue_book.022:to the left of:blue_book.023
+blue_book.022:to the left of:blue_book.013
+blue_book.022:to the left of:blue_book.015
+blue_book.022:to the left of:blue_book.014
+blue_book.022:to the left of:blue_book.010
+blue_book.022:to the left of:blue_book.012
+blue_book.022:to the left of:blue_book.011
+blue_book.022:to the left of:blue_book.019
+blue_book.022:to the left of:blue_book.021
+blue_book.022:to the left of:blue_book.020
+blue_book.022:to the left of:blue_book.016
+blue_book.022:to the left of:blue_book.018
+blue_book.022:to the left of:blue_book.017
+blue_book.024:to the left of:blue_book.023
+blue_book.024:to the left of:blue_book.013
+blue_book.024:to the left of:blue_book.015
+blue_book.024:to the left of:blue_book.014
+blue_book.024:to the left of:blue_book.010
+blue_book.024:to the left of:blue_book.012
+blue_book.024:to the left of:blue_book.011
+blue_book.024:to the left of:blue_book.019
+blue_book.024:to the left of:blue_book.021
+blue_book.024:to the left of:blue_book.020
+blue_book.024:to the left of:blue_book.016
+blue_book.024:to the left of:blue_book.018
+blue_book.024:to the left of:blue_book.017
+blue_book.023:to the left of:blue_book.013
+blue_book.023:to the left of:blue_book.015
+blue_book.023:to the left of:blue_book.014
+blue_book.023:to the left of:blue_book.010
+blue_book.023:to the left of:blue_book.012
+blue_book.023:to the left of:blue_book.011
+blue_book.023:to the left of:blue_book.019
+blue_book.023:to the left of:blue_book.021
+blue_book.023:to the left of:blue_book.020
+blue_book.023:to the left of:blue_book.016
+blue_book.023:to the left of:blue_book.018
+blue_book.023:to the left of:blue_book.017
+blue_book.013:to the left of:blue_book.015
+blue_book.013:to the left of:blue_book.014
+blue_book.013:to the left of:blue_book.010
+blue_book.013:to the left of:blue_book.012
+blue_book.013:to the left of:blue_book.011
+blue_book.013:to the left of:blue_book.019
+blue_book.013:to the left of:blue_book.021
+blue_book.013:to the left of:blue_book.020
+blue_book.013:to the left of:blue_book.016
+blue_book.013:to the left of:blue_book.018
+blue_book.013:to the left of:blue_book.017
+blue_book.015:to the left of:blue_book.014
+blue_book.015:to the left of:blue_book.010
+blue_book.015:to the left of:blue_book.012
+blue_book.015:to the left of:blue_book.011
+blue_book.015:to the left of:blue_book.019
+blue_book.015:to the left of:blue_book.021
+blue_book.015:to the left of:blue_book.020
+blue_book.015:to the left of:blue_book.016
+blue_book.015:to the left of:blue_book.018
+blue_book.015:to the left of:blue_book.017
+blue_book.014:to the left of:blue_book.010
+blue_book.014:to the left of:blue_book.012
+blue_book.014:to the left of:blue_book.011
+blue_book.014:to the left of:blue_book.019
+blue_book.014:to the left of:blue_book.021
+blue_book.014:to the left of:blue_book.020
+blue_book.014:to the left of:blue_book.016
+blue_book.014:to the left of:blue_book.018
+blue_book.014:to the left of:blue_book.017
+blue_book.010:to the left of:blue_book.012
+blue_book.010:to the left of:blue_book.011
+blue_book.010:to the left of:blue_book.019
+blue_book.010:to the left of:blue_book.021
+blue_book.010:to the left of:blue_book.020
+blue_book.010:to the left of:blue_book.016
+blue_book.010:to the left of:blue_book.018
+blue_book.010:to the left of:blue_book.017
+blue_book.012:to the left of:blue_book.011
+blue_book.012:to the left of:blue_book.019
+blue_book.012:to the left of:blue_book.021
+blue_book.012:to the left of:blue_book.020
+blue_book.012:to the left of:blue_book.016
+blue_book.012:to the left of:blue_book.018
+blue_book.012:to the left of:blue_book.017
+blue_book.011:to the left of:blue_book.019
+blue_book.011:to the left of:blue_book.021
+blue_book.011:to the left of:blue_book.020
+blue_book.011:to the left of:blue_book.016
+blue_book.011:to the left of:blue_book.018
+blue_book.011:to the left of:blue_book.017
+blue_book.019:to the left of:blue_book.021
+blue_book.019:to the left of:blue_book.020
+blue_book.019:to the left of:blue_book.016
+blue_book.019:to the left of:blue_book.018
+blue_book.019:to the left of:blue_book.017
+blue_book.021:to the left of:blue_book.020
+blue_book.021:to the left of:blue_book.016
+blue_book.021:to the left of:blue_book.018
+blue_book.021:to the left of:blue_book.017
+blue_book.020:to the left of:blue_book.016
+blue_book.020:to the left of:blue_book.018
+blue_book.020:to the left of:blue_book.017
+blue_book.016:to the left of:blue_book.018
+blue_book.016:to the left of:blue_book.017
+blue_book.018:to the left of:blue_book.017
+blue_book.026:to the right of:blue_book.027
+blue_book.022:to the right of:blue_book.027
+blue_book.024:to the right of:blue_book.027
+blue_book.023:to the right of:blue_book.027
+blue_book.013:to the right of:blue_book.027
+blue_book.015:to the right of:blue_book.027
+blue_book.014:to the right of:blue_book.027
+blue_book.010:to the right of:blue_book.027
+blue_book.012:to the right of:blue_book.027
+blue_book.011:to the right of:blue_book.027
+blue_book.019:to the right of:blue_book.027
+blue_book.021:to the right of:blue_book.027
+blue_book.020:to the right of:blue_book.027
+blue_book.016:to the right of:blue_book.027
+blue_book.018:to the right of:blue_book.027
+blue_book.017:to the right of:blue_book.027
+blue_book.022:to the right of:blue_book.026
+blue_book.024:to the right of:blue_book.026
+blue_book.023:to the right of:blue_book.026
+blue_book.013:to the right of:blue_book.026
+blue_book.015:to the right of:blue_book.026
+blue_book.014:to the right of:blue_book.026
+blue_book.010:to the right of:blue_book.026
+blue_book.012:to the right of:blue_book.026
+blue_book.011:to the right of:blue_book.026
+blue_book.019:to the right of:blue_book.026
+blue_book.021:to the right of:blue_book.026
+blue_book.020:to the right of:blue_book.026
+blue_book.016:to the right of:blue_book.026
+blue_book.018:to the right of:blue_book.026
+blue_book.017:to the right of:blue_book.026
+blue_book.024:to the right of:blue_book.022
+blue_book.023:to the right of:blue_book.022
+blue_book.013:to the right of:blue_book.022
+blue_book.015:to the right of:blue_book.022
+blue_book.014:to the right of:blue_book.022
+blue_book.010:to the right of:blue_book.022
+blue_book.012:to the right of:blue_book.022
+blue_book.011:to the right of:blue_book.022
+blue_book.019:to the right of:blue_book.022
+blue_book.021:to the right of:blue_book.022
+blue_book.020:to the right of:blue_book.022
+blue_book.016:to the right of:blue_book.022
+blue_book.018:to the right of:blue_book.022
+blue_book.017:to the right of:blue_book.022
+blue_book.023:to the right of:blue_book.024
+blue_book.013:to the right of:blue_book.024
+blue_book.015:to the right of:blue_book.024
+blue_book.014:to the right of:blue_book.024
+blue_book.010:to the right of:blue_book.024
+blue_book.012:to the right of:blue_book.024
+blue_book.011:to the right of:blue_book.024
+blue_book.019:to the right of:blue_book.024
+blue_book.021:to the right of:blue_book.024
+blue_book.020:to the right of:blue_book.024
+blue_book.016:to the right of:blue_book.024
+blue_book.018:to the right of:blue_book.024
+blue_book.017:to the right of:blue_book.024
+blue_book.013:to the right of:blue_book.023
+blue_book.015:to the right of:blue_book.023
+blue_book.014:to the right of:blue_book.023
+blue_book.010:to the right of:blue_book.023
+blue_book.012:to the right of:blue_book.023
+blue_book.011:to the right of:blue_book.023
+blue_book.019:to the right of:blue_book.023
+blue_book.021:to the right of:blue_book.023
+blue_book.020:to the right of:blue_book.023
+blue_book.016:to the right of:blue_book.023
+blue_book.018:to the right of:blue_book.023
+blue_book.017:to the right of:blue_book.023
+blue_book.015:to the right of:blue_book.013
+blue_book.014:to the right of:blue_book.013
+blue_book.010:to the right of:blue_book.013
+blue_book.012:to the right of:blue_book.013
+blue_book.011:to the right of:blue_book.013
+blue_book.019:to the right of:blue_book.013
+blue_book.021:to the right of:blue_book.013
+blue_book.020:to the right of:blue_book.013
+blue_book.016:to the right of:blue_book.013
+blue_book.018:to the right of:blue_book.013
+blue_book.017:to the right of:blue_book.013
+blue_book.014:to the right of:blue_book.015
+blue_book.010:to the right of:blue_book.015
+blue_book.012:to the right of:blue_book.015
+blue_book.011:to the right of:blue_book.015
+blue_book.019:to the right of:blue_book.015
+blue_book.021:to the right of:blue_book.015
+blue_book.020:to the right of:blue_book.015
+blue_book.016:to the right of:blue_book.015
+blue_book.018:to the right of:blue_book.015
+blue_book.017:to the right of:blue_book.015
+blue_book.010:to the right of:blue_book.014
+blue_book.012:to the right of:blue_book.014
+blue_book.011:to the right of:blue_book.014
+blue_book.019:to the right of:blue_book.014
+blue_book.021:to the right of:blue_book.014
+blue_book.020:to the right of:blue_book.014
+blue_book.016:to the right of:blue_book.014
+blue_book.018:to the right of:blue_book.014
+blue_book.017:to the right of:blue_book.014
+blue_book.012:to the right of:blue_book.010
+blue_book.011:to the right of:blue_book.010
+blue_book.019:to the right of:blue_book.010
+blue_book.021:to the right of:blue_book.010
+blue_book.020:to the right of:blue_book.010
+blue_book.016:to the right of:blue_book.010
+blue_book.018:to the right of:blue_book.010
+blue_book.017:to the right of:blue_book.010
+blue_book.011:to the right of:blue_book.012
+blue_book.019:to the right of:blue_book.012
+blue_book.021:to the right of:blue_book.012
+blue_book.020:to the right of:blue_book.012
+blue_book.016:to the right of:blue_book.012
+blue_book.018:to the right of:blue_book.012
+blue_book.017:to the right of:blue_book.012
+blue_book.019:to the right of:blue_book.011
+blue_book.021:to the right of:blue_book.011
+blue_book.020:to the right of:blue_book.011
+blue_book.016:to the right of:blue_book.011
+blue_book.018:to the right of:blue_book.011
+blue_book.017:to the right of:blue_book.011
+blue_book.021:to the right of:blue_book.019
+blue_book.020:to the right of:blue_book.019
+blue_book.016:to the right of:blue_book.019
+blue_book.018:to the right of:blue_book.019
+blue_book.017:to the right of:blue_book.019
+blue_book.020:to the right of:blue_book.021
+blue_book.016:to the right of:blue_book.021
+blue_book.018:to the right of:blue_book.021
+blue_book.017:to the right of:blue_book.021
+blue_book.016:to the right of:blue_book.020
+blue_book.018:to the right of:blue_book.020
+blue_book.017:to the right of:blue_book.020
+blue_book.018:to the right of:blue_book.016
+blue_book.017:to the right of:blue_book.016
+blue_book.017:to the right of:blue_book.018
+blue_book.007:not to the left of:blue_book.027
+blue_book.007:not to the left of:blue_book.026
+blue_book.007:not to the left of:blue_book.022
+blue_book.007:not to the left of:blue_book.024
+blue_book.007:not to the left of:blue_book.023
+blue_book.007:not to the left of:blue_book.013
+blue_book.007:not to the left of:blue_book.015
+blue_book.007:not to the left of:blue_book.014
+blue_book.007:not to the left of:blue_book.010
+blue_book.007:not to the left of:blue_book.012
+blue_book.007:not to the left of:blue_book.011
+blue_book.007:not to the left of:blue_book.019
+blue_book.007:not to the left of:blue_book.021
+blue_book.007:not to the left of:blue_book.020
+blue_book.007:not to the left of:blue_book.016
+blue_book.007:not to the left of:blue_book.018
+blue_book.007:not to the left of:blue_book.017
+blue_book.009:not to the left of:blue_book.027
+blue_book.009:not to the left of:blue_book.026
+blue_book.009:not to the left of:blue_book.022
+blue_book.009:not to the left of:blue_book.024
+blue_book.009:not to the left of:blue_book.023
+blue_book.009:not to the left of:blue_book.013
+blue_book.009:not to the left of:blue_book.015
+blue_book.009:not to the left of:blue_book.014
+blue_book.009:not to the left of:blue_book.010
+blue_book.009:not to the left of:blue_book.012
+blue_book.009:not to the left of:blue_book.011
+blue_book.009:not to the left of:blue_book.019
+blue_book.009:not to the left of:blue_book.021
+blue_book.009:not to the left of:blue_book.020
+blue_book.009:not to the left of:blue_book.016
+blue_book.009:not to the left of:blue_book.018
+blue_book.009:not to the left of:blue_book.017
+blue_book.008:not to the left of:blue_book.027
+blue_book.008:not to the left of:blue_book.026
+blue_book.008:not to the left of:blue_book.022
+blue_book.008:not to the left of:blue_book.024
+blue_book.008:not to the left of:blue_book.023
+blue_book.008:not to the left of:blue_book.013
+blue_book.008:not to the left of:blue_book.015
+blue_book.008:not to the left of:blue_book.014
+blue_book.008:not to the left of:blue_book.010
+blue_book.008:not to the left of:blue_book.012
+blue_book.008:not to the left of:blue_book.011
+blue_book.008:not to the left of:blue_book.019
+blue_book.008:not to the left of:blue_book.021
+blue_book.008:not to the left of:blue_book.020
+blue_book.008:not to the left of:blue_book.016
+blue_book.008:not to the left of:blue_book.018
+blue_book.008:not to the left of:blue_book.017
+blue_book.004:not to the left of:blue_book.027
+blue_book.004:not to the left of:blue_book.026
+blue_book.004:not to the left of:blue_book.022
+blue_book.004:not to the left of:blue_book.024
+blue_book.004:not to the left of:blue_book.023
+blue_book.004:not to the left of:blue_book.013
+blue_book.004:not to the left of:blue_book.015
+blue_book.004:not to the left of:blue_book.014
+blue_book.004:not to the left of:blue_book.010
+blue_book.004:not to the left of:blue_book.012
+blue_book.004:not to the left of:blue_book.011
+blue_book.004:not to the left of:blue_book.019
+blue_book.004:not to the left of:blue_book.021
+blue_book.004:not to the left of:blue_book.020
+blue_book.004:not to the left of:blue_book.016
+blue_book.004:not to the left of:blue_book.018
+blue_book.004:not to the left of:blue_book.017
+blue_book.006:not to the left of:blue_book.027
+blue_book.006:not to the left of:blue_book.026
+blue_book.006:not to the left of:blue_book.022
+blue_book.006:not to the left of:blue_book.024
+blue_book.006:not to the left of:blue_book.023
+blue_book.006:not to the left of:blue_book.013
+blue_book.006:not to the left of:blue_book.015
+blue_book.006:not to the left of:blue_book.014
+blue_book.006:not to the left of:blue_book.010
+blue_book.006:not to the left of:blue_book.012
+blue_book.006:not to the left of:blue_book.011
+blue_book.006:not to the left of:blue_book.019
+blue_book.006:not to the left of:blue_book.021
+blue_book.006:not to the left of:blue_book.020
+blue_book.006:not to the left of:blue_book.016
+blue_book.006:not to the left of:blue_book.018
+blue_book.006:not to the left of:blue_book.017
+blue_book.005:not to the left of:blue_book.027
+blue_book.005:not to the left of:blue_book.026
+blue_book.005:not to the left of:blue_book.022
+blue_book.005:not to the left of:blue_book.024
+blue_book.005:not to the left of:blue_book.023
+blue_book.005:not to the left of:blue_book.013
+blue_book.005:not to the left of:blue_book.015
+blue_book.005:not to the left of:blue_book.014
+blue_book.005:not to the left of:blue_book.010
+blue_book.005:not to the left of:blue_book.012
+blue_book.005:not to the left of:blue_book.011
+blue_book.005:not to the left of:blue_book.019
+blue_book.005:not to the left of:blue_book.021
+blue_book.005:not to the left of:blue_book.020
+blue_book.005:not to the left of:blue_book.016
+blue_book.005:not to the left of:blue_book.018
+blue_book.005:not to the left of:blue_book.017
+blue_book:not to the left of:blue_book.027
+blue_book:not to the left of:blue_book.026
+blue_book:not to the left of:blue_book.022
+blue_book:not to the left of:blue_book.024
+blue_book:not to the left of:blue_book.023
+blue_book:not to the left of:blue_book.013
+blue_book:not to the left of:blue_book.015
+blue_book:not to the left of:blue_book.014
+blue_book:not to the left of:blue_book.010
+blue_book:not to the left of:blue_book.012
+blue_book:not to the left of:blue_book.011
+blue_book:not to the left of:blue_book.019
+blue_book:not to the left of:blue_book.021
+blue_book:not to the left of:blue_book.020
+blue_book:not to the left of:blue_book.016
+blue_book:not to the left of:blue_book.018
+blue_book:not to the left of:blue_book.017
+blue_book.003:not to the left of:blue_book.027
+blue_book.003:not to the left of:blue_book.026
+blue_book.003:not to the left of:blue_book.022
+blue_book.003:not to the left of:blue_book.024
+blue_book.003:not to the left of:blue_book.023
+blue_book.003:not to the left of:blue_book.013
+blue_book.003:not to the left of:blue_book.015
+blue_book.003:not to the left of:blue_book.014
+blue_book.003:not to the left of:blue_book.010
+blue_book.003:not to the left of:blue_book.012
+blue_book.003:not to the left of:blue_book.011
+blue_book.003:not to the left of:blue_book.019
+blue_book.003:not to the left of:blue_book.021
+blue_book.003:not to the left of:blue_book.020
+blue_book.003:not to the left of:blue_book.016
+blue_book.003:not to the left of:blue_book.018
+blue_book.003:not to the left of:blue_book.017
+blue_book.002:not to the left of:blue_book.027
+blue_book.002:not to the left of:blue_book.026
+blue_book.002:not to the left of:blue_book.022
+blue_book.002:not to the left of:blue_book.024
+blue_book.002:not to the left of:blue_book.023
+blue_book.002:not to the left of:blue_book.013
+blue_book.002:not to the left of:blue_book.015
+blue_book.002:not to the left of:blue_book.014
+blue_book.002:not to the left of:blue_book.010
+blue_book.002:not to the left of:blue_book.012
+blue_book.002:not to the left of:blue_book.011
+blue_book.002:not to the left of:blue_book.019
+blue_book.002:not to the left of:blue_book.021
+blue_book.002:not to the left of:blue_book.020
+blue_book.002:not to the left of:blue_book.016
+blue_book.002:not to the left of:blue_book.018
+blue_book.002:not to the left of:blue_book.017
+blue_book:not to the left of:blue_book.007
+blue_book:not to the left of:blue_book.009
+blue_book:not to the left of:blue_book.008
+blue_book:not to the left of:blue_book.004
+blue_book:not to the left of:blue_book.006
+blue_book:not to the left of:blue_book.005
+blue_book.003:not to the left of:blue_book.007
+blue_book.003:not to the left of:blue_book.009
+blue_book.003:not to the left of:blue_book.008
+blue_book.003:not to the left of:blue_book.004
+blue_book.003:not to the left of:blue_book.006
+blue_book.003:not to the left of:blue_book.005
+blue_book.002:not to the left of:blue_book.007
+blue_book.002:not to the left of:blue_book.009
+blue_book.002:not to the left of:blue_book.008
+blue_book.002:not to the left of:blue_book.004
+blue_book.002:not to the left of:blue_book.006
+blue_book.002:not to the left of:blue_book.005
+blue_book.007:not to the right of:blue_book.027
+blue_book.007:not to the right of:blue_book.026
+blue_book.007:not to the right of:blue_book.022
+blue_book.007:not to the right of:blue_book.024
+blue_book.007:not to the right of:blue_book.023
+blue_book.007:not to the right of:blue_book.013
+blue_book.007:not to the right of:blue_book.015
+blue_book.007:not to the right of:blue_book.014
+blue_book.007:not to the right of:blue_book.010
+blue_book.007:not to the right of:blue_book.012
+blue_book.007:not to the right of:blue_book.011
+blue_book.007:not to the right of:blue_book.019
+blue_book.007:not to the right of:blue_book.021
+blue_book.007:not to the right of:blue_book.020
+blue_book.007:not to the right of:blue_book.016
+blue_book.007:not to the right of:blue_book.018
+blue_book.007:not to the right of:blue_book.017
+blue_book.009:not to the right of:blue_book.027
+blue_book.009:not to the right of:blue_book.026
+blue_book.009:not to the right of:blue_book.022
+blue_book.009:not to the right of:blue_book.024
+blue_book.009:not to the right of:blue_book.023
+blue_book.009:not to the right of:blue_book.013
+blue_book.009:not to the right of:blue_book.015
+blue_book.009:not to the right of:blue_book.014
+blue_book.009:not to the right of:blue_book.010
+blue_book.009:not to the right of:blue_book.012
+blue_book.009:not to the right of:blue_book.011
+blue_book.009:not to the right of:blue_book.019
+blue_book.009:not to the right of:blue_book.021
+blue_book.009:not to the right of:blue_book.020
+blue_book.009:not to the right of:blue_book.016
+blue_book.009:not to the right of:blue_book.018
+blue_book.009:not to the right of:blue_book.017
+blue_book.008:not to the right of:blue_book.027
+blue_book.008:not to the right of:blue_book.026
+blue_book.008:not to the right of:blue_book.022
+blue_book.008:not to the right of:blue_book.024
+blue_book.008:not to the right of:blue_book.023
+blue_book.008:not to the right of:blue_book.013
+blue_book.008:not to the right of:blue_book.015
+blue_book.008:not to the right of:blue_book.014
+blue_book.008:not to the right of:blue_book.010
+blue_book.008:not to the right of:blue_book.012
+blue_book.008:not to the right of:blue_book.011
+blue_book.008:not to the right of:blue_book.019
+blue_book.008:not to the right of:blue_book.021
+blue_book.008:not to the right of:blue_book.020
+blue_book.008:not to the right of:blue_book.016
+blue_book.008:not to the right of:blue_book.018
+blue_book.008:not to the right of:blue_book.017
+blue_book.004:not to the right of:blue_book.027
+blue_book.004:not to the right of:blue_book.026
+blue_book.004:not to the right of:blue_book.022
+blue_book.004:not to the right of:blue_book.024
+blue_book.004:not to the right of:blue_book.023
+blue_book.004:not to the right of:blue_book.013
+blue_book.004:not to the right of:blue_book.015
+blue_book.004:not to the right of:blue_book.014
+blue_book.004:not to the right of:blue_book.010
+blue_book.004:not to the right of:blue_book.012
+blue_book.004:not to the right of:blue_book.011
+blue_book.004:not to the right of:blue_book.019
+blue_book.004:not to the right of:blue_book.021
+blue_book.004:not to the right of:blue_book.020
+blue_book.004:not to the right of:blue_book.016
+blue_book.004:not to the right of:blue_book.018
+blue_book.004:not to the right of:blue_book.017
+blue_book.006:not to the right of:blue_book.027
+blue_book.006:not to the right of:blue_book.026
+blue_book.006:not to the right of:blue_book.022
+blue_book.006:not to the right of:blue_book.024
+blue_book.006:not to the right of:blue_book.023
+blue_book.006:not to the right of:blue_book.013
+blue_book.006:not to the right of:blue_book.015
+blue_book.006:not to the right of:blue_book.014
+blue_book.006:not to the right of:blue_book.010
+blue_book.006:not to the right of:blue_book.012
+blue_book.006:not to the right of:blue_book.011
+blue_book.006:not to the right of:blue_book.019
+blue_book.006:not to the right of:blue_book.021
+blue_book.006:not to the right of:blue_book.020
+blue_book.006:not to the right of:blue_book.016
+blue_book.006:not to the right of:blue_book.018
+blue_book.006:not to the right of:blue_book.017
+blue_book.005:not to the right of:blue_book.027
+blue_book.005:not to the right of:blue_book.026
+blue_book.005:not to the right of:blue_book.022
+blue_book.005:not to the right of:blue_book.024
+blue_book.005:not to the right of:blue_book.023
+blue_book.005:not to the right of:blue_book.013
+blue_book.005:not to the right of:blue_book.015
+blue_book.005:not to the right of:blue_book.014
+blue_book.005:not to the right of:blue_book.010
+blue_book.005:not to the right of:blue_book.012
+blue_book.005:not to the right of:blue_book.011
+blue_book.005:not to the right of:blue_book.019
+blue_book.005:not to the right of:blue_book.021
+blue_book.005:not to the right of:blue_book.020
+blue_book.005:not to the right of:blue_book.016
+blue_book.005:not to the right of:blue_book.018
+blue_book.005:not to the right of:blue_book.017
+blue_book:not to the right of:blue_book.027
+blue_book:not to the right of:blue_book.026
+blue_book:not to the right of:blue_book.022
+blue_book:not to the right of:blue_book.024
+blue_book:not to the right of:blue_book.023
+blue_book:not to the right of:blue_book.013
+blue_book:not to the right of:blue_book.015
+blue_book:not to the right of:blue_book.014
+blue_book:not to the right of:blue_book.010
+blue_book:not to the right of:blue_book.012
+blue_book:not to the right of:blue_book.011
+blue_book:not to the right of:blue_book.019
+blue_book:not to the right of:blue_book.021
+blue_book:not to the right of:blue_book.020
+blue_book:not to the right of:blue_book.016
+blue_book:not to the right of:blue_book.018
+blue_book:not to the right of:blue_book.017
+blue_book.003:not to the right of:blue_book.027
+blue_book.003:not to the right of:blue_book.026
+blue_book.003:not to the right of:blue_book.022
+blue_book.003:not to the right of:blue_book.024
+blue_book.003:not to the right of:blue_book.023
+blue_book.003:not to the right of:blue_book.013
+blue_book.003:not to the right of:blue_book.015
+blue_book.003:not to the right of:blue_book.014
+blue_book.003:not to the right of:blue_book.010
+blue_book.003:not to the right of:blue_book.012
+blue_book.003:not to the right of:blue_book.011
+blue_book.003:not to the right of:blue_book.019
+blue_book.003:not to the right of:blue_book.021
+blue_book.003:not to the right of:blue_book.020
+blue_book.003:not to the right of:blue_book.016
+blue_book.003:not to the right of:blue_book.018
+blue_book.003:not to the right of:blue_book.017
+blue_book.002:not to the right of:blue_book.027
+blue_book.002:not to the right of:blue_book.026
+blue_book.002:not to the right of:blue_book.022
+blue_book.002:not to the right of:blue_book.024
+blue_book.002:not to the right of:blue_book.023
+blue_book.002:not to the right of:blue_book.013
+blue_book.002:not to the right of:blue_book.015
+blue_book.002:not to the right of:blue_book.014
+blue_book.002:not to the right of:blue_book.010
+blue_book.002:not to the right of:blue_book.012
+blue_book.002:not to the right of:blue_book.011
+blue_book.002:not to the right of:blue_book.019
+blue_book.002:not to the right of:blue_book.021
+blue_book.002:not to the right of:blue_book.020
+blue_book.002:not to the right of:blue_book.016
+blue_book.002:not to the right of:blue_book.018
+blue_book.002:not to the right of:blue_book.017
+blue_book:not to the right of:blue_book.007
+blue_book:not to the right of:blue_book.009
+blue_book:not to the right of:blue_book.008
+blue_book:not to the right of:blue_book.004
+blue_book:not to the right of:blue_book.006
+blue_book:not to the right of:blue_book.005
+blue_book.003:not to the right of:blue_book.007
+blue_book.003:not to the right of:blue_book.009
+blue_book.003:not to the right of:blue_book.008
+blue_book.003:not to the right of:blue_book.004
+blue_book.003:not to the right of:blue_book.006
+blue_book.003:not to the right of:blue_book.005
+blue_book.002:not to the right of:blue_book.007
+blue_book.002:not to the right of:blue_book.009
+blue_book.002:not to the right of:blue_book.008
+blue_book.002:not to the right of:blue_book.004
+blue_book.002:not to the right of:blue_book.006
+blue_book.002:not to the right of:blue_book.005
+blue_book.007:to the left of:blue_book.027
+blue_book.007:to the left of:blue_book.026
+blue_book.007:to the left of:blue_book.022
+blue_book.007:to the left of:blue_book.024
+blue_book.007:to the left of:blue_book.023
+blue_book.007:to the left of:blue_book.013
+blue_book.007:to the left of:blue_book.015
+blue_book.007:to the left of:blue_book.014
+blue_book.007:to the left of:blue_book.010
+blue_book.007:to the left of:blue_book.012
+blue_book.007:to the left of:blue_book.011
+blue_book.007:to the left of:blue_book.019
+blue_book.007:to the left of:blue_book.021
+blue_book.007:to the left of:blue_book.020
+blue_book.007:to the left of:blue_book.016
+blue_book.007:to the left of:blue_book.018
+blue_book.007:to the left of:blue_book.017
+blue_book.009:to the left of:blue_book.027
+blue_book.009:to the left of:blue_book.026
+blue_book.009:to the left of:blue_book.022
+blue_book.009:to the left of:blue_book.024
+blue_book.009:to the left of:blue_book.023
+blue_book.009:to the left of:blue_book.013
+blue_book.009:to the left of:blue_book.015
+blue_book.009:to the left of:blue_book.014
+blue_book.009:to the left of:blue_book.010
+blue_book.009:to the left of:blue_book.012
+blue_book.009:to the left of:blue_book.011
+blue_book.009:to the left of:blue_book.019
+blue_book.009:to the left of:blue_book.021
+blue_book.009:to the left of:blue_book.020
+blue_book.009:to the left of:blue_book.016
+blue_book.009:to the left of:blue_book.018
+blue_book.009:to the left of:blue_book.017
+blue_book.008:to the left of:blue_book.027
+blue_book.008:to the left of:blue_book.026
+blue_book.008:to the left of:blue_book.022
+blue_book.008:to the left of:blue_book.024
+blue_book.008:to the left of:blue_book.023
+blue_book.008:to the left of:blue_book.013
+blue_book.008:to the left of:blue_book.015
+blue_book.008:to the left of:blue_book.014
+blue_book.008:to the left of:blue_book.010
+blue_book.008:to the left of:blue_book.012
+blue_book.008:to the left of:blue_book.011
+blue_book.008:to the left of:blue_book.019
+blue_book.008:to the left of:blue_book.021
+blue_book.008:to the left of:blue_book.020
+blue_book.008:to the left of:blue_book.016
+blue_book.008:to the left of:blue_book.018
+blue_book.008:to the left of:blue_book.017
+blue_book.004:to the left of:blue_book.027
+blue_book.004:to the left of:blue_book.026
+blue_book.004:to the left of:blue_book.022
+blue_book.004:to the left of:blue_book.024
+blue_book.004:to the left of:blue_book.023
+blue_book.004:to the left of:blue_book.013
+blue_book.004:to the left of:blue_book.015
+blue_book.004:to the left of:blue_book.014
+blue_book.004:to the left of:blue_book.010
+blue_book.004:to the left of:blue_book.012
+blue_book.004:to the left of:blue_book.011
+blue_book.004:to the left of:blue_book.019
+blue_book.004:to the left of:blue_book.021
+blue_book.004:to the left of:blue_book.020
+blue_book.004:to the left of:blue_book.016
+blue_book.004:to the left of:blue_book.018
+blue_book.004:to the left of:blue_book.017
+blue_book.006:to the left of:blue_book.027
+blue_book.006:to the left of:blue_book.026
+blue_book.006:to the left of:blue_book.022
+blue_book.006:to the left of:blue_book.024
+blue_book.006:to the left of:blue_book.023
+blue_book.006:to the left of:blue_book.013
+blue_book.006:to the left of:blue_book.015
+blue_book.006:to the left of:blue_book.014
+blue_book.006:to the left of:blue_book.010
+blue_book.006:to the left of:blue_book.012
+blue_book.006:to the left of:blue_book.011
+blue_book.006:to the left of:blue_book.019
+blue_book.006:to the left of:blue_book.021
+blue_book.006:to the left of:blue_book.020
+blue_book.006:to the left of:blue_book.016
+blue_book.006:to the left of:blue_book.018
+blue_book.006:to the left of:blue_book.017
+blue_book.005:to the left of:blue_book.027
+blue_book.005:to the left of:blue_book.026
+blue_book.005:to the left of:blue_book.022
+blue_book.005:to the left of:blue_book.024
+blue_book.005:to the left of:blue_book.023
+blue_book.005:to the left of:blue_book.013
+blue_book.005:to the left of:blue_book.015
+blue_book.005:to the left of:blue_book.014
+blue_book.005:to the left of:blue_book.010
+blue_book.005:to the left of:blue_book.012
+blue_book.005:to the left of:blue_book.011
+blue_book.005:to the left of:blue_book.019
+blue_book.005:to the left of:blue_book.021
+blue_book.005:to the left of:blue_book.020
+blue_book.005:to the left of:blue_book.016
+blue_book.005:to the left of:blue_book.018
+blue_book.005:to the left of:blue_book.017
+blue_book:to the left of:blue_book.027
+blue_book:to the left of:blue_book.026
+blue_book:to the left of:blue_book.022
+blue_book:to the left of:blue_book.024
+blue_book:to the left of:blue_book.023
+blue_book:to the left of:blue_book.013
+blue_book:to the left of:blue_book.015
+blue_book:to the left of:blue_book.014
+blue_book:to the left of:blue_book.010
+blue_book:to the left of:blue_book.012
+blue_book:to the left of:blue_book.011
+blue_book:to the left of:blue_book.019
+blue_book:to the left of:blue_book.021
+blue_book:to the left of:blue_book.020
+blue_book:to the left of:blue_book.016
+blue_book:to the left of:blue_book.018
+blue_book:to the left of:blue_book.017
+blue_book.003:to the left of:blue_book.027
+blue_book.003:to the left of:blue_book.026
+blue_book.003:to the left of:blue_book.022
+blue_book.003:to the left of:blue_book.024
+blue_book.003:to the left of:blue_book.023
+blue_book.003:to the left of:blue_book.013
+blue_book.003:to the left of:blue_book.015
+blue_book.003:to the left of:blue_book.014
+blue_book.003:to the left of:blue_book.010
+blue_book.003:to the left of:blue_book.012
+blue_book.003:to the left of:blue_book.011
+blue_book.003:to the left of:blue_book.019
+blue_book.003:to the left of:blue_book.021
+blue_book.003:to the left of:blue_book.020
+blue_book.003:to the left of:blue_book.016
+blue_book.003:to the left of:blue_book.018
+blue_book.003:to the left of:blue_book.017
+blue_book.002:to the left of:blue_book.027
+blue_book.002:to the left of:blue_book.026
+blue_book.002:to the left of:blue_book.022
+blue_book.002:to the left of:blue_book.024
+blue_book.002:to the left of:blue_book.023
+blue_book.002:to the left of:blue_book.013
+blue_book.002:to the left of:blue_book.015
+blue_book.002:to the left of:blue_book.014
+blue_book.002:to the left of:blue_book.010
+blue_book.002:to the left of:blue_book.012
+blue_book.002:to the left of:blue_book.011
+blue_book.002:to the left of:blue_book.019
+blue_book.002:to the left of:blue_book.021
+blue_book.002:to the left of:blue_book.020
+blue_book.002:to the left of:blue_book.016
+blue_book.002:to the left of:blue_book.018
+blue_book.002:to the left of:blue_book.017
+blue_book:to the left of:blue_book.007
+blue_book:to the left of:blue_book.009
+blue_book:to the left of:blue_book.008
+blue_book:to the left of:blue_book.004
+blue_book:to the left of:blue_book.006
+blue_book:to the left of:blue_book.005
+blue_book.003:to the left of:blue_book.007
+blue_book.003:to the left of:blue_book.009
+blue_book.003:to the left of:blue_book.008
+blue_book.003:to the left of:blue_book.004
+blue_book.003:to the left of:blue_book.006
+blue_book.003:to the left of:blue_book.005
+blue_book.002:to the left of:blue_book.007
+blue_book.002:to the left of:blue_book.009
+blue_book.002:to the left of:blue_book.008
+blue_book.002:to the left of:blue_book.004
+blue_book.002:to the left of:blue_book.006
+blue_book.002:to the left of:blue_book.005
+blue_book.007:to the right of:blue_book.027
+blue_book.007:to the right of:blue_book.026
+blue_book.007:to the right of:blue_book.022
+blue_book.007:to the right of:blue_book.024
+blue_book.007:to the right of:blue_book.023
+blue_book.007:to the right of:blue_book.013
+blue_book.007:to the right of:blue_book.015
+blue_book.007:to the right of:blue_book.014
+blue_book.007:to the right of:blue_book.010
+blue_book.007:to the right of:blue_book.012
+blue_book.007:to the right of:blue_book.011
+blue_book.007:to the right of:blue_book.019
+blue_book.007:to the right of:blue_book.021
+blue_book.007:to the right of:blue_book.020
+blue_book.007:to the right of:blue_book.016
+blue_book.007:to the right of:blue_book.018
+blue_book.007:to the right of:blue_book.017
+blue_book.009:to the right of:blue_book.027
+blue_book.009:to the right of:blue_book.026
+blue_book.009:to the right of:blue_book.022
+blue_book.009:to the right of:blue_book.024
+blue_book.009:to the right of:blue_book.023
+blue_book.009:to the right of:blue_book.013
+blue_book.009:to the right of:blue_book.015
+blue_book.009:to the right of:blue_book.014
+blue_book.009:to the right of:blue_book.010
+blue_book.009:to the right of:blue_book.012
+blue_book.009:to the right of:blue_book.011
+blue_book.009:to the right of:blue_book.019
+blue_book.009:to the right of:blue_book.021
+blue_book.009:to the right of:blue_book.020
+blue_book.009:to the right of:blue_book.016
+blue_book.009:to the right of:blue_book.018
+blue_book.009:to the right of:blue_book.017
+blue_book.008:to the right of:blue_book.027
+blue_book.008:to the right of:blue_book.026
+blue_book.008:to the right of:blue_book.022
+blue_book.008:to the right of:blue_book.024
+blue_book.008:to the right of:blue_book.023
+blue_book.008:to the right of:blue_book.013
+blue_book.008:to the right of:blue_book.015
+blue_book.008:to the right of:blue_book.014
+blue_book.008:to the right of:blue_book.010
+blue_book.008:to the right of:blue_book.012
+blue_book.008:to the right of:blue_book.011
+blue_book.008:to the right of:blue_book.019
+blue_book.008:to the right of:blue_book.021
+blue_book.008:to the right of:blue_book.020
+blue_book.008:to the right of:blue_book.016
+blue_book.008:to the right of:blue_book.018
+blue_book.008:to the right of:blue_book.017
+blue_book.004:to the right of:blue_book.027
+blue_book.004:to the right of:blue_book.026
+blue_book.004:to the right of:blue_book.022
+blue_book.004:to the right of:blue_book.024
+blue_book.004:to the right of:blue_book.023
+blue_book.004:to the right of:blue_book.013
+blue_book.004:to the right of:blue_book.015
+blue_book.004:to the right of:blue_book.014
+blue_book.004:to the right of:blue_book.010
+blue_book.004:to the right of:blue_book.012
+blue_book.004:to the right of:blue_book.011
+blue_book.004:to the right of:blue_book.019
+blue_book.004:to the right of:blue_book.021
+blue_book.004:to the right of:blue_book.020
+blue_book.004:to the right of:blue_book.016
+blue_book.004:to the right of:blue_book.018
+blue_book.004:to the right of:blue_book.017
+blue_book.006:to the right of:blue_book.027
+blue_book.006:to the right of:blue_book.026
+blue_book.006:to the right of:blue_book.022
+blue_book.006:to the right of:blue_book.024
+blue_book.006:to the right of:blue_book.023
+blue_book.006:to the right of:blue_book.013
+blue_book.006:to the right of:blue_book.015
+blue_book.006:to the right of:blue_book.014
+blue_book.006:to the right of:blue_book.010
+blue_book.006:to the right of:blue_book.012
+blue_book.006:to the right of:blue_book.011
+blue_book.006:to the right of:blue_book.019
+blue_book.006:to the right of:blue_book.021
+blue_book.006:to the right of:blue_book.020
+blue_book.006:to the right of:blue_book.016
+blue_book.006:to the right of:blue_book.018
+blue_book.006:to the right of:blue_book.017
+blue_book.005:to the right of:blue_book.027
+blue_book.005:to the right of:blue_book.026
+blue_book.005:to the right of:blue_book.022
+blue_book.005:to the right of:blue_book.024
+blue_book.005:to the right of:blue_book.023
+blue_book.005:to the right of:blue_book.013
+blue_book.005:to the right of:blue_book.015
+blue_book.005:to the right of:blue_book.014
+blue_book.005:to the right of:blue_book.010
+blue_book.005:to the right of:blue_book.012
+blue_book.005:to the right of:blue_book.011
+blue_book.005:to the right of:blue_book.019
+blue_book.005:to the right of:blue_book.021
+blue_book.005:to the right of:blue_book.020
+blue_book.005:to the right of:blue_book.016
+blue_book.005:to the right of:blue_book.018
+blue_book.005:to the right of:blue_book.017
+blue_book:to the right of:blue_book.027
+blue_book:to the right of:blue_book.026
+blue_book:to the right of:blue_book.022
+blue_book:to the right of:blue_book.024
+blue_book:to the right of:blue_book.023
+blue_book:to the right of:blue_book.013
+blue_book:to the right of:blue_book.015
+blue_book:to the right of:blue_book.014
+blue_book:to the right of:blue_book.010
+blue_book:to the right of:blue_book.012
+blue_book:to the right of:blue_book.011
+blue_book:to the right of:blue_book.019
+blue_book:to the right of:blue_book.021
+blue_book:to the right of:blue_book.020
+blue_book:to the right of:blue_book.016
+blue_book:to the right of:blue_book.018
+blue_book:to the right of:blue_book.017
+blue_book.003:to the right of:blue_book.027
+blue_book.003:to the right of:blue_book.026
+blue_book.003:to the right of:blue_book.022
+blue_book.003:to the right of:blue_book.024
+blue_book.003:to the right of:blue_book.023
+blue_book.003:to the right of:blue_book.013
+blue_book.003:to the right of:blue_book.015
+blue_book.003:to the right of:blue_book.014
+blue_book.003:to the right of:blue_book.010
+blue_book.003:to the right of:blue_book.012
+blue_book.003:to the right of:blue_book.011
+blue_book.003:to the right of:blue_book.019
+blue_book.003:to the right of:blue_book.021
+blue_book.003:to the right of:blue_book.020
+blue_book.003:to the right of:blue_book.016
+blue_book.003:to the right of:blue_book.018
+blue_book.003:to the right of:blue_book.017
+blue_book.002:to the right of:blue_book.027
+blue_book.002:to the right of:blue_book.026
+blue_book.002:to the right of:blue_book.022
+blue_book.002:to the right of:blue_book.024
+blue_book.002:to the right of:blue_book.023
+blue_book.002:to the right of:blue_book.013
+blue_book.002:to the right of:blue_book.015
+blue_book.002:to the right of:blue_book.014
+blue_book.002:to the right of:blue_book.010
+blue_book.002:to the right of:blue_book.012
+blue_book.002:to the right of:blue_book.011
+blue_book.002:to the right of:blue_book.019
+blue_book.002:to the right of:blue_book.021
+blue_book.002:to the right of:blue_book.020
+blue_book.002:to the right of:blue_book.016
+blue_book.002:to the right of:blue_book.018
+blue_book.002:to the right of:blue_book.017
+blue_book:to the right of:blue_book.007
+blue_book:to the right of:blue_book.009
+blue_book:to the right of:blue_book.008
+blue_book:to the right of:blue_book.004
+blue_book:to the right of:blue_book.006
+blue_book:to the right of:blue_book.005
+blue_book.003:to the right of:blue_book.007
+blue_book.003:to the right of:blue_book.009
+blue_book.003:to the right of:blue_book.008
+blue_book.003:to the right of:blue_book.004
+blue_book.003:to the right of:blue_book.006
+blue_book.003:to the right of:blue_book.005
+blue_book.002:to the right of:blue_book.007
+blue_book.002:to the right of:blue_book.009
+blue_book.002:to the right of:blue_book.008
+blue_book.002:to the right of:blue_book.004
+blue_book.002:to the right of:blue_book.006
+blue_book.002:to the right of:blue_book.005
