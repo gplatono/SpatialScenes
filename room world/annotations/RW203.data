@@ -30,9 +30,27 @@ Ceiling Fan:right of:Ceiling Light 1
 Ceiling Fan:left of:Ceiling Light 2
 Ceiling Fan:to the right of:Ceiling Light 1
 Ceiling Fan:to the left of:Ceiling Light 2
+Ceiling Fan:to the right of d:Ceiling Light 1
+Ceiling Light 2:to the right of d:Ceiling Fan
+Ceiling Fan:to the left of d:Ceiling Light 2
+Ceiling Light 1:to the left of d:Ceiling Fan
+Sofa 2:to the right of d:Coffee Table
+Vase:to the right of d:Blue Chair 2
+Bookshelf 2:to the right of d:Picture 1
+Bookshelf 1:to the left of d:Picture 1
+Picture 1:to the right of d:Bookshelf 1
+Picture 1:to the left of d:Bookshelf 2
+
+Blue Chair 2:not to the right d:Vase
+Vase:not to the left d:Blue Chair 2
+Bookshelf 2:not to the left of d:Picture 1
+Bookshelf 1:not to the right of d:Picture 1
+Picture 1:not to the left of d:Bookshelf 1
+Picture 1:not to the right of d:Bookshelf 2
 Cardbox 1:not on:Table
 Laptop:not on:Sofa 1
 Sofa 2:not near:West Wall
 Green Book 2:not on:Bookshelf 2
 Blue Chair 2:not in front of:Table
 Sofa 1:not in front of:Coffee Table
+Sofa 2:not in front of:Coffee Table

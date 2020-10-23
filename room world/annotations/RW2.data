@@ -18,3 +18,70 @@ Laptop 2:to the left of:TV 2
 Green Book 1:to the left of:Pencil Holder
 Red Chair 2:to the left of:Banana 2
 Desk 1:to the left of:Red Chair 2
+Yellow Book 2:to the right of d:Red Book 3
+Yellow Book 2:to the right of d:Green Book 1
+Yellow Book 2:to the left of d:Pencil Holder
+Yellow Book 2:to the right of d:Red Book 1
+Pencil 2:to the left of d:Note 2
+Note 2:to the left of d:Pencil 1
+Pencil Holder:to the right of d:Yellow Book 2
+Pencil Holder:to the right of d:Green Book 1
+Pencil 1:to the right of d:Note 2
+Bowl:to the right of d:Pencil 1
+Pencil 1:to the left of d:Bowl 2
+Green Book 1:to the left of d:Pencil Holder
+Red Book 3:to the left of d:Yellow Book 2
+Pencil 2:to the right of d:Note 1
+Note 1:to the left of d:Pencil 2
+Ceiling Fan:to the right of d:Ceiling Light 1
+Ceiling Fan:to the left of d:Ceiling Light 2
+Ceiling Light 1:to the left of d:Ceiling Fan
+Ceiling Light 2:to the right of d:Ceiling Fan
+Desk 2:to the right of d:Desk 1
+Red Chair 2:to the right of d:Desk 1
+Pencil Holder:to the right of d:Red Book 1
+Bowl:to the right of d:Note 2
+Blue Chair 2:in front of:Desk 1
+Note 2:in front of:Pencil Holder
+Note 1:in front of:Laptop 1
+Blue Chair 1:in front of:Bookshelf 1
+Desk 2:in front of:East Wall
+Laptop 1:in front of:TV 2
+Banana 2:in front of:East Wall
+Red Chair 2:in front of:Desk 2
+Pencil 2:in front of:Red Book 1
+Desk 2:in front of:Bookshelf 1
+TV 2:in front of:East Wall
+
+Red Book 3:not to the right of d:Pencil Holder
+Red Book 1:not to the right of d:Pencil Holder
+Green Book 1:not to the right of d:Pencil Holder
+Banana 1:not to the right of d:Bowl
+Pencil 2:not to the right of d:Note 2
+Note 1:not to the right of d:Note 2
+Note 2:not to the right of d:Pencil 1
+Note 2:not to the right of d:Banana 1
+Blue Chair 2:not to the right of d:Red Chair 2
+Red Book 3:not to the right of d:Yellow Book 2
+Red Book 1:not to the right of d:Yellow Book 2
+Note 1:not to the right of d:Pencil 2
+Pencil 1:not to the right of d:Bowl
+Bookshelf 3:not to the right of d:East Wall
+Laptop 2:not to the right of d:TV 2
+Blue Chair 1:not to the right of d:Red Chair 2
+Blue Chair 1:not to the right of d:Bookshelf 1
+Green Book 2:not to the right of d:Red Book 2
+Ceiling Fan:not to the right of d:Ceiling Light 2
+Ceiling Light 1:not to the right of d:Ceiling Fan
+Ceiling Light 1:not to the right of d:Ceiling Light 2
+Bookshelf 2:not to the right of d:Bookshelf 1
+Red Chair 1:not to the right of d:Bookshelf 3
+Red Book 1:not in front of:Laptop 1
+Red Book 1:not in front of:Green Book 1
+Red Book 1:not in front of:Pencil Holder
+Red Book 1:not in front of:Pencil 2
+Pencil Holder:not in front of:Note 2
+Pencil 1:not in front of:Banana 1
+Laptop 1:not in front of:Note 1
+
+
