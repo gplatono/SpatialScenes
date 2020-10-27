@@ -1,5 +1,6 @@
 Ceiling Light 1.001:to the left of:Ceiling Light 1.002
 Ceiling Light 1.002:to the right of:Ceiling Light 1.001
+Ceiling Light 1.001:over:Table
 Banana:next to:BigTree.001
 Banana.001:between:BigTree.001:Human.002
 Banana.002:under:Table
@@ -11,20 +12,32 @@ Chair:on:LongTable
 Chair:next to:Laptop
 Laptop:next to:Chair
 BigTree:next to:Chair
-BigTree:next to:Laptop
-Laptop:next to:BigTree
-Banana.003:next to:Laptop
+BigTree:in front of:Laptop
+Laptop:under:BigTree
+Banana.003:in front of:Laptop
 Banana.003:next to:Human.002
-Banana.003:next to:BigTree
+Banana.003:under:BigTree
 Laptop:next to:Banana.003
-Human.002:next to:Banana.003
+Human.002:to the right of:Banana.003
 BigTree:next to:Banana.003
 Human.002:above:Floor
 chair 1:behind:Table
 Human.003:in:chair 1
 Human.002:on:LongTable
 Laptop:on:LongTable
-LongTable:next to:Table
+LongTable:to the right of:Table
 picture1:on:East Wall
 Poster:on:West Wall
-Table:next to:LongTable
+Table:to the left of:LongTable
+Poster:not near:picture1
+picture1:not near:Poster
+BigTree:not near:BigTree.001
+chair 1:not to the right of:Human.003
+Human.003:not to the right of:chair 1
+Banana:in front of:Banana.001
+Laptop:not touching:BigTree
+BigTree:not touchingLaptop
+Laptop:not touching:Human.002
+Human.002:not touching:Laptop
+Banana.003:not touching:BigTree
+BigTree:not touching:Banana
