@@ -1,19 +1,31 @@
 Banana:on:Table
+Banana:touching:Human
 Banana.001:touching:Human
 Banana.001:above:Table
 Ceiling Light 1:between:Ceiling Light 1.001:Ceiling Light 1.002
+Ceiling Light 1:over:Table
+Ceiling Light 1:over:Vase
+Ceiling Light 1:over:Rose_flower
 Ceiling Light 1.001:to the left of:Ceiling Light 1
 Ceiling Light 1.001:to the left of:Ceiling Light 1.002
 Ceiling Light 1.002:to the right of:Ceiling Light 1
 Ceiling Light 1.002:to the right of:Ceiling Light 1.001
 Chair:next to:Table
-Chair.001:next to:Table
-Chair.004:next to:Table
+Chair.001:at:Table
+Chair.001:to the left of:Chair
+Chair.004:at:Table
+Chair.004:to the right of:Chair
 Human:in:Chair
+Human:touching:Banana
+Human:touching:Banana.001
 Human:at:Table
-RockingChair:next to:North Wall
+RockingChair:in front of:North Wall
 RockingChair:next to:East Wall
 Rose_flower:in:Vase
 Vase:on:Table
 Rose_flower:under:Ceiling Light 1
 Vase:under:Ceiling Light 1
+Banana.001:not touching:Table
+Rose_flower:not on:Table
+Rose_flower:not on:Floor
+Vase:not on:Floor
