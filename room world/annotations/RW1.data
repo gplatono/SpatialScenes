@@ -170,3 +170,51 @@ Cardbox 2:below:Yellow Book 2
 Cardbox 2:not above:Yellow Book 2
 Yellow Book 2:above:Cardbox 2
 Yellow Book 2:not below:Cardbox 2
+
+Table:to the right of d:Cardbox 2
+Ceiling Light 2:to the right of d:Ceiling Light 1
+Picture 2:to the right of d:West Wall
+CardBox 2:to the right of d:Cardbox 1
+Ceiling Fan:to the right of d:Ceiling Light 1
+Blue Chair 2:to the right of d:Cardbox 2
+Blue Chair 2:to the right of d:Table
+Yellow Book 2:to the right of d:Laptop
+BookShelf 2:to the right of d:Picture 1
+Picture 1:to the right of d:Bookshelf 1
+Picture 1:to the left of d:Bookshelf 2
+Yellow Book 2:to the left of d:Blue Chair 2
+Blue Chair 2:to the left of d:Blue Chair 1
+Laptop:to the left of d:Blue Chair 2
+Ceiling Fan:to the left of d:Ceiling Light 2
+Ceiling Light 1:to the left of d:Ceiling Light 2
+Laptop:to the left of d:Yellow Book 2
+Table:to the left of d:Blue Chair 2
+Bookshelf 1:to the left of d:Picture 1
+Cardbox 2:to the left of d:Blue Chair 2
+Table:to the left of d:East Wall
+Table:to the right of d:West Wall
+
+Cardbox 2:not to the left of d:Blue Chair 1
+Cardbox 2:not to the right of d:Blue Chair 2
+Cardbox 2:not to the right of d:Table
+Cardbox 2:not to the left of d:Picture 1
+Cardbox 2:not to the right of d:Picture 2
+Cardbox 1:not to the right of d:Blue Chair 1
+Cardbox 1:not to the left of d:Blue Chair 1
+Cardbox 1:not to the right of d:Blue Chair 2
+Cardbox 1:not to the right of d:Picture 1
+Cardbox 1:not to the right of d:Picture 2
+Table:not to the right of d:Floor
+Table:not to the left of d:Floor
+Table:not to the right of d:North Wall
+Laptop:not to the left of d:Picture 1
+Laptop:not to the right of d:East Wall
+Laptop:not to the right of d:Table
+Laptop:not to the right of d:Cardbox 1
+Laptop:not to the right of d:Cardbox 2
+Green Book 1:not to the right of d:Laptop
+Green Book 1:not to the left of d:West Wall
+Green Book 1:not to the right of d:East Wall
+Green Book 1:not to the right of d:Floor
+Green Book 1:not to the right of d:Bookshelf 2
+Bookshelf 2:not to the left of d:Green Book 1
