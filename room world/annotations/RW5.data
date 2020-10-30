@@ -39,6 +39,34 @@ bed 1:to the right of:apple
 apple:near:gray book
 bookshelf:below:ceiling
 table:below:ceiling
+blue_book:to the right of:apple
+blue_book:to the right of:deep_plate
+brown chair:to the right of:blue_book
+blue_chair:to the right of:table2
+lamp1:to the right of:green_book
+lamp1:to the right of:purple book
+green_book:to the right of:purple book
+bed 1:to the right of:bed 2
+bed 1:to the right of:red_book
+bed 2:to the right of:brown chair
+table2:to the right of:west_wall
+red_chair:to the right of:table2
+gray book:to the right of:west_wall
+tv:to the right of:bookshelf
+brown chair:to the left of:bed 1
+table:to the left of:bed 2
+table:to the left of:brown chair
+blue_book:to the left of:apple
+blue_book:to the left of:brown chair
+green_book:to the left of:lamp1
+purple book:to the left of:lamp1
+gray book:to the left of:red_chair
+red_book:to the left of:bed 1
+gray book:to the left of:blue_chair
+west_wall:to the left of:gray book
+west_wall:to the left of:table2
+purple book:to the left of:green_book
+table2:to the left of:blue_chair
 
 brown chair:not in between:red_chair:blue_chair
 bed 1:not near:picture
@@ -83,3 +111,41 @@ brown chair:not in between:bed 1:bed 2
 table:not on:picture
 yellow_book:not on:purple book
 picture:not below:red_book
+bed 2:not to the right of:red_book
+bed 2:not to the right of:bed 1
+brown chair:not to the right of:red_book
+picture:not to the right of:gray book
+gray book:not to the right of:red_chair
+deep_plate:not to the right of:blue_book
+deep_plate:not to the right of:brown chair
+brown chair:not to the right of:bed 1
+green_book:not to the right of:lamp1
+west_wall:not to the right of:blue_chair
+blue_chair:not to the right of:red_chair
+lamp1:not to the right of:tv
+tv_table:not to the right of:east_wall
+table:not to the right of:brown chair
+table:not to the right of:bed 2
+purple book:not to the right of:lamp1
+blue_book:not to the right of:brown chair
+red_book:not to the right of:bed 1
+tv_table:not to the left of:bookshelf
+lamp1:not to the left of:purple book
+green_book:not to the left of:purple book
+brown chair:not to the left of:table
+blue_book:not to the left of:apple
+apple:not to the left of:picture
+gray book:not to the left of:picture
+brown chair:not to the left of:red_chair
+red_chair:not to the left of:blue_chair
+blue_chair:not to the left of:gray book
+bed 1:not to the left of:bed 2
+yellow_book:not to the left of:green_book
+east_wall:not to the left of:bed 1
+table:not to the left of:table2
+brown chair:not to the left of:blue_book
+red_book:not to the left of:brown chair
+table2:not to the left of:west_wall
+red_chair:not to the left of:table2
+bed 2:not to the left of:table
+table:not to the left of:west_wall

@@ -38,6 +38,35 @@ Cardbox 2:left of:Blue Chair 1
 Picture 2:right of:Ceiling Light 2
 Picture 1:left of:Ceiling Light 1
 Cardbox 1:between:Picture 1:Picture 2
+Picture 2:to the right of:Ceiling Fan
+Ceiling Fan:to the right of:Ceiling Light 1
+Cardbox 1:to the right of:Laptop
+Red Book 1:to the right of:Laptop
+Blue Chair 2:to the right of:Table
+Laptop:to the right of:Blue Chair 1
+Laptop:to the right of:Yellow Book 2
+Ceiling Light 2:to the right of:Ceiling Fan
+Blue Chair 2:to the right of:Cardbox 1
+Blue Chair 2:to the right of:Table
+East Wall:to the right of:Table
+East Wall:to the right of:Blue Chair 2
+Blue Chair 2:to the right of:Blue Chair 1
+Blue Chair 2:to the right of:Yellow Book 2
+Ceiling Light 2:to the left of:Picture 2
+Laptop:to the left of:Cardbox 1
+Cardbox 1:to the left of:Red Book 1
+Red Book 1:to the left of:East Wall
+Ceiling Light 1:to the left of:Ceiling Fan
+Ceiling Light 1:to the left of:Ceiling Light 2
+Ceiling Fan:to the left of:Ceiling Light 2
+Laptop:to the left of:Red Book 1
+Red Book 1:to the left of:Blue Chair 2
+Table:to the left of:Blue Chair 2
+Blue Chair 1:to the left of:Table
+Blue Chair 2:to the left of:East Wall
+Blue Chair 1:to the left of:Blue Chair 2
+Yellow Book 2:to the left of:Blue Chair 2
+Laptop:to the left of:Cardbox 1
 
 
 Blue Chair 2:not near:Bookshelf 1
@@ -73,3 +102,40 @@ Ceiling:not on:Yellow Book 1
 Blue Chair 2:not next to:North Wall
 East Wall:not in between:Table:Blue Chair 2
 Laptop:not next to:Picture 1
+Bookshelf 2:not to the right of:Picture 2
+Picture 1:not to the right of:Picture 2
+Cardbox 1:not to the right of:East Wall
+Laptop:not to the right of:Cardbox 1
+Cardbox 1:not to the right of:Red Book 1
+Red Book 1:not to the right of:Blue Chair 2
+Laptop:not to the right of:Blue Chair 2
+Green Book 2:not to the right of:Red Book 2
+Cardbox 2:not to the right of:Red Book 2
+Blue Chair 1:not to the right of:Cardbox 1
+Blue Chair 1:not to the right of:Laptop
+Blue Chair 1:not to the right of:East Wall
+Yellow Book 2:not to the right of:Red Book 1
+Picture 1:not to the right of:Table
+Yellow Book 2:not to the right of:Table
+Laptop:not to the right of:Red Book 1
+Laptop:not to the right of:Cardbox 1
+Ceiling Fan:not to the right of:Ceiling Light 2
+Ceiling Light 2:not to the right of:East Wall
+Ceiling Light 2:not to the left of:Ceiling Fan
+Red Book 1:not to the left of:Cardbox 1
+Red Book 1:not to the left of:Laptop
+Cardbox 1:not to the left of:Laptop
+Red Book 1:not to the left of:Yellow Book 2
+Yellow Book 2:not to the left of:Picture 1
+Ceiling Fan:not to the left of:Ceiling Light 1
+Ceiling Light 1:not to the left of:Picture 1
+Table:not to the left of:Blue Chair 1
+Blue Chair 2:not to the left of:Table
+Blue Chair 2:not to the left of:Cardbox 1
+Picture 2:not to the left of:Cardbox 1
+Laptop:not to the left of:Cardbox 2
+Bookshelf 2:not to the left of:Bookshelf 1
+Ceiling Light 2:not to the left of:Ceiling Light 1
+Yellow Book 1:not to the left of:Green Book 2
+East Wall:not to the left of:Blue Chair 2
+Blue Chair 1:not to the left of:Picture 1
