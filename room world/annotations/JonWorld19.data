@@ -4,10 +4,13 @@ Ceiling Light 1.002:behind:Ceiling Light 1.001
 Ceiling Light 1.001:in front of:Ceiling Light 1
 Ceiling Light 1.002:behind:Ceiling Light 1
 Cat:on:Counter
+Cat:to the left of:Human
+Cat:to the left of:Fridge
 Counter:to the right of:LongTable
 Fridge:next to:Counter
 Fridge:to the right of:KnifeBlock
 Human:at:Counter
+Human:to the left of:Mixer
 KnifeBlock:on:Counter
 KnifeBlock:between:Microwave:Fridge
 LongTable:to the left of:Counter
@@ -15,9 +18,72 @@ Microwave:on:Counter
 Microwave:to the left of:KnifeBlock
 Mixer:on:Counter
 Mixer:to the right of:Human
-PlainChair:at:LongTable
-PlainChair.001:at:LongTable
-PlainChair.002:at:LongTable
-PlainChair.003:at:LongTable
+Mixer:to the left of:Microwave
+Microwave:to the right of:Mixer
+PlainChair:next to:LongTable
+PlainChair.001:next to:LongTable
+PlainChair.002:next to:LongTable
+PlainChair.003:next to:LongTable
 Rose_flower:in:Vase
 Vase:on:LongTable
+PlainChair:to the left of:PlainChair.002
+PlainChair.001:to the right of:PlainChair.002
+PlainChair:to the right of:PlainChair.003
+PlainChair.001:to the left of:PlainChair.003
+PlainChair.002:to the left of:PlainChair
+Ceiling:above:Floor
+Rose_flower:not on:LongTable
+Table:not supported by:PlainChair.001
+Table:not supported by:PlainChair.002
+Table:not supported by:PlainChair.003
+Table:not supported by:PlainChair
+Human:not in:Counter
+Human:not supported by:Counter
+Mixer:not above:Cat
+PlainChair.003:not in front of:PlainChair.002
+PlainChair.003:not behind:PlainChair.002
+PlainChair.002:not in front of:PlainChair.003
+PlainChair.002:not behind:PlainChair.003
+PlainChair.001:not in front of:PlainChair
+PlainChair:not in front of:PlainChair.001
+PlainChair:not behind:PlainChair.001
+Fridge:not in front of:Counter
+Fridge:not behind:Counter
+Counter:not above:KnifeBlock
+Rose_flower:not below:Vase
+PlainChair:not near:Fridge
+Counter:not touching:PlainChair
+Counter:not touching:PlainChair.001
+Counter:not touching:PlainChair.002
+Counter:not touching:PlainChair.003	
+Ceiling Light 1:not over:LongTable
+Ceiling Light 1.001:not over:LongTable
+Ceiling Light 1.002:not over:LongTable
+Human:not in front of:LongTable
+Human:not to the left of:LongTable
+LongTable:not to the right of:LongTable
+Human:not on:Ceiling
+West Wall:not below:Floor
+East Wall:not below:Floor
+North Wall:not below:Floor
+West Wall:not above:Ceiling
+East Wall:not above:Ceiling
+North Wall:not above:Ceiling
+Ceiling Light 1:not above:Ceiling
+Ceiling Light 1.001:not above:Ceiling
+Ceiling Light 1.002:not above:Ceiling
+Human:facing:LongTable
+Cat:facing:Human
+PlainChair:facing:PlainChair
+PlainChair.001:facing:PlainChair
+PlainChair.003:facing:PlainChair.002
+PlainChair.002:facing:PlainChair.003
+Fridge:facing:Cat
+West Wall:facing:East Wall
+East Wall:facing:North Wall
+Human:not facing:Fridge
+Human:not facing:Cat
+West Wall:not facing:North Wall
+East Wall:not facing:North Wall
+North Wall:not facing:Wall Wall
+North Wall:not facing:East Wall
