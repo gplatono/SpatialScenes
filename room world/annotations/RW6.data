@@ -48,6 +48,42 @@ vase 2:near:ceiling
 brown chair 2:near:TV
 table 1:to the right of:table 2
 table 1:in between:table 2:Trash Can
+apple:in front of:vase 2
+apple:in front of:rose
+red chair:in front of:brown chair 1
+blue book 3:in front of:brown chair 1
+brown chair 1:in front of:bed
+Bookshelf:in front of:brown chair 2
+Trash Can:in front of:Bookshelf
+Trash Can:in front of:blue book 4
+Bookshelf:in front of:brown chair 2
+brown chair 1:in front of:bed
+table 2:in front of:west wall
+Trash Can:in front of:brown chair 2
+table 2:in front of:red chair
+brown chair 1:behind:red chair
+laptop 1:behind:apple
+vase 2:behind:laptop 1
+rose:behind:laptop 1
+Bookshelf:behind:Trash Can
+brown chair 2:behind:Bookshelf
+blue book 1:behind:Laptop
+bowl:behind:Laptop
+vase 2:behind:Banana
+blue book 4:behind:Trash Can
+vase 2:behind:apple
+Red Book 1:behind:blue book 3
+blue book 6:to the right of:Red Book 1
+laptop 1:to the right of:vase 2
+Red Book 1:to the right of:blue book 3
+red chair:to the right of:table 2
+blue book 1:to the right of:Laptop
+bowl:to the right of:blue book 1
+table 1:to the right of:red chair
+laptop 1:to the right of:rose
+east wall:to the right of:blue book 4
+Red Book 1:to the right of:table 2
+apple:to the right of:Banana
 
 bowl:not below:TV
 bed:not next to:east wall
@@ -99,4 +135,44 @@ vase 2:not on:Trash Can
 Rose:not on:apple
 bed:not in between:table 2:red chair
 brown chair 2:not on:table 1
+blue book 6:not in front of:Red Book 1
+brown chair 1:not in front of:blue book 3
+red chair:not in front of:blue book 3
+laptop 1:not in front of:vase 2
+vase 2:not in front of:Banana
+Cardbox 1:not in front of:table 1
+Cardbox 1:not in front of:Red Book 1
+brown chair 2:not in front of:blue book 4
+blue book 4:not in front of:blue book 6
+blue book 4:not in front of:Trash Can
+TV:not in front of:table 1
+vase 1:not in front of:blue book 4
+blue book 3:not behind:brown chair 1
+red chair:not behind:brown chair 1
+apple:not behind:laptop 1
+apple:not behind:vase 2
+laptop 1:not behind:rose
+apple:not behind:Banana
+Laptop:not behind:blue book 1
+blue book 1:not behind:bowl
+bed:not behind:TV
+vase 1:not behind:brown chair 2
+Trash Can:not behind:blue book 4
+table 2:not behind:bed
+red chair:not behind:blue book 6
+vase 2:not to the right of:laptop 1
+Banana:not to the right of:apple
+apple:not to the right of:blue book 3
+red chair:not to the right of:table 1
+Red Book 1:not to the right of:blue book 6
+Laptop:not to the right of:blue book 1
+blue book 1:not to the right of:bowl
+brown chair 2::not to the right of:blue book 4
+laptop 1:not to the right of:brown chair 1
+apple:not to the right of:Red Book 1
+blue book 6:not to the right of:east wall
+bed:not to the right of:TV
+Cardbox 1:not to the right of:Trash Can
+brown chair 1:not to the right of:Bookshelf
+table 1:not to the right of:east wall
 
