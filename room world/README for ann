@@ -5,9 +5,9 @@ testLabel.py and testLabel2.py is combined to detect annotation typo.
     blender path matches the string on the "command" list at index 0. Otherwise, put your own blender path in one of the command,
     the first one command is for mac, second for windows, third for linux.
 
-2. choose file to detect: Looking at line 20, adding "name == 'blabla.data" tell the python to only check that specific annotation file.
+2. choose file to detect: Looking at line 13, adding "name == 'blabla.data" tell the python to only check that specific annotation file.
     if not adding "name == 'blabla.data", python will check all annotation file.
 
-3. command to run: go to your spatRel directory in terminal or commandline, enter the following:
+3. command to run: go to your room world directory in terminal or commandline, enter the following:
     python train_spatial.py
     terminal or commandline output will tell you where and what the errors are.
