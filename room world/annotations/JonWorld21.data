@@ -29,6 +29,7 @@ Apple.001:to the right of:Apple
 Apple:on:Counter
 Apple.001:on:Counter
 Aquarium:on:Table
+Aquarium:under:BigTree
 Banana:on:PlainChair.001
 BigTree:to the right of:Table
 Human.001:in:PlainChair.001
@@ -48,7 +49,6 @@ Human.005:near:Fridge
 Human:near:Human.001
 Human.001:near:Human
 Human.001:near:Human.004
-
 Human.004:not near:BigTree
 Human.002:not near:Human.005
 Human.004:not near:Lamp
@@ -89,3 +89,12 @@ BigTree:not at:Table
 Vase:not at:LongTable
 Banana:not at:Table
 Banana:not at:PlainChair.001
+Human:not in front of:Human.005
+Human.005:not in front of:Human
+Birdcage:not in front of:Bird
+Birdcage:not to the left of:Bird
+Birdcage:not to the right of:Bird
+Birdcage:not behind:Bird
+Human.001:not supported by:LongTable
+Human.002:not supported by:LongTable
+Human.004:not supported by:LongTable
