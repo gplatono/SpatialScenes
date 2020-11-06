@@ -84,6 +84,18 @@ laptop 1:to the right of:rose
 east wall:to the right of:blue book 4
 Red Book 1:to the right of:table 2
 apple:to the right of:Banana
+apple:in front of d:laptop 1
+apple:in front of d:vase 2
+red chair:in front of d:brown chair 1
+blue book 3:in front of d:brown chair 1
+brown chair 1:in front of d:bed
+brown chair 1:in front of d:blue book 1
+brown chair 1:in front of d:bowl
+Bookshelf:in front of d:brown chair 2
+Trash Can:in front of d:Bookshelf
+Trash Can:in front of d:blue book 4
+Banana:in front of d:vase 2
+Trash Can:in front of d:brown chair 2
 
 bowl:not below:TV
 bed:not next to:east wall
@@ -175,4 +187,19 @@ bed:not to the right of:TV
 Cardbox 1:not to the right of:Trash Can
 brown chair 1:not to the right of:Bookshelf
 table 1:not to the right of:east wall
+laptop 1:not in front of d:apple
+laptop 1:not in front of d:Banana
+rose:not in front of d:apple
+Banana:not in front of d:apple
+brown chair 1:not in front of d:blue book 3
+brown chair 1:not in front of d:red chair
+bed:not in front of d:table 2
+blue book 6:not in front of d:Red Book 1
+blue book 4:not in front of d:Trash Can
+Bookshelf:not in front of d:Trash Can
+brown chair:not in front of d:Trash Can
+TV:not in front of d:Cardbox 1
+TV:not in front of d:table 1
+bowl:not in front of d:brown chair 1
+Laptop:not in front of d:laptop 1
 

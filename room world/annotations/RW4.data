@@ -97,6 +97,21 @@ East Wall:behind:Laptop 2
 Laptop 1:behind:Blue Chair 1
 Blue Chair 2:behind:Trash Can
 Note 2:behind:Banana 2
+Red Chair 2:in front of d:Desk 1
+Desk 1:in front of d:North Wall
+Red Chair 2:in front of d:North Wall
+Desk 2:in front of d:Bookshelf 1
+Blue Chair 1:in front of d:Bookshelf 2
+Blue Chair 1:in front of d:Laptop 1
+Pencil 2:in front of d:North Wall
+Banana 2:in front of d:Note 1
+Banana 2:in front of d:Note 2
+Note 1:in front of d:Laptop 2
+Blue Chair 2:in front of d:Bookshelf 1
+Laptop 2:in front of d:Bookshelf 1
+Red Chair 1:in front of d:Green Book 1
+Bowl:in front of d:Banana 1
+Banana 1:in front of d:Red Book 1
 
 Pencil Holder:not near:Trash Can
 Ceiling Light 2:not on:Laptop 2
@@ -204,4 +219,22 @@ Laptop 1:not behind:Bookshelf 2
 Desk 1:not behind:North Wall
 Laptop 2:not behind:Green Book 2
 Banana 1:not behind:Red Book 1
+Blue Chair 1:not in front of d:Green Book 1
+Blue Chair 1:not in front of d:Red Chair 1
+Red Book 1:not in front of d:Green Book 1
+Red Book 1:not in front of d:Banana 1
+Banana 1:not in front of d:Bowl
+Pencil Holder:not in front of d:Bowl
+Yellow Book 1:not in front of d:Blue Chair 1
+Laptop 1:not in front of d:Blue Chair 1
+Pencil 2:not in front of d:Red Chair 2
+TV 2:not in front of d:Red Chair 2
+Bookshelf 1:not in front of d:Desk 2
+Bookshelf 1:not in front of d:Laptop 2
+Laptop 2:not in front of d:Note 1
+Laptop 2:not in front of d:Banana 2
+Banana 2:not in front of d:Trash Can
+Note 2:not in front of d:Banana 2
+Pencil 1:not in front of d:Red Chair 2
+Green Book 2:not in front of d:Blue Chair 2
 
