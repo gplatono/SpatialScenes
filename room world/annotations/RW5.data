@@ -67,6 +67,28 @@ west_wall:to the left of:gray book
 west_wall:to the left of:table2
 purple book:to the left of:green_book
 table2:to the left of:blue_chair
+table:in front of:table2
+deep_plate:in front of:gray book
+brown chair:in front of:red_chair
+table2:in front of:picture
+bed 1:in front of:tv
+bed 1:in front of:tv_table
+blue_book:in front of:blue_chair
+table2:in front of:bookshelf
+table2:in front of:green_book
+table:in front of:blue_chair
+blue_book:in front of:blue_chair
+table2:behind:table
+table2:behind:deep_plate
+gray book:behind:apple
+blue_chair:behind:blue_book
+bookshelf:behind:table2
+green_book:behind:lamp1
+purple book:behind:lamp1
+tv:behind:bed 1
+gray book:behind:table
+lamp1:behind:blue_chair
+lamp1:behind:table2
 
 brown chair:not in between:red_chair:blue_chair
 bed 1:not near:picture
@@ -149,3 +171,33 @@ table2:not to the left of:west_wall
 red_chair:not to the left of:table2
 bed 2:not to the left of:table
 table:not to the left of:west_wall
+bed 2:not in front of:bed 1
+tv:not in front of:bed 1
+tv:not in front of:bed 2
+table2:not in front of:deep_plate
+gray book:not in front of:apple
+apple:not in front of:blue_book
+blue_chair:not in front of:brown chair
+green_book:not in front of:lamp1
+purple book:not in front of:green_book
+bookshelf:not in front of:blue_chair
+bookshelf:not in front of:gray book
+brown chair:not in front of:red_book
+brown chair:not in front of:bed 2
+table:not behind:table2
+table:not behind:blue_chair
+table:not behind:bookshelf
+bed 2:not behind:bed 1
+apple:not behind:blue_book
+gray book:not behind:lamp1
+blue_chair:not behind:green_book
+apple:not behind:gray book
+deep_plate:not behind:table2
+red_book:not behind:bed 1
+red_book:not behind:brown chair
+picture:not behind:table2
+picture:not behind:table
+yellow_book:not behind:green_book
+gray book:not behind:brown chair
+blue_book:not behind:blue_chair
+

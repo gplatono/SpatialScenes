@@ -67,6 +67,21 @@ Blue Chair 2:to the left of:East Wall
 Blue Chair 1:to the left of:Blue Chair 2
 Yellow Book 2:to the left of:Blue Chair 2
 Laptop:to the left of:Cardbox 1
+Table:in front of:Blue Chair 2
+Red Book 1:in front of:Blue Chair 2
+Laptop:in front of:Blue Chair 1
+Table:in front of:Blue Chair 1
+Blue Chair 1:in front of:East Wall
+Table:in front of:East Wall
+Blue Chair 2:in front of:Bookshelf 2
+Ceiling Light 2:in front of:Picture 2
+Ceiling Light 1:in front of:Picture 1
+Picture 1:not in front of:Bookshelf 1
+Blue Chair 1:behind:Laptop
+Yellow Book 2:behind:Laptop
+East Wall:behind:Blue Chair 2
+Bookshelf 2:behind:Blue Chair 2
+North Wall:behind:Blue Chair 1
 
 
 Blue Chair 2:not near:Bookshelf 1
@@ -139,3 +154,23 @@ Ceiling Light 2:not to the left of:Ceiling Light 1
 Yellow Book 1:not to the left of:Green Book 2
 East Wall:not to the left of:Blue Chair 2
 Blue Chair 1:not to the left of:Picture 1
+Laptop:not in front of:Cardbox 1
+Cardbox 1:not in front of:Red Book 1
+Yellow Book 2:not in front of:Laptop
+Blue Chair 1:not in front of:Table
+Blue Chair 2:not in front of:Red Book 1
+Red Book 2:not in front of:Table
+Bookshelf 1:not in front of:Bookshelf 2
+Bookshelf 2:not in front of:Blue Chair 2
+Yellow Book 2:not in front of:Cardbox 1
+Yellow Book 1:not in front of:Green Book 2
+Cardbox 2:not in front of:Picture 1
+Bookshelf 2:not in front of:Table
+Laptop:not behind:Yellow Book 2
+Table:not behind:Blue Chair 1
+Table:not behind:Blue Chair 2
+Red Book 1:not behind:Red Book 2
+Green Book 2:not behind:Red Book 1
+Cardbox 2:not behind:Cardbox 1
+Cardbox 1:not behind:Bookshelf 2
+Picture 2:not behind:Yellow Book 2
