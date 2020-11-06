@@ -197,7 +197,7 @@ bed:not in front of d:table 2
 blue book 6:not in front of d:Red Book 1
 blue book 4:not in front of d:Trash Can
 Bookshelf:not in front of d:Trash Can
-brown chair:not in front of d:Trash Can
+brown chair 2:not in front of d:Trash Can
 TV:not in front of d:Cardbox 1
 TV:not in front of d:table 1
 bowl:not in front of d:brown chair 1
