@@ -32,6 +32,7 @@ PlainChair:to the right of:PlainChair.003
 PlainChair.001:to the left of:PlainChair.003
 PlainChair.002:to the left of:PlainChair
 Ceiling:above:Floor
+
 Rose_flower:not on:LongTable
 Table:not supported by:PlainChair.001
 Table:not supported by:PlainChair.002
@@ -72,13 +73,15 @@ North Wall:not above:Ceiling
 Ceiling Light 1:not above:Ceiling
 Ceiling Light 1.001:not above:Ceiling
 Ceiling Light 1.002:not above:Ceiling
+
 Human:facing:LongTable
 Cat:facing:Human
-PlainChair:facing:PlainChair
+PlainChair:facing:PlainChair.001
 PlainChair.001:facing:PlainChair
 PlainChair.003:facing:PlainChair.002
 PlainChair.002:facing:PlainChair.003
 Fridge:facing:Cat
+
 West Wall:facing:East Wall
 East Wall:facing:North Wall
 Human:not facing:Fridge

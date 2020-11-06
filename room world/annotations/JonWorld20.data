@@ -3,7 +3,7 @@ Ceiling Light 1.001:in front of:Ceiling Light 1.002
 Ceiling Light 1.002:behind:Ceiling Light 1.001
 Ceiling Light 1.001:in front of:Ceiling Light 1
 Ceiling Light 1.002:behind:Ceiling Light 1
-Cat:under:LongTable
+Cat:on:Fridge
 Counter:to the right of:LongTable
 Fridge:next to:Counter
 Fridge:to the right of:KnifeBlock
@@ -15,6 +15,7 @@ Microwave:on:Counter
 Microwave:to the left of:KnifeBlock
 Mixer:on:Counter
 Mixer:to the right of:Human
+Mixer:to the right of:Apple
 PlainChair:at:LongTable
 PlainChair.001:at:LongTable
 PlainChair.002:at:LongTable
@@ -24,11 +25,76 @@ Vase:on:LongTable
 Apple:to the left of:Fridge
 Apple:to the right of:Human.001
 Apple:on:Counter
+Apple:to the left of:Mixer
 Aquarium:on:Table
-Banana:on:PlainChair.001
 Human.001:in:PlainChair.001
 Human.002:in:PlainChair
 Human.003:in:PlainChair.003
 Human.004:in:PlainChair.002
-Lamp:next to:East Wall
-Table:next to:North Wall
+Human:facing:LongTable
+Human:facing:Human.001
+Human:facing:Human.002
+PlainChair:facing:PlainChair
+PlainChair.001:facing:PlainChair
+PlainChair.003:facing:PlainChair.002
+PlainChair.002:facing:PlainChair.003
+Human.001:facing:Human.002
+Human.002:facing:Human.001
+Human.003:facing:Human.004
+Human.004:facing:Human.003
+Human.003:to the right of:Human.001
+Human.004:to the right of:Human.002
+Human.004:to the left of:Human.001
+Human.003:to the left of:Human.002
+Lamp:behind:Human.003
+Banana:under:PlainChair.001
+
+Lamp:not next to:East Wall
+Table:not next to:North Wall
+Cat:not under:LongTable
+Banana:not on:PlainChair.001
+Cat:not on:Floor
+Cat:not facing:Aquarium
+Cat:not facing:Apple
+Human.003:not to the left of:Human.001
+Human.004:not to the left of:Human.002
+Human.004:not to the right of:Human.001
+Human.003:not to the right of:Human.002
+Human.001:not facing:Human.003
+Human.002:not facing:Human.003
+Human.001:not facing:Human.004
+Human.002:not facing:Human.004
+Human.003:not facing:Human.001
+Human.003:not facing:Human.002
+Human.004:not facing:Human.001
+Human.004:not facing:Human.002
+Human.001:not facing:Human
+Human:not on:LongTable
+Human.001:not on:LongTable
+Human.002:not on:LongTable
+Human.003:not on:LongTable
+Human.004:not on:LongTable
+Human.001:not supported by:LongTable
+Human.001:not near:Aquarium
+Human.002:not supported by:LongTable
+Human.002:not near:Aquarium
+Human.003:not supported by:LongTable
+Human.003:not near:Aquarium
+Human.004:not supported by:LongTable
+Human.004:not near:Aquarium
+Microwave:not in front of:Fridge
+Fridge:not behind:Microwave
+Rose_flower:not to the right of:Human.001
+Vase:not to the right of:Human.001
+Rose_flower:not to the left of:Human.002
+Vase:not to the left of:Human.002
+Aquarium:not near:Human.001
+Aquarium:not near:Human.002
+Aquarium:not near:Human.003
+Aquarium:not near:Human.004
+Aquarium:not under:Table
+Table:not over:Aquarium
+Lamp:not near:Fridge
+Fridge:not near:Lamp
+Rose_flower:not touching:Table
+Banana:not near:Lamp
