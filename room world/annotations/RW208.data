@@ -1,35 +1,185 @@
-bed 1:near:West Wall
+Blue Chair 1:beside:Table
+Blue Chair 2:beside:Table
+Table:between:bed 1:Sofa
+Table:between:Blue Chair 1:Blue Chair 2
+Fridge:between:Bookshelf 1:Desk
+Desk:between:Fridge:Bookshelf 2
+picture 1:between:Fridge:Bookshelf 2
 bed 1:east of:West Wall
-bed 1:in front of:Bookshelf 1
-Sofa:next to:East Wall
 Sofa:left of:East Wall
-Sofa:in front of:Bookshelf 2
+Bookshelf 2:left of:East Wall
+Bookshelf 1:left of:East Wall
+Bookshelf 1:left of:Fridge
+Bookshelf 1:left of:Desk
+bed 1:near:West Wall
 Bookshelf 2:near:East Wall
 Bookshelf 2:near:North Wall
 Bookshelf 1:near:West Wall
 Bookshelf 1:near:North Wall
+Sofa:next to:East Wall
 Bookshelf 1:right of:West Wall
 Bookshelf 2:right of:West Wall
-Bookshelf 2:left of:East Wall
-Bookshelf 1:left of:East Wall
-Bookshelf 1:in front of:North Wall
-Bookshelf 2:in front of:North Wall
 Bookshelf 2:right of:Desk
 Bookshelf 2:right of:Fridge
-Bookshelf 1:left of:Fridge
-Bookshelf 1:left of:Desk
-Cardbox 1:below:Table
 Cardbox 1:on:Blue Chair 1
-Table:between:bed 1:Sofa
-Table:between:Blue Chair 1:Blue Chair 2
-Blue Chair 1:beside:Table
-Blue Chair 2:beside:Table
 Yellow Book 2:on:Table
 Red Book 2:on:Bookshelf 2
+Green Book 2:on:Bookshelf 2
 Green Book 2:on:Red Book 2
+Red Book 1:on:Bookshelf 1
+Yellow Book 1:on:Bookshelf 1
+Green Book 1:on:Bookshelf 1
+Laptop 1:on:Desk
+Note 1:on:Desk
+Bowl:on:Desk
+Banana 1:on:Desk
+Pencil Holder:on:Desk
 Laptop:on:Table
-Fridge:between:Bookshelf 1:Desk
-Desk:between:Fridge:Bookshelf 2
-picture 1:between:Fridge:Bookshelf 2
 picture 1:on:North Wall
 picture 2:on:East Wall
+bed 1:not on:Sofa
+Sofa:not on:bed 1
+Sofa:not on:Table
+fridge:not on:Table
+Table:not on:fridge
+Table:not on:Desk
+Desk:not on:North Wall
+Desk:not on:East Wall
+Laptop 1:not on:Table
+Laptop:not on:Desk
+Laptop:not on:Bookshelf 1
+Laptop:not on:Bookshelf 2
+Green Book 1:not on:Sofa
+Green Book 2:not on:bed 1
+Yellow Book 1:not on:Desk
+Pencil Holder:not on:Banana 1
+Banana 1:in:Bowl
+Bowl:not in:Banana 1
+bed 1:in front of:Bookshelf 1
+Blue Chair 1:in front of:Table
+Blue Chair 2:in front of:Table
+Yellow Book 2:in front of:Laptop
+Note 1:in front of:Laptop 1
+Bowl:in front of:Pencil Holder
+Yellow Book 1:in front of:Red Book 1
+Sofa:in front of:Bookshelf 2
+Sofa:in front of:Green Book 2
+Sofa:in front of:North Wall
+Sofa:in front of:Red Book 2
+Sofa:in front of:Table
+Table:in front of:Sofa
+bed 1:in front of:Table
+Table:in front of:bed 1
+Table:in front of:Desk
+Blue Chair 2:in front of:Cardbox 2
+Bookshelf 1:in front of:North Wall
+Bookshelf 2:in front of:North Wall
+Bookshelf 1:not in front of:bed 1
+Bookshelf 2:not in front of:bed 1
+Bookshelf 1:not in front of:Desk
+Bookshelf 2:not in front of:Desk
+Bookshelf 1:not in front of:Laptop
+Bookshelf 1:not in front of:Laptop 1
+Laptop 1:not in front of:Laptop
+Laptop 1:not in front of:Yellow Book 1
+bed 1:not in front of:Sofa
+Sofa:not in front of:Table
+Desk:not in front of:Blue Chair 1
+Table:not in front of:Bookshelf 1
+Table:not in front of:Bookshelf 2
+Pencil Holder:not in front of:Bowl
+Bowl:not in front of:Banana 1
+Banana 1:not in front of:Bowl
+bed 1:not in front of: Blue Chair 1
+bed 1:not in front of: Blue Chair 2
+Green Book 1:not in front of:Green Book 2
+Bookshelf 1:behind:bed 1
+bed 1:behind:Blue Chair 1
+Sofa:behind:Blue Chair 2
+Fridge:behind:Laptop
+Laptop 1:behind:Laptop
+North Wall:behind:Bookshelf 1
+North Wall:behind:Bookshelf 2
+East Wall:behind:Sofa
+Red Book 1:behind:Yellow Book 1
+Cardbox 1:not behind:Cardbox 2
+Cardbox 2:not behind:Cardbox 1
+Desk:not behind:Cardbox 1
+Desk:not behind:Cardbox 2
+Fridge:not behind:Desk
+Fridge:not behind:Bookshelf 1
+Fridge:not behind:Cardbox 1
+bed 1:not behind:Table
+Sofa:not behind:Table
+Laptop:above:Cardbox 1
+Yellow Book 2:above:Cardbox 1
+Laptop:above:Blue Chair 1
+Yellow Book 2:above:Blue Chair 1
+Cardbox 1:above:Blue Chair 1
+Yellow Book 1:above:Green Book 1
+Red Book 1:above:Green Book 1
+Green Book 2:above:Red Book 2
+Laptop 1:above:Cardbox 2
+Pencil Holder:above:Cardbox 2
+Bowl:above:Cardbox 2
+Note 1:above:Cardbox 2
+Picture 1:above:Desk
+Picture 1:above:Laptop 1
+Picture 1:above:Pencil Holder
+Picture 2:above:Sofa
+Ceiling Fan:above:Table
+Ceiling Fan:above:Laptop
+Ceiling Fan:above:Blue Chair 1
+Ceiling light 1:above:bed 1
+Ceiling Fan:above:Yellow Book 2
+Bookshelf 1:not above:Bookshelf 2
+Bookshelf 2:not above:Bookshelf 1
+bed 1:not above:Ceiling Light 1
+bed 1:not above:Ceiling Fan
+Table:not above:Sofa
+Sofa:not above:Table
+Green Book 1:not above:Green Book 2
+Green Book 2:not above:Green Book 1
+Yellow Book 1:not above:Yellow Book 2
+Yellow Book 2:not above:Yellow Book 1
+Picture 1:not above:Picture 2
+Laptop 1:not above:Banana 1
+Laptop 1:not above:Pencil Holder
+Laptop 1:not above:Bowl
+Laptop 1:not above:Laptop
+Laptop:not above:Laptop 1
+Laptop:not above:Blue Chair 2
+Yellow Book 2:not above:Blue Chair 2
+Green Book 1:not above:Bookshelf 1
+Red Book 2:not above:Bookshelf 2
+fridge:not above:Laptop 1
+Green Book 1:below:Red Book 1
+Green Book 1:below:Yellow Book 1
+Red Book 2:below:Green Book 2
+Sofa:below:Picture 2
+Laptop 1:below:Picture 1
+Pencil Holder:below:Picture 1
+Desk:below:Picture 1
+Cardbox 2:below:Desk
+Cardbox 1:below:Table
+Cardbox 1:below:Laptop
+Cardbox 1:below:Yellow Book 2
+Blue Chair 1:below:Table
+Blue Chair 1:below:Cardbox 1
+Table:below:Ceiling Fan
+bed 1:below:Ceiling Light 1
+Red Book 1:not below:Yellow Book 1
+Red Book 1:not below:Green Book 1
+Yellow Book 1:not below:Red Book 1
+Yellow Book 1:not below:Bookshelf 1
+Red Book 2:not below:Bookshelf 2
+Green Book 2:not below:Red Book 2
+Picture 1:not below:Bowl
+Bowl:not below:Banana 1
+Picture 1:not below:Laptop
+Picture 1:not below:Ceiling Light 1
+Picture 2:not below:Bookshelf 2
+Picture 2:not below:Ceiling Light 2
+Cardbox 2:not below:Cardbox 1
+Blue Chair 2:not below:Yellow Book 2
+Bookshelf 1:not below:Red Book 1

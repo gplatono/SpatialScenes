@@ -1,33 +1,107 @@
-Note:in:Trash Can
 Trash Can:beside:Desk
+Red Chair:beside:Desk
+Blue Chair:beside:bed 2
+Blue Chair:beside:Bookshelf
 Trash Can:between:Desk:bed 1
+Blue Chair:between:bed 2:Bookshelf
+Desk:between:Bookshelf:bed 1
+Ceiling Fan:between:Ceiling Light 1:Ceiling Light 2
+Table:between:Sofa:bed 2
+bed 2:left of:Blue Chair
 Trash Can:near:North Wall
 Sofa:near:East Wall
 Sofa:near:bed 2
 bed 1:near:North Wall
 bed 1:near:East Wall
-bed 2:right of:West Wall
 bed 2:near:Fridge
-bed 2:left of:Blue Chair
-Red Chair:beside:Desk
-Blue Chair:beside:bed 2
-Blue Chair:beside:Bookshelf
-Blue Chair:between:bed 2:Bookshelf
-TV:on:Desk
 TV:near:North Wall
-Laptop:on:Desk
-Laptop:in front of:TV
-Banana:on:Desk
-Banana:right of:Laptop
-Desk:between:Bookshelf:bed 1
 Bookshelf:near:West Wall
 Bookshelf:near:North Wall
-Bookshelf:right of:Blue Chair
-Fridge:next to:West Wall
 Fridge:near:bed 2
-Ceiling Fan:between:Ceiling Light 1:Ceiling Light 2
-Table:below:Ceiling Fan
-Table:between:Sofa:bed 2
+Fridge:next to:West Wall
+bed 2:right of:West Wall
+Banana:right of:Laptop
+Bookshelf:right of:Blue Chair
+TV:on:Desk
+Laptop:on:Desk
+Banana:on:Desk
+Green Book:on:Bookshelf
+Table:not on:Ceiling Light 1
+TV:not on:Table
+TV:not on:Sofa
+bed 1:not on:bed 2
+Note:in:Trash Can
+Trash Can:not in:Note
+Laptop:in front of:TV
 Table:in front of:Sofa
 Desk:in front of:Table
-Green Book:on:Bookshelf
+Blue Chair:in front of:bed 2
+Trash Can:in front of:bed 1
+Desk:in front of:bed 1
+Desk:in front of:Bookshelf 
+TV:in front of:Bookshelf
+Laptop:in front of:Bookshelf
+Table:in front of:Desk
+bed 1:not in front of:bed 2
+bed 2:not in front of:bed 1
+bed 1:not in front of:Sofa
+Sofa:not in front of:bed 1
+Blue Chair:not in front of:Table
+Bookshelf:not in front of:TV
+TV:not in front of:Laptop
+Fridge:not in front of:bed 2
+Fridge:not in front of:Sofa
+Fridge:behind:bed 1
+Table:behind:Red Chair 
+TV:behind:Laptop
+North Wall:behind:Banana
+North Wall:behind:TV
+East Wall:behind:bed 1
+West Wall:behind:Blue Chair 
+East Wall:behind:Sofa
+Red Chair:behind:Table
+Desk:behind:Table
+bed 1:not behind:Sofa
+Red Chair:not behind:Desk
+Laptop:not behind:TV
+Banana:not behind:North Wall
+East Wall:not behind:North Wall
+Sofa:not behind:bed 1
+bed 1:not behind:bed 2
+bed 2:not behind:Bookshelf 
+Bookshelf:not behind:Desk
+Table:not behind:Trash Can
+Ceiling Fan:above:Table
+TV:above:Red Chair
+Laptop:above:Desk
+Laptop:above:Red Chair 
+Banana:above:Desk
+Ceiling Light 1:above:bed 2
+Ceiling Light 1:above:Blue Chair
+Ceiling Light 2:above:Sofa
+Sofa:not above:Table
+Sofa:not above:Bookshelf
+Sofa:not above:Blue Chair
+bed 1:not above:bed 2
+bed 2:not above:Table
+Desk:not above:Bookshelf
+Ceiling Light 1:not above:Ceiling Light 2
+Ceiling Light 2:not above:Ceiling Light 1
+Table:below:Ceiling Fan
+Desk:below:Laptop
+Desk:below:TV
+Desk:below:Banana
+Red Chair:below:Desk
+Sofa:below:Ceiling Light 2
+bed 1:below:Ceiling Light 1
+Table:below:Ceiling Fan
+Sofa:not below:Table
+Blue Chair:not below:Bookshelf
+bed 1:not below:Blue Chair
+Trash Can:not below:Desk
+Trash Can:not below:bed 2
+bed 2:not below:Sofa
+Ceiling Fan:not below:Ceiling Light 1
+Trash Can:not below:Ceiling Fan
+
+

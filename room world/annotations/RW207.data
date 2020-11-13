@@ -1,33 +1,130 @@
+Blue Chair 1:beside:Desk
+Yellow Book:beside:lamp
+Table:between:West Wall:East Wall
+Coffee Table:between:Sofa:Table
 Ceiling Light:left of:Ceiling Fan
-Ceiling Fan:right of:Ceiling Light
-Picture 2:on:East Wall
-Picture 1:on:North Wall
+Coffee Table:left of:Table
 Picture 1:near:Ceiling
 Bookshelf:near:North Wall
-Bookshelf:near:East Wall
-Table:between:West Wall:East Wall
-Table:under:Ceiling
-Table:under:Ceiling Fan
-Blue Chair 2:right of:Table
-Blue Chair 1:beside:Desk
-Laptop:on:Table
-Coffee Table:between:Sofa:Table
 Coffee Table:near:Sofa
-Coffee Table:near:Table
-Coffee Table:left of:Table
-Sofa:next to:West Wall
 Sofa:near:West Wall
-Sofa:in front of:Desk
-Sofa:under:Ceiling
-lamp:on:Desk
 lamp:near:North Wall
+Desk:near:West Wall
+Sofa:next to:West Wall
 lamp:next to:Yellow Book
+Ceiling Fan:right of:Ceiling Light
+Blue Chair 2:right of:Table
+Picture 2:on:East Wall
+Picture 1:on:North Wall
+Laptop:on:Table
+lamp:on:Desk
 Cardbox 1:on:Desk
 Cardbox 2:on:Cardbox 1
+Cardbox 2:on:Desk
+Sofa:on:Floor
+Bookshelf:on:Floor
 Yellow Book:on:Desk
-Yellow Book:beside:lamp
-Desk:near:West Wall
-Desk:near:North Wall
 Red Book:on:Bookshelf
 Green Book:on:Red Book
 Green Book:on:bookshelf
+Green Book:not on:North Wall
+Green Book:not on:Picture 1
+Picture 1:not on:Picture 2
+Picture 2:not on:Picture 1
+Sofa:not on:Green Book
+Sofa:not on:Coffee Table
+Coffee Table:not on:Sofa
+Blue Chair 1:not on:Coffee Table
+Blue Chair 1:not on:Sofa
+Blue Chair 1:not on:Laptop
+Laptop:not on:Bookshelf
+Laptop:not on:Sofa
+Cardbox 1:not on:Coffee Table
+Coffee Table:in front of:Sofa
+Blue Chair 1:in front of:Desk
+Blue Chair 2:in front of:Table
+Sofa:in front of:Coffee Table
+Desk:in front of:Blue Chair 1
+Cardbox 1:in front of:Blue Chair 1
+lamp:in front of:Blue Chair 1
+Yellow Book:in front of:Blue Chair 1
+Picture 2:in front of:Bookshelf
+Sofa:in front of:Desk
+Table:in front of:Sofa
+Sofa:not in front of:Table
+Coffee Table:not in front of:Blue Chair 2
+Blue Chair 2:not in front of:Desk
+Blue Chair 1:not in front of:Blue Chair 2
+Blue Chair 2:not in front of:Blue Chair 1
+Blue Chair 1:not in front of:Coffee Table
+Green Book:not in front of:Red Book
+Red Book:not in front of:Blue Chair 1
+Green Book:not in front of:Bookshelf
+Bookshelf:not in front of:Green Book
+Picture 1:not in front of:Bookshelf
+West Wall:behind:Sofa
+Picture 2:behind:Blue Chair 2
+North Wall:behind:Bookshelf
+Sofa:behind:Blue Chair 1
+North Wall:behind:Lamp
+Sofa:behind:Coffee Table
+North Wall:behind:Yellow Book
+Picture 1:behind:Laptop
+Coffee Table:not behind:Blue Chair 2
+Sofa:not behind:Desk 
+lamp:not behind:Desk
+lamp:not behind:Cardbox 1
+Cardbox 1:behind:Cardbox 2
+Cardbox 2:behind:Cardbox 1
+Picture 1:not behind:Blue Chair 1
+Picture 2:not behind:Blue Chair 1
+Laptop:above:Table
+Ceiling Fan:above:Table
+Ceiling Fan:above:Coffee Table
+Picture 1:above:Desk
+Cardbox 1:above:Blue Chair 1
+Cardbox 2:above:Blue Chair 1
+Yellow Book:above:Blue Chair 1
+Yellow Book:above:Desk
+lamp:above:Desk
+Ceiling Light:above:Sofa
+Ceiling Light:above:Coffee Table
+Ceiling Fan:above:Blue Chair 2
+Green Book:above:Red Book
+Sofa:not above:Coffee Table
+Sofa:not above:Table
+Sofa:not above:Desk
+Cardbox 1:not above:Table
+Cardbox 2:not above:Bookshelf
+Cardbox 1:not above:Ceiling Light
+Ceiling Light:not above:Ceiling Fan
+Ceiling Fan:not above:Ceiling Light
+Ceiling Fan:not above:Desk
+Ceiling Fan:not above:Blue Chair 1
+Ceiling Light:not above:Table
+Blue Chair 1:not above:Blue Chair 2
+Blue Chair 1:not above:Coffee Table
+Cardbox 1:below:Cardbox 2
+Desk:below:Cardbox 1
+Desk:below:Cardbox 2
+Desk:below:lamp
+Sofa:below:Ceiling Light 
+Table:below:Ceiling Fan
+Laptop:below:Ceiling Fan
+Red Book:below:Green Book
+lamp:below:picture 1
+Blue Chair 1:below:Desk
+Blue Chair 2:below:Table
+Coffee Table:below:Ceiling Light
+Picture 1:not below:Picture 2
+Picture 2:not below:Picture 1
+Picture 1:not below:Cardbox 1
+Picture 1:not below:Cardbox 2
+Picture 2:not below:Cardbox 1
+Picture 2:not below:Cardbox 2
+Coffee Table:not below:Table
+Coffee Table:not below:Desk
+Desk:not below:Sofa
+Desk:not below:Blue Chair 2
+Desk:not below:Blue Chair 1
+Bookshelf:not below:Red Book
