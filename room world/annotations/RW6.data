@@ -96,6 +96,11 @@ Trash Can:in front of d:Bookshelf
 Trash Can:in front of d:blue book 4
 Banana:in front of d:vase 2
 Trash Can:in front of d:brown chair 2
+table 2:in front of i:red chair
+table 2:in front of i:brown chair 1
+west wall:in front of i:red chair
+west wall:in front of i:brown chair 1
+west wall:in front of i:Laptop
 
 bowl:not below:TV
 bed:not next to:east wall
@@ -202,4 +207,12 @@ TV:not in front of d:Cardbox 1
 TV:not in front of d:table 1
 bowl:not in front of d:brown chair 1
 Laptop:not in front of d:laptop 1
+west wall:not in front of i:laptop 1
+Trash Can:not in front of i:Bookshelf
+apple:not in front of i:laptop 1
+blue book 1:not in front of i:Laptop
+Bookshelf:not in front of i:brown chair 2
+table 1:not in front of i:red chair
+table 2:not in front of i:blue book 3
+Bookshelf:not in front of i:Trash Can
 

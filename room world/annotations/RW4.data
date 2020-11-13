@@ -112,6 +112,15 @@ Laptop 2:in front of d:Bookshelf 1
 Red Chair 1:in front of d:Green Book 1
 Bowl:in front of d:Banana 1
 Banana 1:in front of d:Red Book 1
+Desk 1:in front of i:Red Chair 2
+Pencil 2:in front of i:Red Chair 2
+Red Chair 2:in front of i:Desk 1
+Laptop 2:in front of i:Blue Chair 2
+Desk 2:in front of i:Blue Chair 2
+Desk 2:in front of i:Bookshelf 1
+Blue Chair 1:in front of i:Bookshelf 2
+Blue Chair 2:in front of i:Desk 2
+Blue Chair 2:in front of i:Laptop 2
 
 Pencil Holder:not near:Trash Can
 Ceiling Light 2:not on:Laptop 2
@@ -237,4 +246,15 @@ Banana 2:not in front of d:Trash Can
 Note 2:not in front of d:Banana 2
 Pencil 1:not in front of d:Red Chair 2
 Green Book 2:not in front of d:Blue Chair 2
+Red Chair 1:not in front of i:Bookshelf 3
+Banana 1:not in front of i:Red Book 1
+Red Book 1:not in front of i:Banana 1
+Trash Can:not in front of i:Desk 2
+Blue Chair 2:not in front of i:Trash Can
+Red Book 1:not in front of i:Blue Chair 1
+Trash Can:not in front of i:Laptop 2
+Trash Can:not in front of i:Blue Chair 2
+Banana 1:not in front of i:Bowl
+Note 1:not in front of i:Banana 1
+Note 2:not in front of i:Laptop 2
 

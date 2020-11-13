@@ -89,6 +89,12 @@ tv:behind:bed 1
 gray book:behind:table
 lamp1:behind:blue_chair
 lamp1:behind:table2
+table2:in front of i:bookshelf
+bed 1:in front of i:tv
+lamp1:in front of i:green_book
+green_book:in front of i:purple book
+lamp1:in front of i:purple book
+
 
 brown chair:not in between:red_chair:blue_chair
 bed 1:not near:picture
@@ -200,4 +206,14 @@ picture:not behind:table
 yellow_book:not behind:green_book
 gray book:not behind:brown chair
 blue_book:not behind:blue_chair
+table 2:not in front of i:lamp 1
+table 2:not in front of i:green_book
+brown chair:not in front of i:red_chair
+blue_book:not in front of i:red_chair
+blue_book:not in front of i:brown chair
+table:not in front of i:table 2
+blue_book:not in front of i:apple
+green_book:not in front of i:lamp1
+deep_plate:not in front of i:blue chair
+
 
