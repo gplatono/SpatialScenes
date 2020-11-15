@@ -1,0 +1,100 @@
+blue chair 1:next to:blue chair 2
+blue chair 2:near:bookshelf
+bookshelf:in between:red chair 1:desk
+blue chair 2:in between:blue chair 1:brown chair
+blue chair 1:next to:lamp
+yellow book 2:above:red book 2
+red chair 1:next to:red chair 2
+picture:near:purple book 1
+TV:to the right of:picture
+cardbox 2:below:TV
+lamp:on:desk
+deep plate:on:flor
+deep plate:below:blue chair 1
+bookshelf:in between:lamp:picture
+TV:next to:north wall
+picture:on:north wall
+picture:next to:west wall
+Long Table:in between:red chair 2:Rocking Chair
+red chair 2:near:cardbox 2
+Rocking Chair:next to:north wall
+Rocking Chair:next to:east wall
+picture:above:red chair 2
+Rocking Chair:next to:Sofa
+Sofa:in between:Rocking Chair:cardbox 1
+purple book 2:on:cardbox 1
+cardbox 1:next to:east wall
+cardbox 1:in between:Sofa:trash can
+yellow book 1:near:trash can
+Floor Lamp:in between:Coffee Table:trash can
+lamp:next to:west wall
+brown chair:near:blue chair 1
+deep plate:near:lamp
+yellow book 2:on:bookshelf
+purple book 1:on:bookshelf
+blue book:on:desk
+blue chair 2:next to:blue book
+blue chair 1:near:blue book
+blue book:next to:lamp
+blue book:in between:lamp:bookshelf
+blue book:near:yellow book 2
+cardbox 2:on:floor
+blue chair 2:to the right of:desk
+blue chair 1:to the right of:lamp
+Floor Lamp:near:Sofa
+deep plate:next to:desk
+TV:to the left of:Rocking Chair
+Coffee Table:near:east wall
+yellow book 1:on:Coffee Table
+red book 2:near:brown chair
+trash can:in between:Floor Lamp:east wall
+
+picture:not near:trash can
+trash can:not touching:Coffee Table
+Floor Lamp:not near:red chair 2
+Sofa:not next to:blue chair 1
+yellow book 1:not next to:red chair 1
+picture:not to the right of:TV
+lamp:not on:blue book
+deep plate:not on:blue chair 2
+Coffee Table:not on:east wall
+red book 2:not next to:Rocking Chair
+purple book 1:not on:ceiling
+picture:not on:ceiling
+desk:not near:Rocking Chair
+blue chair 1:not in between:yellow book 1:trash can
+yellow book 1:not on:Sofa
+cardbox 2:not in between:desk:blue chair 2
+yellow book 2:not on:blue chair 1
+purple book 1:not on:yellow book 1
+north wall:not on:bookshelf
+lamp:not near:Rocking Chair
+brown chair:not next to:Rocking Chair
+purple book 2:not in between:Rocking Chair:TV
+brown chair:not in between:red chair 1:red chair 2
+picture:not on:bookshelf
+deep plate:not on:desk
+red book 2:not on:red chair 1
+Floor Lamp:not near:picture
+Floor Lamp:not on:east wall
+lamp:not to the right of:blue chair 1
+Sofa:not on:west wall
+cardbox 1:not in between:blue chair 2:bookshelf
+Rocking Chair:not on:cardbox 2
+cardbox 1:not on:trash can
+yellow book 2:not on:blue book
+blue chair 2:not on:bookshelf
+purple book 2:not near:picture
+purple book 1:not next to:purple book 2
+red chair 2:not below:picture
+red chair 1:not on:bookshelf
+deep plate:not in between:red chair 1:red chair 2
+Coffee Table:not in between:Sofa:Rocking Chair
+deep plate:not on:west wall
+yellow book 1:not to the right of:purple book 2
+TV:not next to:lamp
+yellow book 2:not on:floor
+trash can:not in between:yellow book 1:blue chair 1
+deep plate:not on:blue book
+red chair 1:not to the right of:TV
+Sofa:not to the left of:red book 2
