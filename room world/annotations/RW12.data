@@ -8,8 +8,6 @@ cardbox 2:under:table
 red chair 1:near:laptop
 deep plate:touching:brown chair
 desk:next to:west wall
-blue chair 2:near:desk
-red chair 1:near:red book 1
 red chair 1:in between:red chair 2:Coffee Table
 purple book 2:near:laptop
 picture:over:cardbox 2
@@ -40,7 +38,7 @@ green book:on:table
 yellow book 1:near:Coffee Table
 table:in between:desk:bookshelf
 desk:near:table
-apple:near:cardbox 2
+apple:near:Coffee Table
 cardbox 2:on:floor
 Coffee Table:on:floor
 brown chair:to the left of:red chair 1
@@ -48,10 +46,34 @@ Coffee Table:to the right of:red chair 2
 brown chair:near:west wall
 lamp:near:table
 picture:on:north wall
+yellow book 2:near:trash can
+red chair 1:near:red book 1
+red chair 1:near:coffee table
+deep plate:near:red chair 1
+purple book 1:near:green book
+brown chair:near:trash can
+laptop:near:cardbox 2
+picture:near:laptop
 
 trash can:not over:purple book 1
 red book 1:not near:red book 2
 blue book:not near:bookshelf
+cardbox 1:not near:desk
+cardbox 1:not near:trash can
+cardbox 2:not near:red book 1
+Coffee Table:not near:green book
+purple book 2:not near:blue chair 1
+lamp:not near:desk
+yellow book 1:not near:trash can
+red chair 2:not near:purple book 1
+cardbox 1:not near:cardbox 2
+deep plate:not near:apple
+picture:not near:red chair 2
+apple:not near:trash can
+Coffee Table:not near:table
+apple:not near:blue book
+cardbox 2:not near:trash can
+green book:not near:red chair 2
 red chair 2:not in between:red chair 1:Coffee Table
 brown chair:not over:apple
 green book:not touching:north wall

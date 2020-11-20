@@ -48,7 +48,28 @@ cardbox 1:in between:desk 2:apple
 bookshelf 3:in between:trash can:bookshelf 1
 picture:near:ceiling
 purple book 2:to the right of:picture
+red book 1:near:brown chair
+red book 1:near:trash can
+deep plate:near:trash can
+red chair 1:near:blue chair 1
+bowl:near:blue book
+red book 2:near:blue book
+table 1:near:table 2
 
+red chair 2:not near:red chair 1
+red book 2:not near:red book 1
+bowl:not near:bookshelf 2
+purple book 2:not near:cardbox 1
+lamp:not near:apple
+lamp:not near:red chair 2
+purple book 2:not near:purple book 1
+cardbox 2:not near:yellow book 1
+blue chair 2:not near:trash can
+cardbox 2:not near:laptop
+picture:not near:bookshelf 1
+picture:not near:lamp
+cardbox 1:not near:trash can
+yellow book 2:not near:red chair 2
 red chair 2:not on:red book 1
 laptop:not on:bookshelf 3
 yellow book 2:not near:bookshelf 1

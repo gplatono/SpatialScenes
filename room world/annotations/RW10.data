@@ -96,3 +96,16 @@ desk 1:not next to:picture
 table 2:not in between:bookshelf 3:desk 1
 bookshelf 1:not to the left of:picture
 red book 2:not next to:laptop
+blue chair 1:not near:trash can
+purple book 1:not near:red book 2
+cardbox 1:not near:picture
+blue chair 2:not near:green book
+note:not near:bowl
+purple book 2:not near:purple book 1
+table 2:not near:desk 1
+red chair 2:not near:brown chair
+apple:not near:cardbox 1
+cardbox 2:not near:yellow book 2
+bowl:not near:bookshelf 2
+laptop:not near:picture
+red book 1:not near:bookshelf 1
