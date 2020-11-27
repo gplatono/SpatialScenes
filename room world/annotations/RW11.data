@@ -55,6 +55,14 @@ red chair 1:near:blue chair 1
 bowl:near:blue book
 red book 2:near:blue book
 table 1:near:table 2
+bookshelf 4:next to:bookshelf 2
+deep plate:next to:red book 1
+cardbox 2:next to:red book 2
+blue book:next to:note
+bowl:next to:yellow book 2
+bowl:next to:note
+table 2:next to:red chair 1
+table 2:next to:bookshelf 4
 
 red chair 2:not near:red chair 1
 red book 2:not near:red book 1

@@ -54,6 +54,11 @@ purple book 1:near:green book
 brown chair:near:trash can
 laptop:near:cardbox 2
 picture:near:laptop
+red chair 2:next to:brown chair
+blue chair 2:next to:blue chair 1
+purple book 1:next to:red book 2
+yellow book 1:next to:purple book 2
+Coffee Table:next to:east wall
 
 trash can:not over:purple book 1
 red book 1:not near:red book 2
@@ -121,3 +126,10 @@ cardbox 2:not on:desk
 bookshelf:not next to:purple book 1
 apple:not next to:blue chair 1
 yellow book 2:not next to:yellow book 1
+cardbox 1:not next to:cardbox 2
+red chair 1:not next to:blue chair 2
+trash can:not next to:cardbox 2
+green book:not next to:purple book 2
+bookshelf:not next to:cardbox 1
+picture:not next to:red chair 2
+table:not next to:red book 1

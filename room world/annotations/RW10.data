@@ -47,7 +47,13 @@ bookshelf 4:in front of:table 2
 cardbox 2:near:deep plate
 red chair 1:near:north wall
 lamp:near:desk 1
-trash can:next to:desk 2
+laptop:next to:red book 1
+green book:next to:purple book 1
+purple book 2:next to:lamp
+bookshelf 3:next to:table 1
+red chair 1:next to:table 1
+bookshelf 4:next to:table 2
+blue chair 1next to::table 2
 
 laptop:not next to:red book 2
 red chair 2:not on:deep plate
@@ -109,3 +115,9 @@ cardbox 2:not near:yellow book 2
 bowl:not near:bookshelf 2
 laptop:not near:picture
 red book 1:not near:bookshelf 1
+table 2:not next to:cardbox 1
+red book 1:not next to:lamp
+red chair 1:not next to:blue chair 1
+yellow book 1:not next to:yellow book 2
+cardbox 2:not next to:green book
+cardbox 2:not next to:cardbox 1

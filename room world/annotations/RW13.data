@@ -55,6 +55,10 @@ Coffee Table:near:apple
 cardbox 1:near:Coffee Table
 trash can:near:sofa
 trash can:near:red chair 2
+trash can:next to:desk
+purple book 1:next to:red book 2
+brown chair:next to:blue chair 2
+Coffee Table:next to:east wall
 
 purple book 2:not near:blue chair 1
 Rocking Chair:not near:picture
@@ -117,3 +121,13 @@ lamp:not in between:Sofa:Coffee Table
 TV:not on:ceiling
 bookshelf:not next to:deep plate
 Coffee Table:not in between:blue chair 1:trash can
+Long Table:not next to:Coffee Table
+picture:not next to:Rocking Chair
+TV:not next to:brown chair
+lamp:not next to:TV
+purple book 1:not next to:cardbox 2
+apple:not next to:deep plate
+purple book 2:not next to:purple book 1
+Sofa:not next to:blue chair 1
+red chair 2:not next to:red chair 1
+trash can:not next to:bookshelf
