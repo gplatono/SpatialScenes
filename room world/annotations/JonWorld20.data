@@ -5,6 +5,8 @@ Ceiling Light 1.001:in front of:Ceiling Light 1
 Ceiling Light 1.002:behind:Ceiling Light 1
 Cat:on:Fridge
 Counter:to the right of:LongTable
+Counter:next to:Table
+Counter:next to:Aquarium
 Fridge:next to:Counter
 Fridge:to the right of:KnifeBlock
 Human:at:Counter
@@ -47,8 +49,14 @@ Human.004:to the right of:Human.002
 Human.004:to the left of:Human.001
 Human.003:to the left of:Human.002
 Lamp:behind:Human.003
+Lamp:next to:PlainChair.003
 Banana:under:PlainChair.001
-
+Human.001:touching:LongTable
+Human.002:touching:LongTable
+Human.003:touching:LongTable
+Human.004:touching:LongTable
+Human.002:not next to:Human
+Lamp:not touching:PlainChair.003
 Lamp:not next to:East Wall
 Table:not next to:North Wall
 Cat:not under:LongTable

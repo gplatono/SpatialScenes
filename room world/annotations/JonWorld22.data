@@ -1,0 +1,59 @@
+RedApple:on:BlueTable
+GreenBanana:on:GreenTable
+GreenApple:on:YellowTable
+YellowBanana:on:RedTable
+OrangeHuman:at:BlueTable
+RedHuman:at:GreenTable
+GreenHuman:at:RedTable
+Block 1:next to:YellowTable
+Block 2:next to:Block 1
+Block 3:next to:Block 2
+Block 4:next to:block 3
+YellowTable:next to:Block 1
+Block 1:next to:Block 2
+Block 2:next to:Block 3
+Block 3:next to:Block 4
+Block 3:behind:GreenHuman
+RedHuman:facing:GreenBanana
+RedHuman:facing:YellowTable
+RedHuman:facing:GreenApple
+RedHuman:facing:Block 1
+RedHuman:facing:Block 2
+OrangeHuman:facing:RedApple
+OrangeHuman:facing:GreenTable
+OrangeHuman:facing:GreenBanana
+GreenHuman:facing:YellowBanana
+GreenHuman:facing:RedApple
+GreenHuman:facing:BlueTable
+BlueTable:next to:GreenTable
+BlueTable:next to:RedTable
+GreenTable:next to:BlueTable
+GreenTable:next to:YellowTable
+RedTable:next to:BlueTable
+RedTable:next to:YellowTable
+Block 1:not touching:YellowTable
+Block 2:not touching:Block 1
+Block 3:not touching:Block 2
+Block 4:not touching:block 3
+YellowTable:not touching:Block 1
+Block 1:not touching:Block 2
+Block 2:not touching:Block 3
+Block 3:not touching:Block 4
+Block 3:not touching:GreenHuman
+RedHuman:not touching:GreenBanana
+RedHuman:not touching:YellowTable
+RedHuman:not touching:GreenApple
+RedHuman:not touching:Block 1
+RedHuman:not touching:Block 2
+OrangeHuman:not touching:RedApple
+OrangeHuman:not touching:GreenTable
+OrangeHuman:not touching:GreenBanana
+GreenHuman:not touching:YellowBanana
+GreenHuman:not touching:RedApple
+GreenHuman:not touching:BlueTable
+BlueTable:not touching:GreenTable
+BlueTable:not touching:RedTable
+GreenTable:not touching:BlueTable
+GreenTable:not touching:YellowTable
+RedTable:not touching:BlueTable
+RedTable:not touching:YellowTable

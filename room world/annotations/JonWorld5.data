@@ -30,15 +30,20 @@ blue_book.024:in:Bookshelf
 blue_book.026:in:Bookshelf
 blue_book.027:in:Bookshelf
 Bookshelf:next to:North Wall
+Bookshelf:next to:East Wall
 Ceiling Light 1.001:above:Human
 Ceiling Light 1.001:above:bed1
 Human:in:bed1
 Sofa:next to:East Wall
 Sofa.001:next to:West Wall
+Sofa.001:next to:North Wall
+Sofa.001:to the left of:Bookshelf
+Bookshelf:to the right of:Sofa.001
 Table:next to:Human
 Table:next to:bed1
 Human:next to:Table
 bed1:next to:Table
+bed1:touching:West Wall
 blue_book.013:to the left of:blue_book.018
 blue_book.015:to the right of:blue_book.024
 blue_book.013:to the right of:blue_book.026
@@ -89,6 +94,10 @@ blue_book.013:to the right of:blue_book.022
 blue_book.024:to the left of:blue_book.020
 blue_book.023:to the left of:blue_book.019
 blue_book.026:to the left of:blue_book.011
+Sofa:not touching:East Wall
+Sofa.001:not touching:North Wall
+Sofa.001:not touching:West Wall
+Banana:not touching:Table
 blue_book.004:not to the right of:blue_book.016
 blue_book.009:not to the right of:blue_book.020
 blue_book.003:not to the right of:blue_book.016

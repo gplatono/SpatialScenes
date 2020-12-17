@@ -16,10 +16,10 @@ Poster:behind:SmallTree.001
 Poster:behind:Sofa
 SmallTree:to the right of:Sofa
 SmallTree:to the right of:Human
-SmallTree:in front of:East Wall
+SmallTree:next to:East Wall
 SmallTree.001:to the left of:Sofa
 SmallTree.001:to the left of:Human
-SmallTree.001:in front of:East Wall
+SmallTree.001:next to:East Wall
 Sofa:between:SmallTree:SmallTree.001
 Sofa:to the left of:SmallTree
 Sofa:to the right of:SmallTree.001
@@ -69,3 +69,5 @@ Banana.001:not to the left of:SmallTree.001
 Banana.001:not to the right of:SmallTree
 Sofa:not in front of:Table
 Table:not behind:Sofa
+Sofa:not touching:East Wall
+SmallTree:not touching:East Wall

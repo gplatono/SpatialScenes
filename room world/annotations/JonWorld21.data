@@ -32,6 +32,7 @@ Aquarium:on:Table
 Aquarium:under:BigTree
 Banana:on:PlainChair.001
 BigTree:to the right of:Table
+Table:next to:BigTree
 Human.001:in:PlainChair.001
 Human.002:in:PlainChair
 Human.004:in:PlainChair.002
@@ -41,11 +42,13 @@ Bird:on:Human.004
 Birdcage:under:Table
 Human.005:at:Counter
 Human.005:touching:Microwave
+Microwave:touching:Human.005
 Microwave:between:Human.005:Lamp
 Bird:above:PlainChair.002
 Human:next to:Human.005
+Human.005:next to:Human
 Human:near:Fridge
-Human.005:near:Fridge
+Human.005:next to:Fridge
 Human:near:Human.001
 Human.001:near:Human
 Human.001:near:Human.004
@@ -98,3 +101,6 @@ Birdcage:not behind:Bird
 Human.001:not supported by:LongTable
 Human.002:not supported by:LongTable
 Human.004:not supported by:LongTable
+Human.001:not next to:Human.002
+Human.005:not touching:Counter
+Mixer:not touching:Human

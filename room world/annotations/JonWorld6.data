@@ -30,6 +30,8 @@ blue_book.023:in:Bookshelf
 blue_book.024:in:Bookshelf
 blue_book.026:in:Bookshelf
 blue_book.027:in:Bookshelf
+Bookshelf:next to:Sofa
+Bookshelf:next to:Fridge
 Bookshelf:next to:North Wall
 Ceiling Light 1.001:above:Human
 Ceiling Light 1.001:above:bed1
@@ -42,8 +44,12 @@ Table:next to:bed1
 Human:next to:Table
 bed1:next to:Table
 Fridge:next to:Sofa.001
+Sofa.001:next to:Fridge
 Aquarium:on:Fridge
 BigTree:between:bed1:Sofa
+Fridge:not touching:Sofa
+Fridge:not touching:Sofa.001
+Bookshelf:not touching:Sofa
 blue_book:not to the left of:blue_book.027
 blue_book.004:not to the right of:blue_book.010
 blue_book.008:not to the right of:blue_book.020

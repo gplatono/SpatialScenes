@@ -25,6 +25,8 @@ PlainChair.001:next to:LongTable
 PlainChair.002:next to:LongTable
 PlainChair.003:next to:LongTable
 Rose_flower:in:Vase
+Rose_flower:next to:PlainChair
+Rose_flower:next to:PlainChair.001
 Vase:on:LongTable
 PlainChair:to the left of:PlainChair.002
 PlainChair.001:to the right of:PlainChair.002
@@ -32,7 +34,7 @@ PlainChair:to the right of:PlainChair.003
 PlainChair.001:to the left of:PlainChair.003
 PlainChair.002:to the left of:PlainChair
 Ceiling:above:Floor
-
+Counter:next to:PlainChair.001
 Rose_flower:not on:LongTable
 Table:not supported by:PlainChair.001
 Table:not supported by:PlainChair.002
