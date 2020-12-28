@@ -1,7 +1,7 @@
 This is a README for running testLabel.py.
 testLabel.py and testLabel2.py is combined to detect annotation typo.
 
-1. Path Setup: Depending what system you use and where you install blender, choose one of the three "command" from line 14 to 19 if your
+1. Path Setup: Depending what system you use and where you install blender, choose one of the three "command" from line 14 to 19 in testLabel.py if your
     blender path matches the string on the "command" list at index 0. Otherwise, put your own blender path in one of the command,
     the first one command is for mac, second for windows, third for linux.
 
@@ -9,5 +9,5 @@ testLabel.py and testLabel2.py is combined to detect annotation typo.
     if not adding "name == 'blabla.data", python will check all annotation file.
 
 3. command to run: go to your room world directory in terminal or commandline, enter the following:
-    python train_spatial.py
+    python testLabel.py
     terminal or commandline output will tell you where and what the errors are.

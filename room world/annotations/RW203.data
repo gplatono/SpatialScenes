@@ -40,7 +40,6 @@ Bookshelf 2:to the right of d:Picture 1
 Bookshelf 1:to the left of d:Picture 1
 Picture 1:to the right of d:Bookshelf 1
 Picture 1:to the left of d:Bookshelf 2
-
 Blue Chair 2:not to the right d:Vase
 Vase:not to the left d:Blue Chair 2
 Bookshelf 2:not to the left of d:Picture 1
@@ -54,3 +53,38 @@ Green Book 2:not on:Bookshelf 2
 Blue Chair 2:not in front of:Table
 Sofa 1:not in front of:Coffee Table
 Sofa 2:not in front of:Coffee Table
+Laptop:touching:Cardbox 2
+Cardbox 2:touching:sofa 1
+sofa 1:touching:floor
+picture 2:touching:floor
+coffee table:touching:floor
+Blue chair 1:touching:cardbox 1
+blue chair 1:touching:table
+Yellow Book 2:touching:Table
+yellow book 2:touching:Blue Chair 2
+Blue Chair 2:touching:floor
+vase:touching:floor
+Green Book 2:touching:Red book 2
+Red Book 2:touching:Bookshelf 2
+Bookshelf 2:touching:north wall
+Bookshelf 1:touching:west wall
+Green Book 1:touching:Bookshelf 1
+Red Book 1:touching:Bookshelf 1
+Picture 1:touching:North wall 
+cardbox 1:not touching:cardbox 2
+cardbox 2:not touching:Blue chair 2
+Blue chair 2:not touching:Blue chair 1
+Blue chair 1:not touching:Coffee table
+Blue chair 1:not touching:Laptop
+Blue chair 1:not touching:cardbox 1
+sofa 1:not touching:sofa 2
+floor:not touching:blue chair 1
+floor:not touching:cardbox 1
+floor:not touching:cardbox 2
+coffee table:not touching:picture 1
+picture 1:not touching:picture 2
+green book 1:not touching:green book 2
+green book 1:not touching:picture 2
+green book 2:not touching:sofa 1
+green book 2:not touching:laptop
+ 

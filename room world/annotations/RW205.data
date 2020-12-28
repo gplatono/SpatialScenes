@@ -36,3 +36,35 @@ TV:not on:Red Chair 2
 Blue Chair 2:not to the right of:Desk 1
 Bookshelf 1:not near:Desk 1
 Note 1:not on:Green Book 1
+Note 1:touching:red Book 2
+red book 2:touching:yellow book 2
+red book 2:touching:green book 1
+laptop 1:touching:desk 1
+note 2:touching:Blue chair 2
+Pencil holder:touching:desk 1
+picture1:touching:bed2
+Blue Chair 1:touching:bed1
+bowl:touching:banana 1
+trash can:touching:note 1
+laptop 1:touching:desk 1
+bed1:touching:cardbox
+cardbox:touching:banana 2
+Green Book 2:touching:bookshelf 1
+Red Book 1:touching:bookshelf 1
+tv:touching:desk 1
+laptop 1:not touching:laptop 2
+laptop 1:not touching:red book 1
+laptop 1:not touching:red book 2
+red book 1:not touching:red book 2
+red book 2:not touching:tv
+bed1:not touching:bed2
+bed1:not touching:picture1
+bed1:not touching:blue chair 1
+blue chair 1:not touching:picture1
+laptop 2:not touching:blue chair 1
+blue chair 2:not touching:desk 1
+desk 1:not touching:tv
+desk 1:not touching:bed2
+desk 1:not touching:bed1
+red chair 2:not touching:blue chair 2
+green book 1:not touching:green book 2

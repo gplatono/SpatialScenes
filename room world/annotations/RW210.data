@@ -103,5 +103,11 @@ Trash Can:not below:bed 2
 bed 2:not below:Sofa
 Ceiling Fan:not below:Ceiling Light 1
 Trash Can:not below:Ceiling Fan
-
-
+laptop:touching:desk
+desk:touching:tv
+desk:touching:banana
+note:touching:trash can
+laptop:not touching:TV
+TV:not touching:banana
+note:not touching:desk
+trash can:not touching:desk

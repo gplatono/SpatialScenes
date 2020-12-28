@@ -128,3 +128,21 @@ Desk:not below:Sofa
 Desk:not below:Blue Chair 2
 Desk:not below:Blue Chair 1
 Bookshelf:not below:Red Book
+Green Book:touching:red Book 
+Yellow Book:touching:Desk
+Cardbox 1:touching:desk
+cardbox 1:touching:cardbox 2
+laptop:touching:table
+picture 1:touching:north wall
+picture 2:touching:east wall
+lamp:touching:desk
+coffee table:touching:floor
+picture 1:not touching:picture 2
+picture 1:not touching:bookshelf 
+picture 1:not touching:cardbox 1
+picture 1:not touching:cardbox 2
+cardbox 2:not touching:desk
+blue chair 2:not touching:sofa
+blue chair 1:not touching:sofa
+coffee table:not touching:table
+coffee table:not touching:laptop

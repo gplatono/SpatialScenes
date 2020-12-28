@@ -37,3 +37,47 @@ Trash Can:not on:Red Chair 2
 Trash Can:not above:Red Chair 2
 Red Book 3:not on:Desk 1
 Red Book 1:to the left of:Laptop 1
+Green Book 1:touching:Red Chair 1
+Desk 1:touching:Laptop 1
+Desk 1:touching:Red Book 1
+Desk 1:touching:Yellow Book 2
+Desk 1:touching:floor
+Yellow Book 2:touching:Red Book 1
+Pencil Holder:touching:desk 1
+note 2:touching:Desk 1
+Pencil 1:touching:Desk 1
+bowl:touching:banana 1
+green book 2:touching:Bookshelf 1
+red book 2:touching:Bookshelf 1
+TV 2:touching:Desk 2
+laptop 2:touching:Desk 2
+banana 2:touching:desk 2
+desk 2:touching:east wall
+north wall:touching:east wall
+west wall:touching:Bookshelf 2
+desk 2:touching:floor
+red chair 1:touching:floor
+red chair 2:touching:floor
+red book 3:touching:floor
+Laptop 1:not touching:Laptop 2
+Laptop 2:not touching:TV 2
+Laptop 1:not touching:TV 2
+Red Book 3:not touching:note 2
+note 2:not touching:note 3
+Red Book 3:not touching:Desk 1
+Red Book 3:not touching:Desk 2
+Blue chair 1:not touching:Desk 1
+Blue chair 2:not touching:Desk 2
+Blue chair 1:not touching:Desk 2 
+Blue Chair 2:not touching:desk 1
+Laptop 2:not touching:desk 1
+laptop 1:not touching:red Book 1
+yellow book 2:not touching:laptop 2
+green book 1:not touching:TV 2
+green book 1:not touching:green book 2
+bookshelf 1:not touching:red chair 1
+bookshelf 2:not touching:bookshelf 3
+bookshelf 3:not touching:ceiling fan
+blue chair 1:not touching:red chair 2
+red chair 2:not touching:desk 2
+desk 1:not touching:desk 2

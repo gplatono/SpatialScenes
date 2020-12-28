@@ -151,3 +151,27 @@ Fridge:not below:Bookshelf
 Bookshelf:not below:Yellow Book 1
 Bookshelf:not below:Red Book 1
 Green Book 1:not below:Green Book 2
+Green Book 2:touching:Red Book 2
+Green Book 1:touching:Bookshelf
+yellow Book 1:touching:red book 1
+red book 1:touching:bookshelf
+yellow book 1:touching:bookshelf
+cardbox 1:touching:sofa
+picture 1:touching:desk
+laptop:touching:desk
+rose_flower:touching:desk
+blue chair 1:touching:east wall
+picture 2:touching:floor
+picture 1:touching:floor
+fridge:not touching:sofa
+fridge:not touching:bed 1
+fridge:not touching:bed 2
+picture 1:not touching:bed 1
+picture 1:not touching:bed 3
+picture 2:not touching:picture 1
+green book 1:not touching:green book 2
+Blue chair 1:not touching:blue chair 2
+blue chair 2:not touching:brown chair 1
+blue chair 1:not touching:sofa
+sofa:not touching:bed 3
+sofa :not touching:bookshelf

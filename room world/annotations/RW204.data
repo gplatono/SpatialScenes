@@ -36,3 +36,30 @@ Banana:not in:Trash Can
 TV:not on:Red Chair 2
 Red Chair 2:not to the right of:Desk
 Note:not on:Trash Can
+Blue chair 1:touching:floor
+sofa:touching:floor
+floor:touching:trash can
+desk:touching:east wall
+red chair 2:touching:desk
+fridge:touching:north wall
+yellow book:touching:bookshelf 2
+green book:touching:bookshelf 1
+Red book:touching:bookshelf 1
+note:touching:trash can
+tv:touching:desk
+Laptop:touching:desk
+banana:touching:desk
+blue chair 1:not touching:Blue chair 2
+blue chair 2:not touching:blue chair 1
+blue chair 2:not touching:fridge
+fridge:not touching:bookshelf 1
+fridge:not touching:bookshelf 2
+fridge:not touching:trash can
+trash can:not touching:coffee table
+note:not touching:table 1
+table 1:not touching:sofa
+sofa:not touching:tv
+tv:not touching:banana
+laptop:not touching:banana
+banana:not touching:green book
+

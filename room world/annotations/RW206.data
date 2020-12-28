@@ -222,4 +222,35 @@ Note 2:not below:Bowl
 bed1:not below:Bowl
 Ceiling Light 1:not below:Ceiling Light 2
 Ceiling Light 2:not below:Ceiling Light 1
-
+Block 5:touching:bookshelf 2
+bookshelf 2:touching:west wall
+desk 1:touching:red book 1
+red book 1:touching:yellow book 2
+yellow book 2:touching:desk 1
+desk 1:touching:note 1
+note 2:touching:desk 1
+bowl :touching: banana 1
+pencil holder:touching:desk 1
+laptop 1:touching:desk 1
+blue chair 1:touching:floor 
+note 3:touching:trash can
+banana 2:touching:desk 2
+desk 2:touching:red chair 
+red book 3:touching:green book 1
+pencil 1:touching:desk 1
+pencil 1:not touching:pencil 2
+pencil 1:not touching:pencil holder
+pencil holder:not touching:bowl
+pencil holder:not touching:red book 1
+pencil holder:not touching:red book 2
+blue chair 1:not touching:bookshelf 1
+table:not touching:tv
+tv:not touching:banana 2
+bed1:not touching:Desk 1
+desk 1:not touching:bed2
+bed2:not touching:trash can
+trash can:not touching:bookshelf 2
+banana 1:not touching:banana 2
+banana 1:not touching:pencil 1
+banana 1:not touching:pencil 2
+banana 1:not touching:note 1

@@ -183,3 +183,35 @@ Picture 2:not below:Ceiling Light 2
 Cardbox 2:not below:Cardbox 1
 Blue Chair 2:not below:Yellow Book 2
 Bookshelf 1:not below:Red Book 1
+Yellow Book 1:touching:Red Book 1
+Yellow Book 1:touching:Bookshelf 1
+Red Book 1:touching:Bookshelf 1
+green book 1:touching:bookshelf 1
+bookshelf 2:touching:north wall
+bookshelf 2:touching:red Book 2
+banana 1:touching:bowl
+bowl:touching:desk 
+desk:touching:laptop 1
+laptop:touching:table
+yellow book 2:touching:table
+cardbox 1:touching:blue chair 1
+blue chair 1:touching:floor
+fridge:touching:north wall
+pencil holder:touching:desk 
+note 1:touching:desk
+yellow book 1:not touching:yellow book 2
+green book 1:not touching:green book 2
+green book 1:not touching:yellow book 1
+green book 1:not touching:yellow book 2
+green book 1:not touching:bed 1
+green book 1:not touching:laptop 1
+fridge:not touching:picture 1
+picture 1:not touching:table
+picture 1:not touching:blue chair 1
+blue chair 1:not touching:table
+fridge:not touching:bookshelf 1
+bookshelf 2:not touching:desk
+bookshelf 2:not touching:sofa
+picture 2:not touching:sofa
+cardbox 1:not touching:laptop
+cardbox 2:not touching:desk

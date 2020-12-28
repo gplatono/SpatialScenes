@@ -39,3 +39,48 @@ Red Book 1:not on:Bookshelf 2
 Laptop:not under:Table
 Yellow Book 2:not under:Table
 Laptop:to the right of:Yellow Book 2
+Yellow Book 1:touching:Red Book 1
+Red Book 1:touching:Yellow Book 1
+Yellow Book 1:touching:Bookshelf 1
+Green Book 1:touching:Bookshelf 1
+Bookshelf 1:touching:North Wall
+Bookshelf 1:touching:West Wall
+North Wall:touching:West Wall
+Cardbox 1:touching:Blue Chair 1
+Blue Chair 1:touching:floor
+Cardbox 2:touching:floor
+Cardbox 2:touching:Table
+Laptop:touching:Table
+Yellow Book 2:touching:Table
+Green Book 2:touching:Red Book 2
+Red Book 2:touching:Bookshelf 2
+Bookshelf 2:touching:North Wall
+North Wall:touching:East Wall
+Picture 1:touching:North Wall
+Picture 2:touching:East Wall
+East Wall:touching:floor
+floor:touching:Blue Chair 2
+Cardbox 1:not touching:Cardbox 2
+Blue Chair 1:not touching:Blue Chair 2
+Cardbox 1:not touching:Blue Chair 2
+Yellow Book 1:not touching:Yellow Book 2
+Red Book 1:not touching:Yellow Book 2
+Green Book 1:not touching:Green Book 2
+Picture 1:not touching:Picture 2
+Picture 1:not touching:Table
+Picture 2:not touching:Blue chair 1
+Picture 2:not touching:Blue chair 2
+Bookshelf 1:not touching:Bookshelf 2
+Bookshelf 2:not touching:Bookshelf 1
+Bookshelf 1:not touching:Blue chair 1
+Bookshelf 2:not touching:Laptop
+Laptop:not touching:Ceiling
+Ceiling:not touching:floor
+Yellow Book 2:not touching:Yellow Book 1
+Yellow Book 2:not touching:floor
+Ceiling light 1:not touching:Ceiling light 2
+Bookshelf 1:not touching:Picture 2
+Laptop:not touching:Bookshelf 2
+
+
+
