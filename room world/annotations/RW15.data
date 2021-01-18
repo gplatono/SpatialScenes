@@ -1,0 +1,101 @@
+cardbox 2:on:floor
+deep plate:next to:cardbox 2
+cardbox 2:in between:brown chair:deep plate
+deep plate:in between:bed:cardbox 2
+brown chair:next to:desk 2
+desk 2:next to:east wall
+apple:on:floor
+apple:in between:bed:cardbox 1
+bowl:in between:cardbox 1:cardbox 2
+desk 1:below:picture
+yellow book:near:desk 1
+purple book:in between:red book:green book
+cardbox 1:in between:apple:trash can
+cardbox 1:near:blue chair
+trash can:next to:east wall
+trash can:next to:north wall
+brown chair:near:blue chair
+blue chair:in between:brown chair:cardbox 1
+bed:next to:west wall
+blue book:next to:lamp
+blue book:next to:banana
+table:next to:west wall
+table:in front of:bookshelf 1
+yellow book:near:west wall
+blue book:near:apple
+picture:above:note
+desk 1:in between:bookshelf 1:bookshelf 2
+note:on:desk 1
+laptop:on:desk 1
+trash can:to the right of:red chair
+apple:in between:red chair:deep plate
+bed:next to:west wall
+red book:near:red chair
+red book:next to:desk 1
+picture:in between:bookshelf 2:bookshelf 1
+bookshelf 2:in between:red chair:trash can
+note:below:picture
+red chair:to the right of:bookshelf 1
+yellow book:to the left of:red chair
+deep plate:near:bed
+cardbox 1:near:red chair
+picture:near:ceiling
+table:on:floor
+red chair:near:picture
+banana:next to:west wall
+red book:near:picture
+desk 2:to the right of:bowl
+deep plate:near:bowl
+lamp:on:table
+picture:on:north wall
+
+brown chair:not near:yellow book
+bed:not near:trash can
+bed:not in between:bowl:cardbox 1
+brown chair:not to the left of:bed
+cardbox 2:not in between:bed:blue book
+bookshelf 1:not in between:lamp:bed
+apple:not under:table
+brown chair:not next to:lamp
+picture:not on:ceiling
+note:not on:picture
+blue chair:not on:trash can
+bookshelf 2:not on:ceiling
+cardbox 1:not next to:banana
+blue book:not on:bed
+laptop:not on:red book
+bookshelf 1:not to the right of:laptop
+brown chair:not in between:apple:lamp
+yellow book:not next to:east wall
+blue chair:not next to:west wall
+note:not on:laptop
+deep plate:not on:bed
+bed:not in between:cardbox 2:brown chair
+desk 1:not above:picture
+north wall:not next to:brown chair
+north wall:not next to:deep plate
+cardbox 1:not under:desk 1
+cardbox 1:not under:desk 2
+cardbox 2:not in:between:lamp:banana
+bowl:not next to:yellow book
+trash can:not next to:banana
+blue chair:not on:bowl
+desk 2:not in between:bookshelf 1:bookshelf 2
+picture:not on:red chair
+blue book:not on:lamp
+trash can:not next to:lamp
+red chair:not in between:desk 2:bed
+yellow book:not on:desk 1
+banana:not in between:deep plate:bowl
+cardbox 2:not in between:red chair:cardbox 1
+brown chair:not on:east wall
+apple:not on:table
+bowl:not on:table
+bowl:not under:table
+blue chair:not on:bookshelf 2
+ceiling:not on:bookshelf 1
+table:not next to:east wall
+desk 2:not to the left of:table
+red book:not in between:purple book:green book
+lamp:not in between:blue chair:trash can
+apple:not on:ceiling
