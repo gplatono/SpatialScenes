@@ -36,7 +36,7 @@ chair 1:not to the right of:Human.003
 Human.003:not to the right of:chair 1
 Banana:in front of:Banana.001
 Laptop:not touching:BigTree
-BigTree:not touchingLaptop
+BigTree:not touching:Laptop
 Laptop:not touching:Human.002
 Human.002:not touching:Laptop
 Banana.003:not touching:BigTree

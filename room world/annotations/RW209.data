@@ -65,7 +65,7 @@ bed 1:not above:Blue Chair 1
 bed 2:not above:bed 3
 bed 1:not above:Table
 Table:not above:Brown Chair 1
-Brown Chair 2:not aboe:Brown Chair 1
+Brown Chair 2:not above:Brown Chair 1
 Brown Chair 1:not above:Brown Chair 2
 Rose_flower:not above:Laptop
 Laptop:not above:Blue Chair 2

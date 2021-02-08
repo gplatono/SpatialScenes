@@ -28,7 +28,7 @@ Pencil Holder:to the right of d:Yellow Book 2
 Pencil Holder:to the right of d:Green Book 1
 Pencil 1:to the right of d:Note 2
 Bowl:to the right of d:Pencil 1
-Pencil 1:to the left of d:Bowl 2
+Pencil 1:to the left of d:Bowl
 Green Book 1:to the left of d:Pencil Holder
 Red Book 3:to the left of d:Yellow Book 2
 Pencil 2:to the right of d:Note 1

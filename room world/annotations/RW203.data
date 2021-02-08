@@ -40,8 +40,8 @@ Bookshelf 2:to the right of d:Picture 1
 Bookshelf 1:to the left of d:Picture 1
 Picture 1:to the right of d:Bookshelf 1
 Picture 1:to the left of d:Bookshelf 2
-Blue Chair 2:not to the right d:Vase
-Vase:not to the left d:Blue Chair 2
+Blue Chair 2:not to the right of d:Vase
+Vase:not to the left of d:Blue Chair 2
 Bookshelf 2:not to the left of d:Picture 1
 Bookshelf 1:not to the right of d:Picture 1
 Picture 1:not to the left of d:Bookshelf 1

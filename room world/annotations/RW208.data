@@ -5,7 +5,7 @@ Table:between:Blue Chair 1:Blue Chair 2
 Fridge:between:Bookshelf 1:Desk
 Desk:between:Fridge:Bookshelf 2
 picture 1:between:Fridge:Bookshelf 2
-bed 1:east of:West Wall
+bed 1:to the right of:West Wall
 Sofa:left of:East Wall
 Bookshelf 2:left of:East Wall
 Bookshelf 1:left of:East Wall

@@ -36,10 +36,10 @@ PlainChair.002:to the left of:PlainChair
 Ceiling:above:Floor
 Counter:next to:PlainChair.001
 Rose_flower:not on:LongTable
-Table:not supported by:PlainChair.001
-Table:not supported by:PlainChair.002
-Table:not supported by:PlainChair.003
-Table:not supported by:PlainChair
+LongTable:not supported by:PlainChair.001
+LongTable:not supported by:PlainChair.002
+LongTable:not supported by:PlainChair.003
+LongTable:not supported by:PlainChair
 Human:not in:Counter
 Human:not supported by:Counter
 Mixer:not above:Cat
@@ -90,5 +90,5 @@ Human:not facing:Fridge
 Human:not facing:Cat
 West Wall:not facing:North Wall
 East Wall:not facing:North Wall
-North Wall:not facing:Wall Wall
+North Wall:not facing:West Wall
 North Wall:not facing:East Wall
