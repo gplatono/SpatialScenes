@@ -184,7 +184,7 @@ red chair:not to the right of:table 1
 Red Book 1:not to the right of:blue book 6
 Laptop:not to the right of:blue book 1
 blue book 1:not to the right of:bowl
-brown chair 2::not to the right of:blue book 4
+brown chair 2:not to the right of:blue book 4
 laptop 1:not to the right of:brown chair 1
 apple:not to the right of:Red Book 1
 blue book 6:not to the right of:east wall

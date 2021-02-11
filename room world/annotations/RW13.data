@@ -48,7 +48,7 @@ yellow book 2:next to:lamp
 cardbox 2:next to:north wall
 picture:next to:west wall
 desk:near:red chair 1
-Sofa::blue chair 2
+Sofa:near:blue chair 2
 Rocking Chair:near:Coffee Table
 Rocking Chair:near:east wall
 Coffee Table:near:apple

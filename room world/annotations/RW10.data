@@ -53,7 +53,7 @@ purple book 2:next to:lamp
 bookshelf 3:next to:table 1
 red chair 1:next to:table 1
 bookshelf 4:next to:table 2
-blue chair 1next to::table 2
+blue chair 1:next to:table 2
 
 laptop:not next to:red book 2
 red chair 2:not on:deep plate
