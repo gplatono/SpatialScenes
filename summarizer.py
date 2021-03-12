@@ -1,0 +1,35 @@
+# Author: Serena Matera
+# Email: smatera@u.rochester.edu
+# This is a program that summarizes a list of annotations from a given file
+
+# Change the file name to correspond to the file of annotations you want to summarize
+with open("JonWorld.data", "r") as fileInfo:
+    fileLines = fileInfo.readlines()
+
+# annotations is a dictionary in which we track the name of the annotation and its occurrence
+# currentKey is a counter that allows us to loop through each line in fileLines
+annotations = {}
+currentKey = 0
+
+# This loop counts the number of times each annotation is mentioned
+for line in fileLines:
+
+    index1 = line.find(':')
+    index2 = line[index1+1:].find(':') + index1 + 1
+    annotation = line[index1+1:index2]
+
+    if annotation not in annotations.keys():
+        annotations[annotation] = 1
+        currentKey = currentKey+1
+    else:
+        annotations[annotation] = annotations[annotation] + 1
+
+# This loop separates the positive and negative forms of the same annotation, and prints the result
+for element in annotations:
+    numPositive = annotations[element]
+    numNegative = 0
+    negativeForm = "not " + element
+    if negativeForm in annotations.keys():
+        numNegative = annotations[negativeForm]
+    if "not" not in element:
+        print(element + ": " + str(numPositive) + " positive annotations, " + str(numNegative) + " negative annotations")
