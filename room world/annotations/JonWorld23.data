@@ -1,0 +1,21 @@
+RedHuman:touching:GreenHuman
+RedHuman:touching:OrangeHuman
+GreenHuman:touching:OrangeHuman
+RedTable:touching:YellowTable
+RedTable:touching:BlueTable
+RedTable:not touching:GreenTable
+GreenTable:touching:YellowTable
+GreenTable:touching:BlueTable
+BlueTable:not touching:YellowTable
+GreenBanana:touching:RedTable
+YellowBanana:touching:RedTable
+GreenApple:touching:RedTable
+RedApple:touching:RedTable
+GreenBanana:not touching:BlueTable
+YellowBanana:not touching:BlueTable
+GreenApple:not touching:BlueTable
+RedApple:not touching:BlueTable
+GreenBanana:not touching:YellowTable
+YellowBanana:not touching:YellowTable
+GreenApple:not touching:YellowTable
+RedApple:not touching:YellowTable
