@@ -76,7 +76,7 @@ north wall:not next to:brown chair
 north wall:not next to:deep plate
 cardbox 1:not under:desk 1
 cardbox 1:not under:desk 2
-cardbox 2:not in:between:lamp:banana
+cardbox 2:not in between:lamp:banana
 bowl:not next to:yellow book
 trash can:not next to:banana
 blue chair:not on:bowl
