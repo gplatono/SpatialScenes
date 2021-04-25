@@ -34,24 +34,29 @@ Note:in:Trash Can
 Trash Can:not in:Note
 Laptop:in front of:TV
 Table:in front of:Sofa
-Desk:in front of:Table
-Blue Chair:in front of:bed 2
-Trash Can:in front of:bed 1
-Desk:in front of:bed 1
+Table:in front of:Desk
+bed 2:in front of:Blue Chair
+Blue Chair:behind:bed 2
+Trash Can:to the left of:bed 1
+Desk:to the left of:bed 1
+Desk:not in front of:bed 1
+Trash Can:not in front of:bed 1
 Desk:in front of:Bookshelf 
 TV:in front of:Bookshelf
 Laptop:in front of:Bookshelf
-Table:in front of:Desk
+Desk:not in front of:Table
+Desk:behind:Table
 bed 1:not in front of:bed 2
 bed 2:not in front of:bed 1
 bed 1:not in front of:Sofa
-Sofa:not in front of:bed 1
+bed 1:behind:Sofa
+Sofa:in front of:bed 1
 Blue Chair:not in front of:Table
 Bookshelf:not in front of:TV
 TV:not in front of:Laptop
-Fridge:not in front of:bed 2
+Fridge:in front of:bed 2
 Fridge:not in front of:Sofa
-Fridge:behind:bed 1
+Fridge:not behind:bed 1
 Table:behind:Red Chair 
 TV:behind:Laptop
 North Wall:behind:Banana
