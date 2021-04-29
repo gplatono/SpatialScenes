@@ -87,4 +87,26 @@ green book 1:not touching:green book 2
 green book 1:not touching:picture 2
 green book 2:not touching:sofa 1
 green book 2:not touching:laptop
- 
+Vase:near:Blue Chair 1
+Vase:near:Blue Chair 2
+Vase:near:Yellow Book 1
+Vase:near:Yellow Book 2
+Vase:near:Red Book 2
+Vase:near:Green Book 2
+Vase:not near:Red Book 1
+Vase:not near:Green Book 1
+Vase:near:Red Book 2
+Vase:not near:Sofa 1
+Vase:not near:Cardbox 2
+Vase:not near:Laptop
+Sofa 1:not near:Sofa 2
+Sofa 1:near:Bookshelf 1
+Sofa 2:near:Bookshelf 2
+Sofa 1:not near:Bookshelf 2
+Sofa 2:not near:Bookshelf 1
+Blue Chair 1:near:Blue Chair 2
+Table:near:bookshelf 1
+Table:near:bookshelf 2
+Red Book 2:not near:Sofa 1
+Green Book 2:not near:Sofa 1
+  

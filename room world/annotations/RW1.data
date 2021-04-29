@@ -218,3 +218,70 @@ Green Book 1:not to the right of d:East Wall
 Green Book 1:not to the right of d:Floor
 Green Book 1:not to the right of d:Bookshelf 2
 Bookshelf 2:not to the left of d:Green Book 1
+
+Yellow Book 1:on:Bookshelf 1
+Yellow Book 1:not on:Bookshelf 2
+Red Book 1:on:Bookshelf 1
+Red Book 1:not on:Bookshelf 2
+Red Book 2:on:Bookshelf 2
+Red Book 2:not on:Bookshelf 1
+Green Book 1:on:Bookshelf 1
+Green Book 1:not on:Bookshelf 2
+Green Book 2:on:Bookshelf 2
+Green Book 2:not on:Bookshelf 1
+Picture 2:on:East Wall
+Picture 1:on:North Wall
+Picture 2:not on:Ceiling
+Picture 1:not on:Ceiling
+Ceiling Light 1:on:Ceiling
+Ceiling Light 2:on:Ceiling
+Ceiling Fan:on:Ceiling
+Ceiling Light 1:not on:West Wall
+Ceiling Light 2:not on:West Wall
+Ceiling Fan:not on:West Wall
+
+Yellow Book 1:near:Bookshelf 1
+Red Book 1:near:Bookshelf 1
+Green Book 1:near:Bookshelf 1
+Yellow Book 1:not near:Bookshelf 2
+Red Book 1:not near:Bookshelf 2
+Green Book 1:not near:Bookshelf 2
+Yellow Book 1:not next to:Bookshelf 2
+Red Book 1:not next to:Bookshelf 2
+Green Book 1:not next to:Bookshelf 2
+Yellow Book 2:not next to:Bookshelf 1
+Yellow Book 2:not next to:Bookshelf 2
+Blue Chair 2:near:Table
+Blue Chair 2:next to:Table
+Blue Chair 2:not near:Table
+Blue Chair 2:not next to:Table
+Blue Chair 1:not near:Blue Chair 2
+Blue Chair 1:not next to:Blue Chair 2
+Blue Chair 2:near:Picture 2
+Blue Chair 1:near:Bookshelf 1
+Blue Chair 1:next to:Bookshelf 1
+Blue Chair 1:not near:Bookshelf 2
+Blue Chair 1:not next to:Bookshelf 2
+Blue Chair 1:near:West Wall
+Blue Chair 1:next to:West Wall
+Blue Chair 1:not near:East Wall
+Blue Chair 1:not next to:East Wall
+Blue Chair 2:not near:West Wall
+Blue Chair 2:not next to:West Wall
+Blue Chair 2:near:East Wall
+Blue Chair 2:next to:East Wall
+Laptop:near:Blue Chair 2
+Laptop:not near:Blue Chair 2
+Laptop:not next to:Blue Chair 1
+Cardbox 2:near:Blue Chair 2
+Cardbox 2:next to:Blue Chair 2
+Cardbox 2:not near:Picture 1
+Cardbox 2:not next to:Picture 1
+Cardbox 1:not next to:Cardbox 2
+Cardbox 2:near:Table
+Cardbox 2:next to:Table
+Cardbox 1:not near:Table
+Cardbox 1:not next to:Table
+
+
+

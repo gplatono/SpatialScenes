@@ -1,5 +1,9 @@
 TV 2:on:Desk 2
 TV 2:near:East Wall
+TV 2:not near:West Wall
+TV 2:near:Desk 2
+TV 2:near:Laptop 2
+Laptop 2:next to:TV 2
 Banana 2:on:Desk 2
 Banana 1:in:Bowl
 Laptop 2:on:Desk 2
@@ -9,6 +13,7 @@ Desk 2:on:Floor
 Blue Chair 1:near:Bookshelf 1
 Red Chair 1:beside:Bookshelf 3
 Red chair 1:near:West Wall
+Red chair 1:not near:East Wall
 Red Chair 2:between:Desk 1:Desk 2
 Blue Chair 2:in front of:Desk 1
 Red Book 3:below:Desk 1
@@ -81,3 +86,33 @@ bookshelf 3:not touching:ceiling fan
 blue chair 1:not touching:red chair 2
 red chair 2:not touching:desk 2
 desk 1:not touching:desk 2
+Bookshelf 2:near:bookshelf 3
+Red Chair 2:near:desk 2
+Blue Chair 1:near:desk 2
+Red Chair 2:not near:Red Chair 1
+Blue Chair 1:not near:Red Chair 1
+Red Chair 1:not near:desk 2
+Red Chair 1:near:desk 1
+Blue Chair 1:near:Desk 1
+Blue Chair 2:near:Desk 1
+Desk 2:near:Desk 1
+desk 2:not near:Bookshelf 2
+desk 2:not near:Bookshelf 3
+Note 3:not near:Bookshelf 1
+Note 3:not near:Bookshelf 2
+Note 3:not near:Bookshelf 3
+Note 3:near:desk 1
+Note 3:near:desk 2
+Note 3:near:Blue Chair 2
+Note 3:near:Red Chair 2
+Pencil 2:not near:Banana 2
+Pencil 2:near:Banana 1
+Laptop 1:near:Red Book 1
+Laptop 1:near:Yellow Book 2
+Laptop 1:not near:Red Book 2
+Laptop 1:not near:Yellow Book 1
+Pencil Holder:near:Red Book 1
+Pencil Holder:near:Yellow Book 2
+Pencil Holder:not near:Green Book 1
+Pencil Holder:not near:Yellow Book 1
+

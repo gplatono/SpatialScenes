@@ -1,8 +1,8 @@
-Fridge:between:Bookshelf 1: Bookshelf 2
+Fridge:between:Bookshelf 1:Bookshelf 2
 Fridge:near:North Wall
-table 1:between:Blue Chair 1: Blue Chair 2
+table 1:between:Blue Chair 1:Blue Chair 2
 table 1:below:Ceiling Fan
-Ceiling Fan:between:Ceiling Light 1: Ceiling Light 2
+Ceiling Fan:between:Ceiling Light 1:Ceiling Light 2
 Sofa:near:West Wall
 Bookshelf 1:near:North Wall
 Bookshelf 1:near:West Wall
@@ -62,4 +62,24 @@ sofa:not touching:tv
 tv:not touching:banana
 laptop:not touching:banana
 banana:not touching:green book
+Red Book:not near:Sofa
+Green Book:not near:Sofa
+Red Book:not near:Sofa
+Banana:not near:Sofa
+Laptop:not near:Sofa
+TV:not near:Sofa
+laptop:near:TV
+laptop:next to:TV
+Trash Can:not near:Sofa
+Red Book:not near:Coffee table
+Green Book:not near:Coffee table
+Banana:not near:Coffee table
+Vase:not near:Bookshelf 1
+Vase:not near:Bookshelf 2
+Vase:not near:North Wall
+Vase:not near:East Wall
+Trash can:near:Red Chair 2
+Trash can:not near:Yellow Book
+Yellow Book:not near:Trash Can
+
 

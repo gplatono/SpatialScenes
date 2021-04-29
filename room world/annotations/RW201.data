@@ -28,6 +28,7 @@ Cat:below:TV
 TV:above:cat
 Cat:next to:Small Tree 1
 Cat:near:Small Tree 1
+Cat:not near:Small Tree 2
 Cat:to the right of:Small Tree 1
 Small Tree 1:to the left of:Cat
 Banana:touching:apple 1
@@ -81,5 +82,32 @@ Cat:behind:sofa
 Small Tree 2:behind:bookshelf
 Coffee Table:to the left of:desk
 desk:to the left of:Bookshelf
+Sofa:not near:Bookshelf
+Sofa:not near:Chair
+Chair:not near:Sofa
+Sofa:not near:East Wall
+West wall:not near:bookshelf
+Small Tree 1:not near:Small Tree 2
+Fridge:near:Small Tree 2
+Fridge:not near:Small Tree 1
+Fridge:near:North Wall
+Fridge:near:cardbox 1
+Fridge:near:cardbox 2
+Banana:not near:bookshelf
+Apple 1:not near:bookshelf
+Apple 2:not near:bookshelf
+Apple 1:near:Banana
+Apple 2:near:Banana
+Banana:near:Sofa
+Apple 1:near:Sofa
+Apple 2:near:Sofa
+Apple 1:not near:North Wall
+Apple 2:not near:North Wall
+
+
+
+
+
+
 
 

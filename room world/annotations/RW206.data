@@ -254,3 +254,47 @@ banana 1:not touching:banana 2
 banana 1:not touching:pencil 1
 banana 1:not touching:pencil 2
 banana 1:not touching:note 1
+Bookshelf 1:not near:West Wall
+Bookshelf 1:not near:North Wall
+Bookshelf 1:near:East Wall
+Bookshelf 2:not near:East Wall
+Bookshelf 2:not near:North Wall
+Bookshelf 2:near:West Wall
+Bookshelf 1:not near:Bookshelf 2
+Bookshelf 1:not next to:Bookshelf 2
+Bookshelf 1:not next to:West Wall
+Bookshelf 1:not next to:North Wall
+Bookshelf 1:next to:East Wall
+Bookshelf 2:not next to:East Wall
+Bookshelf 2:not next to:North Wall
+Bookshelf 2:next to:West Wall
+Desk 2:next to:Bookshelf 1
+Desk 2:near:Bookshelf 1
+Desk 1:next to:Bookshelf 2
+Desk 1:near:Bookshelf 2
+Laptop 2:near:Bookshelf 1
+Laptop 1:near:Bookshelf 2
+Red Book 1:near:Bookshelf 2
+Yellow Book 2:near:Bookshelf 2
+Red Book 1:not near:Bookshelf 1
+Yellow Book 2:not near:Bookshelf 1
+Pencil 2:near:Note 1
+Pencil 2:next to:Note 1
+Pencil 2:near:Note 2
+Pencil 2:next to:Note 2
+Pencil 1:near:Note 2
+Pencil 1:next to:Note 2
+Pencil 1:not near:Note 1
+Pencil 1:not next to:Note 1
+Pencil 1:next to:Bowl
+bed1:next to:Desk 1
+bed2:next to:Desk 2
+bed1:next to:Sofa
+bed2:next to:Sofa
+bed1:not next to:bed2
+bed1:not near:bed2
+Blue Chair 1:not near:bed1
+Blue Chair 1:not near:bed2
+Blue Chair 1:not next to:bed1
+Blue Chair 1:not next to:bed2
+
